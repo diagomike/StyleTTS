@@ -1,359 +1,359 @@
-LJSpeech/01_d501021.wav|jə.ʔi.nɨ.tə.rɨ.ne.tɨ ʔə.ɡə.lɨ.ɡɨ.lo.tɨ.nɨ.mɨ bə.tə.mə.lə.kə.tə bə.kɨ.lɨ.lo.t͡ʃɨ bə.zo.no.t͡ʃɨ.na bə.ʔə.di.sɨ ʔə.bə.ba bə.tə.lə.ja.ju bo.ta.wo.t͡ʃɨ jə.ʔə.ɡə.lɨ.ɡɨ.lo.tɨ ma.ʔɨ.kə.lo.t͡ʃɨ.nɨ lə.ma.kʼwa.kʼwa.mɨ mə.ta.kʼə.du.nɨ ʔə.bɨ.ra.rɨ.tə.wa.lɨ|01
-LJSpeech/01_d501022.wav|bə.zi.hɨ.mɨ ʔə.nə.sɨ.tə.ɲa mə.sɨ.no.wo.t͡ʃɨ.nɨ bə.ma.sɨ.fa.fa.tɨ ʔə.ɡə.ri.tu.nɨ bə.tə.də.ɡa.ɡa.mi kə.mi.ja.tʼə.kʼa.tɨ dɨ.rɨ.kʼɨ.na jə.mɨ.ɡɨ.bɨ ʔɨ.hɨ.lɨ ʔɨ.tʼɨ.rə.tɨ lə.ma.kʼa.lə.lɨ ʔɨ.nɨ.də.mi.t͡ʃa.lɨ tʼə.kʼu.mə.wa.lɨ|01
-LJSpeech/01_d501023.wav|jɨ.hɨ ʔɨ.nɨ.da.jɨ.ho.nɨ bə.hɨ.jɨ.wə.ta.t͡ʃə.wɨ mə.sɨ.wa.ʔɨ.tɨ.nə.tɨ ja.sɨ.ɡə.ɲu.tɨ.nɨ jə.ʔi.tɨ.jo.pʼɨ.ja.wi.nə.tɨ kɨ.bɨ.rɨ ʔə.nɨ.ɡɨ.bə.nɨ lə.kʼɨ.dɨ.sɨ.tɨ ha.ɡə.ra.t͡ʃɨ.nɨ ʔə.nɨ.dɨ.nə.tɨ.na lu.ʔə.la.wi.nə.tɨ sə.la.mɨ.na bɨ.lɨ.sʼɨ.ɡɨ.na bə.hɨ.bɨ.rə.tɨ ʔɨ.nɨ.kʼu.mɨ|01
-LJSpeech/01_d501024.wav|jə.mə.d͡ʒə.mə.ri.ja.wɨ nə.tʼɨ.bɨ bə.tə.kʼa.wa.mi ha.jɨ.lo.t͡ʃɨ sə.fə.rɨ bə.ɡa.ra ʔə.kʼwa.mɨ la.jɨ bə.ɡa.ra lə.ma.kʼo.mɨ ja.jə.nə.wɨ sʼɨ.na.tɨ ʔə.nə.sɨ.tə.ɲa mə.ho.nu nə.wɨ|01
-LJSpeech/01_d501025.wav|ʔə.kʼɨ.mɨ bə.mi.fə.kʼɨ.də.wɨ mə.sə.rə.tɨ ʔə.sɨ.kʼə.dɨ.mo mə.zə.ɡa.d͡ʒə.tɨ sɨ.lə.mi.fə.lɨ.ɡu jə.mi.ja.tʼə.ra.tʼɨ.rɨ ʔə.jɨ.ho.nɨ.mɨ sɨ.tɨ.lɨ jə.ʔə.me.ri.ka dɨ.mɨ.sʼɨ ze.na zə.ɡa.bi ɡə.lɨ.sʼa.lə.t͡ʃɨ|01
-LJSpeech/01_d501026.wav|kə.lə kʼə.sɨ.tə.ɲo.t͡ʃu mə.ka.kə.lɨ ʔə.bɨ.za.ɲa.wo.t͡ʃu sʼə.ha.ju za.re tə.ɡə.lə.tʼə ha.jɨ.lə.sɨ.la.se ma.ru.nɨ ʔə.lə.ma.t͡ʃɨ.nɨ ʔə.ba.ta.t͡ʃɨ.nɨ jə.ʔə.fɨ.ri.ka ʔə.ba.tɨ jə.ʔə.lə.mɨ ʔə.ba.tɨ bə.ma.lə.tɨ nə.bə.rɨ ha.zə.na.t͡ʃə.wɨ.nɨ jə.mi.ɡə.lɨ.sʼu|01
-LJSpeech/01_d501027.wav|kə.zi.hɨ ɡa.rɨ lə.sə.bɨ.ʔə.wi ʔə.ɡə.lɨ.ɡɨ.lo.tɨ mə.sə.lə.fwa.mɨ wɨ.tʼe.ta.ma mə.ho.nwa.mɨ ʔə.dɨ.na.kʼo.tɨ.nɨ ʔə.tɨ.rɨ.fo.la.ta.lɨ|01
-LJSpeech/01_d501028.wav|jə.ko.mi.ʃɨ.nu wɨ.sa.ne.na jə.be.tə kɨ.hɨ.nə.tu tə.kʼa.wɨ.mo|01
-LJSpeech/01_d501029.wav|jɨ.hɨ.nɨ.nɨ.mɨ ba.dɨ.mə.nɨ.na ʃɨ.ra.ro.nɨ bə.mə.wɨ.rə.rɨ ʔɨ.wɨ.nɨ ʔə.rɨ.ɡwa.lɨ|01
-LJSpeech/01_d501030.wav|ɡa.ze.tʼə.ɲo.t͡ʃɨ.nɨ mə.lə.ja.jə.ta.t͡ʃə.wɨ bɨ.zu.wo.t͡ʃɨ.nɨ ʔə.sa.zɨ.nwa.lɨ|01
-LJSpeech/01_d501031.wav|ba.lə.fə.wɨ sə.ɲo ʔɨ.lə.tɨ də.ɡɨ.mo bə.te.le.vɨ.ʒɨ.nɨ le.la ʃɨ.lɨ.ma.tɨ si.ʃə.lə.mɨ tə.mə.lɨ.kə.tɨ.ku|01
-LJSpeech/01_d501032.wav|ʔə.tʼə.kʼa.la.jɨ wə.t͡ʃʼi.wɨ ʔə.sɨ.ra sɨ.mɨ.nɨ.tɨ ʃi do.la.rɨ ʔɨ.nɨ.də.ho.nə lə.ma.wə.kʼɨ tə.t͡ʃɨ.lwa.lɨ|01
-LJSpeech/01_d501033.wav|le.lo.t͡ʃu bə.mu.lu tʼe.nə.ɲo.t͡ʃɨ na.t͡ʃə.wɨ|01
-LJSpeech/01_d501034.wav|mə.lə.sɨ.na ʔi.sa.ja.sɨ ʔɨ.rɨ.sɨ bə.ʔɨ.rɨ.sɨ lə.mə.ɡə.lə.ba.bə.tʼɨ ʔɨ.jə.mo.kə.ru nə.wɨ|01
-LJSpeech/01_d501035.wav|jə.ʔə.jə.rɨ ha.jɨ.la.t͡ʃɨ.nɨ ʔə.wɨ.ro.pɨ.la.no.t͡ʃɨ.mɨ ɡɨ.da.d͡ʒa.t͡ʃə.wɨ.nɨ bə.tə.ɡə.bi.wɨ fə.sʼɨ.mə.wɨ bə.sə.la.mɨ tə.mə.lɨ.sə.wa.lɨ si.lɨ jə.mə.nɨ.ɡɨ.sɨ.tɨ kʼa.lɨ ʔə.kʼə.ba.jɨ sʼɨ.fə.tɨ be.tɨ mə.ɡɨ.lə.t͡ʃʼa ʔə.sɨ.ta.wɨ.kʼwa.lɨ|01
-LJSpeech/01_d501036.wav|kə.mwa.t͡ʃo.t͡ʃu ɡa.rɨ jə.nə.bə.ru hu.lə.tɨ ta.tʼa.kʼi.wo.t͡ʃɨ bə.sə.la.mɨ ʔɨ.d͡ʒa.t͡ʃə.wɨ.nɨ mə.sɨ.tʼə.ta.t͡ʃə.wɨ.nɨ.mɨ jə.po.li.sɨ mə.ɡɨ.lə.t͡ʃʼa.wɨ ʔə.kɨ.lo ɡə.lɨ.sʼwa.lɨ|01
-LJSpeech/01_d501037.wav|t͡ʃɨ.ɡɨ.ro.t͡ʃu.nɨ də.ɡɨ.mo ma.sɨ.wə.ɡə.dɨ nə.bə.rə ba.t͡ʃə.wɨ|01
-LJSpeech/01_d501038.wav|ʔə.ɡa.fa.ri.wo.t͡ʃa.t͡ʃə.wɨ ba.ʔə.da.nu.mɨ ʔə.kʼwa.ma.t͡ʃə.wɨ lə.nə.rɨ.su ha.rɨ.to.na mu.bu.to kə.sə.tʼu.tɨ dɨ.ɡa.fɨ ʔə.jɨ.lə.jɨ.mɨ|01
-LJSpeech/02_d502021.wav|jɨ.he.ne mə.lə.sɨ nə.kʼa ʔə.lə|02
-LJSpeech/02_d502022.wav|bə.zi.hɨ kɨ.lɨ.lɨ lə.bə.rɨ.ka.ta ze.ɡwə.t͡ʃɨ.mɨ jə.sɨ.ra ʔɨ.dɨ.lɨ jɨ.fə.tʼɨ.ra.lɨ jə.mi.lu si.no.ru bə.tə.lə.jɨ lə.so.ma.li.ja.wɨ.ja.nɨ ʔɨ.dɨ.lu sə.fi ʔɨ.nɨ.də.ho.nə tə.tʼə.kʼɨ.swa.lɨ|02
-LJSpeech/02_d502023.wav|dɨ.fɨ.rə.tɨ ba.jɨ.ho.nɨ bɨ.ɲɨ sɨ.hɨ.tə.tɨ nə.wɨ|02
-LJSpeech/02_d502024.wav|bə.ha.ɡə.ra.t͡ʃɨ.nɨ jə.kʼɨ.rɨ.bɨ zə.mə.nɨ ta.ri.kɨ wɨ.sɨ.tʼɨ ʔə.ra.tɨ ʔə.di.sɨ mɨ.ʔɨ.ra.fɨ kə.fa.t͡ʃɨ hu.nə.to.t͡ʃɨ mə.tʼɨ.kʼə.sɨ jɨ.t͡ʃa.la.lɨ|02
-LJSpeech/02_d502025.wav|jə.bi.ra.wɨ ʔi.nɨ.du.sɨ.tɨ.ri ɡɨ.nɨ jə.ta.kɨ.sɨ kʼɨ.nə.sa bi.də.rə.ɡɨ.lə.tɨ.mɨ mɨ.nɨ.mɨ ʔə.jɨ.nə.tɨ jə.wa.ɡa lə.wɨ.tʼɨ lə.də.nɨ.bə.ɲo.t͡ʃu ʔə.la.də.rə.ɡə.mɨ|02
-LJSpeech/02_d502026.wav|hɨ.wə.ha.tɨ ʔi.hɨ.ʔə.de.ɡɨ ta.dɨ.ʃa.lə.hu kə.ma.lə.tu.na kʼə.wɨ.su kə.mə.fə.tʼə.ru bə.fi.tɨ po.li.sɨ bə.fɨ.tɨ.hɨ mi.ni.sɨ.te.rɨ sɨ.rɨ ʔɨ.nɨ.də nə.bə.rɨ si.ta.wə.kʼɨ fɨ.tɨ.hɨ mi.ni.sɨ.tɨ.ru.mɨ jə.hɨ.wə.ha.tɨ sə.wɨ ʔɨ.nɨ.da.lɨ.nə.bə.ru jɨ.ta.wɨ.sa.lɨ|02
-LJSpeech/02_d502027.wav|ʔə.hu.nɨ lə.mɨ.nɨ dɨ.mɨ.sʼa.t͡ʃə.wɨ tʼə.fa hu.lə.tu ʔə.ɡə.ro.t͡ʃɨ bə.d͡ʒə.mə.ru.tɨ tʼo.rɨ.nə.tɨ jə.bə.lə.tʼə jə.sə.ɡa.wɨ jə.ʔə.me.ri.ka mə.nɨ.ɡɨ.sɨ.tɨ nə.wɨ|02
-LJSpeech/02_d502028.wav|hu.se.nɨ ʔə.jɨ.di.dɨ bə.ʔə.li.tɨ.ha.dɨ la.jɨ ʔə.kʼwa.mɨ wə.sə.du sɨ.mɨ.mɨ.nə.tɨ.mɨ ʔə.də.rə.ɡu|02
-LJSpeech/02_d502029.wav|bə.zi.hɨ ʔɨ.nɨ.də.tə.sɨ.ma.mu lə.ma.nɨ tɨ.sə.tʼɨ lə.ma.nɨ si.ba.lɨ lə.zi.hɨ.ma ka.sa ʔə.lə ʔə.jɨ.də.lɨ ʔə.nɨ.de jə.ko.so ʃa.t͡ʃʼɨ lɨ.d͡ʒɨ jə.mi.lɨ ha.sa.bɨ tə.sə.ma|02
-LJSpeech/02_d502030.wav|ro.na.lɨ.do mə.na.ɡə.rɨ jə.fə.lə.ɡə.wɨ ɡɨ.nɨ hɨ.mə.mu mu.lu lə.mu.lu lə.mə.da.nɨ ɡi.ze jə.mi.fə.lɨ.ɡɨ ɡɨ.nɨ jə.mi.dɨ.nɨ lə.ma.lə.tɨ nə.bə.rɨ|02
-LJSpeech/02_d502031.wav|bə.ʔə.sɨ.tə.ja.jə.tu tɨ.sɨ.ma.ma.lə.hɨ tə.bɨ.lo si.tʼə.jə.kʼɨ ʔə.sə.lɨ.tʼa.ɲɨ ha.ɡwə.sɨ jɨ.hɨ ʔə.jɨ.nə.tɨ ʔə.ɡa.tʼa.mi bə.mə.la.wɨ ʔə.lə.mɨ la.jɨ si.kə.sə.tɨ tə.sɨ.tə.wɨ.lwa.lɨ bə.ma.lə.tɨ mə.lɨ.swa.lɨ|02
-LJSpeech/02_d502032.wav|ʔə.ne.lɨ.ka kə.ʃi ma.jɨ.kɨ.lɨ ɡa.rɨ bə.tə.də.ɡa.ɡa.mi tə.ɡə.na.ɲɨ.to ja.ba.kə.na.t͡ʃə.wɨ kwa.so.t͡ʃɨ jə.mi.ja.sɨ.kʼo.t͡ʃʼu na.t͡ʃə.wɨ|02
-LJSpeech/02_d502033.wav|bə.d͡ʒə.rɨ.mə.nɨ jə.mi.ɡə.ɲu wə.tʼa.to.t͡ʃɨ.mɨ lə.bɨ.he.ra.wi bu.dɨ.nɨ ʔɨ.dɨ.lɨ sɨ.lə.ma.jɨ.sə.tʼa.t͡ʃə.wɨ ze.ɡɨ.nə.ta.t͡ʃə.wɨ.nɨ ʔɨ.jə.lə.wə.tʼu jɨ.ɡə.ɲa.lu|02
-LJSpeech/02_d502034.wav|ʔə.to ʔə.lə.ma.jə.hu zə.ɡə.jə bə.sʼə.rə mu.sɨ.na ko.mi.ʃɨ.nɨ kɨ.sɨ la.jɨ mə.ka.tə.ta.t͡ʃə.wɨ.nɨ kə.ɡa.ze.tʼo.t͡ʃɨ la.jɨ kə.ma.nɨ.bə.ba.t͡ʃə.wɨ wɨ.t͡ʃʼɨ jə.fɨ.rɨ.dɨ be.tɨ mə.tʼɨ.ri.ja ʔɨ.nɨ.da.lɨ.də.rə.sa.t͡ʃɨ.wɨ mə.na.ɡə.ra.t͡ʃə.wɨ.mɨ tə.tʼə.kʼu.mwa.lɨ|02
-LJSpeech/02_d502035.wav|kə.ʔi.tɨ.jo.pʼɨ.ja ɡa.rɨ bɨ.nɨ.kʼə.la.kʼə.lɨ bɨ.zu jə.mi.lə.wə.tʼɨ nə.ɡə.rɨ jə.lə.mɨ|02
-LJSpeech/02_d502036.wav|jə.ʔə.nɨ.ɡɨ.lo ʔi.tɨ.jo.pʼɨ.ja.nɨ ma.hɨ.bə.rɨ ʔe.rɨ.tɨ.ra sə.ra.wi.twa.nɨ ʔɨ.nɨ.dɨ.ta.sɨ.wə.tʼa tʼə.jə.kʼə|02
-LJSpeech/02_d502037.wav|ʔɨ.ne ra.se jə.tɨ bo.ta ho.ɲe sɨ.ra.je.nɨ ʔɨ.nɨ.də.mɨ.sə.ra ʔə.la.wɨ.kʼɨ.mɨ ma.lə.ta.t͡ʃə.wɨ.nɨ kə.bi.bi.si bə.mi.tə.la.lə.fə.wɨ fo.kə.sɨ ʔo.nɨ ʔə.fɨ.ri.ka pɨ.ro.ɡɨ.ra.mɨ la.jɨ ʔə.sɨ.də.mɨ.tʼwa.lɨ|02
-LJSpeech/02_d502038.wav|jə.ha.ɡə.rɨ ʔə.sɨ.tə.da.də.rɨ mi.ni.sɨ.tɨ.ru lɨ.ju rə.da.tɨ bə.mə.ho.nɨ ka.ɡə.lə.ɡə.lu bə.hwa.la bə.te.hɨ.ra.nɨ.na bə.te.lɨ.ʔə.vi.vɨ jə.d͡ʒə.rɨ.mə.nɨ ʔe.mɨ.ba.si.wo.t͡ʃɨ wɨ.sɨ.tʼɨ tə.mə.dɨ.bə.wɨ ʔə.ɡə.lɨ.ɡɨ.lə.wa.lɨ|02
-LJSpeech/03_d503021.wav|bə.ʔə.to mə.lə.sɨ jə.tə.tʼə.ra.wɨ jɨ.hɨ jə.tʼo.rɨ.d͡ʒe.ne.ra.lo.t͡ʃɨ sɨ.bɨ.sə.ba ʔə.hu.nɨ.mɨ ʔɨ.nɨ.də.kʼə.tʼə.lə nə.wɨ tə.bɨ.lwa.lɨ|03
-LJSpeech/03_d503022.wav|ba.li.do.ɡɨ.le jə.ʔi.tɨ.jo.pʼɨ.ja tʼo.rɨ tə.kʼo.tʼa.tʼɨ.ro.ta.lɨ jə.tə.ba.lə.wɨ jə.ʔə.jɨ.ro.pɨ.la.nɨ ma.rə.fi.ja jə.mi.ɡə.ɲɨ.bə.tɨ kə.tə.ma nə.wɨ|03
-LJSpeech/03_d503023.wav|ʃa.ʔɨ.bi.ja ʔə.kə.ʃə.fɨ.kwa.t͡ʃə.wɨ jə.mi.la.t͡ʃə.wɨ sɨ.mɨ.nɨ.tu jə.də.rɨ.ɡɨ jə.zə.mə.t͡ʃa zu.ro.t͡ʃɨ mə.na ho.nə.wɨ jə.kʼə.ru.tɨ bə.wə.ja.ne tə.wa.ɡi.wo.t͡ʃɨ mə.sɨ.wa.ʔɨ.tɨ.nə.tɨ ʔɨ.nɨ.də.ho.nə jɨ.nə.ɡə.ra.lɨ|03
-LJSpeech/03_d503024.wav|bə.ʔe.rɨ.tɨ.ra bə.ku.lɨ bə.tə.mə.sa.sa.jɨ mə.lɨ.ku jə.tə.wə.sə.nu ʔə.la.ma.wo.t͡ʃɨ mə.nə.də.fa.t͡ʃə.wɨ.nɨ ʔɨ.mu.nɨ nə.wɨ|03
-LJSpeech/03_d503025.wav|jə.ʔə.lɨ.bə.ʃɨ.rɨ mə.nɨ.ɡɨ.sɨ.tɨ kə.zi.hɨ bə.hwa.la jə.ʔe.rɨ.tɨ.ra lu.ʔə.la.wi.nə.tɨ jə.mi.sʼa.rə.rɨ.na jə.ba.lə sɨ.lɨ.tʼa.na.tu.nɨ sɨ.bɨ.ʔɨ.na kə.mi.nə.ka tə.ɡɨ.ba.rɨ mə.kʼo.tʼə.bɨ ʔɨ.nɨ.də.mi.no.rɨ.bə.tɨ ɡə.lɨ.sʼə.wa.lɨ|03
-LJSpeech/03_d503026.wav|jɨ.hɨ sə.wɨ wɨ.ha lɨ.ma.tɨ ʔə.ka.ba.bi bə.mi.ɡə.ɲə.wɨ mə.no.ri.ja be.tu jə.ta.ʃə.ɡə.bə.tɨ si.ho.nɨ ʔɨ.rɨ.su.mɨ jə.də.rə.sə.bə.tɨ ʔə.jɨ.ta.wə.kʼɨ|03
-LJSpeech/03_d503027.wav|ʔɨ.ɲa.mɨ wə.sɨ.fa.tɨ jɨ.ho.na.lɨ ʔɨ.ja.lɨ.nɨ bə.hwa.la bə.hwa.la nə.wɨ jɨ.hɨ jə.wə.tʼa.lə.tɨ|03
-LJSpeech/03_d503028.wav|kə.kʼu.lɨ.bi wə.də ha.rə.rɨ tə.wə.sɨ.də.wɨ mə.ta.sə.ra.t͡ʃə.wɨ kə.mə.ta.wə.kʼu bə.sɨ.tə.kʼə.rɨ jɨ.hɨ ze.na ʔɨ.sɨ.kə tə.tʼə.na.kə.rə.bə.tɨ ɡi.ze dɨ.rə.sɨ mɨ.nɨ.mɨ ʔə.jɨ.nə.tɨ lə.wɨ.tʼɨ ʔə.lə.mə.no.ru.nɨ wɨ.sɨ.tʼɨ ʔə.wa.kʼi.wo.t͡ʃu ɡə.lɨ.sʼə.wa.lɨ|03
-LJSpeech/03_d503029.wav|bə.mə.ho.nu.mɨ le.lo.t͡ʃɨ kɨ.lɨ.lo.t͡ʃɨ.mɨ kə.zi.hɨ bə.mə.ma.rɨ ze.ɡwə.t͡ʃa.t͡ʃə.wɨ.nɨ kə.ʔə.də.ɡə.ɲa ʔɨ.sʼo.t͡ʃɨ lə.mə.kə.la.kə.lɨ bə.jə.bə.ku.la.t͡ʃə.wɨ hɨ.ɡɨ.na də.nɨ.bɨ li.ja.zə.ɡa.d͡ʒu ʔɨ.nɨ.də.mi.ɡə.ba mə.ɡɨ.fa.tɨ.na mə.ɡə.fa.fa.tɨ tə.ɡə.bi jɨ.mə.sɨ.la.lɨ|03
-LJSpeech/03_d503030.wav|sɨ.lə.zi.hɨ ʔə.sə.lɨ.tʼa.ɲu ra.sa.t͡ʃə.wɨ.nɨ bɨ.t͡ʃa ʔɨ.ja.da.mə.tʼu kə.fɨ.la.ɡwə.ta.t͡ʃə.wɨ ʔə.lɨ.nə.kʼa.nə.kʼɨ bɨ.lə.wa.lɨ bə.ma.lə.tɨ ʔə.rɨ.se.na.lɨ kə.t͡ʃa.mɨ.pi.jə.nɨ.sɨ li.ɡɨ kə.wə.tʼa bə.hwa.la jə.ʔɨ.nɨ.ɡɨ.li.zɨ jə.sɨ.po.rɨ.tɨ ɡa.ze.tʼə.ɲo.t͡ʃɨ ʔɨ.jə.sʼa.fu nə.wɨ|03
-LJSpeech/03_d503031.wav|ʔə.hu.nɨ.mɨ bə.jə.kɨ.lɨ.lu ʔɨ.jə.tə.zə.wa.wə.ru pɨ.ro.d͡ʒə.kɨ.tu.nɨ ʔɨ.jə.ɡə.mə.ɡə.mu na.t͡ʃə.wɨ|03
-LJSpeech/03_d503032.wav|mə.bɨ.ra.tɨ ha.jɨ.lɨ bə.wɨ.sa.ne.wɨ tə.tʼə.kʼa.mi sa.jɨ.ho.nɨ ʔɨ.nɨ.də.ma.jɨ.kʼə.rɨ kə.ze.na mɨ.nɨ.t͡ʃʼo.t͡ʃa.t͡ʃɨ.nɨ lə.mə.rə.da.tɨ t͡ʃɨ.lə.na.lɨ|03
-LJSpeech/03_d503033.wav|bə.ʔə.wɨ.ro.pa mə.dɨ.rə.kɨ la.jɨ bə.tʼɨ.lo ma.lə.fɨ wa.nɨ.t͡ʃʼa.wɨ la.jɨ lə.ru.bɨ fɨ.sʼa.me ma.lə.fu.nɨ ʔə.rə.ɡa.ɡɨ.tʼwa.lɨ|03
-LJSpeech/03_d503034.wav|bə.la.jɨ.ɲa.wɨ bə.rɨ he.dɨ.nɨ sɨ.nɨ.tʼə.jɨ.kʼɨ mɨ.nɨ.mɨ ʔə.na.wɨ.kʼɨ.mɨ hi.du kə.zi.hɨ bɨ.lə.wɨ.na.lɨ|03
-LJSpeech/03_d503035.wav|ba.lə.fə.wɨ kʼɨ.da.me pɨ.re.zɨ.da.nɨ.tɨ ʔi.sa.ja.sɨ bə.tə.ɡə.ɲu.bə.tɨ jə.tə.ma.rə.kə.wɨ.nɨ ʔə.bɨ.ra.ri ʔe.rɨ.tɨ.ra lə.hɨ.zɨ.bwa bə.ma.sa.jə.tɨ hɨ.zɨ.bɨ lə.ma.sɨ.də.sə.tɨ mu.kə.ra ma.dɨ.rə.ɡwa.nɨ jə.tə.lə.ja.ju jə.ze.na mɨ.nɨ.t͡ʃʼo.t͡ʃɨ ʔə.sa.wɨ.kʼə.wa.lɨ|03
-LJSpeech/03_d503036.wav|ʃə.mɨ.ɡa.jɨ bu.dɨ.nu ʔɨ.nɨ.də.mi.sə.bə.sə.bɨ ja.sɨ.ta.wə.kʼu.tɨ jə.wə.kʼɨ.tu jə.ʔə.fɨ.ri.ka ʔə.nɨ.dɨ.nə.tɨ dɨ.rɨ.d͡ʒɨ.tɨ li.kʼə.mə.nɨ.bə.rɨ.na jə.bu.rɨ.ki.na.fa.so pɨ.re.zɨ.da.nɨ.tɨ jə.ho.nu.tɨ bɨ.le.zɨ ka.mɨ.pa ʔo.re na.t͡ʃə.wɨ|03
-LJSpeech/03_d503037.wav|fa.na di.mo.kɨ.ra.si jə.tə.sə.ɲə.wɨ.na jə.ʔɨ.fo.jɨ.ta ɡa.ze.tʼa.na mə.sʼɨ.he.tɨ ʔə.sa.ta.mi dɨ.rɨ.d͡ʒɨ.tɨ bə.jɨ.fa tə.zə.ɡɨ.to sə.ra.tə.ɲo.t͡ʃɨ mə.bə.tə.na.t͡ʃə.wɨ ta.wə.kʼə|03
-LJSpeech/03_d503038.wav|lə.ɡɨ.nɨ.za.be ja.hɨ.lɨ ʔə.nɨ.dɨ he.kɨ.ta.rɨ mə.to me.tɨ.rɨ bə.mə.to me.tɨ.rɨ wə.jɨ.nɨ.mɨ ʔə.nɨ.dɨ jə.kwa.sɨ mə.t͡ʃʼa.wə.t͡ʃa me.da ja.hɨ.la.lɨ|03
-LJSpeech/04_d504021.wav|bə.ɡu.ba.ʔe.wɨ la.jɨ jə.nə.bə.ru.tɨ jə.ʔi.nə.ɡa.ma pɨ.re.zi.da.nɨ.tɨ ʔə.to kɨ.fɨ.le mu.la.tɨ ɡɨ.nɨ sʼɨ.dɨ.kʼu kʼə.rɨ.to bə.wə.ɡu bə.ko.nə.nə.ɲɨ nə.wɨ ja.lu.tɨ|04
-LJSpeech/04_d504022.wav|jə.ke.nɨ.ja.wɨ pɨ.re.zɨ.da.nɨ.tɨ kə.ʔi.tɨ.jo.pʼɨ.ja ba.lə.sɨ.lɨ.tʼa.na.tɨ ɡa.rɨ bə.ke.nɨ.ja.na bə.ʔi.tɨ.jo.pʼɨ.ja dɨ.nɨ.bə.rɨ mo.ja.le ʔə.ka.ba.bi bə.tə.nə.sa.wɨ ɡɨ.t͡ʃʼɨ.tɨ ʔɨ.nɨ.də mə.kə.ru di.pɨ.lo.ma.ti.kɨ mɨ.nɨ.t͡ʃʼo.t͡ʃɨ tʼə.kʼu.mə.wa.lɨ|04
-LJSpeech/04_d504023.wav|nə.ɡə.rɨ ɡɨ.nɨ ʔə.nɨ.dɨ kʼə.nɨ ra.su.nɨ bə.t͡ʃa.lə hi.də.tɨ.na mə.lɨ.kɨ li.kə.na.wə.nɨ jə.mi.t͡ʃɨ.lɨ jə.ma.jɨ.kʼə.rɨ dɨ.rɨ.ɡi.tɨ nə.wɨ|04
-LJSpeech/04_d504024.wav|ʔi.tɨ.jo.pʼɨ.ja bə.ʔə.lə.mɨ kʼə.jɨ mə.sɨ.kʼə.lɨ fi.tɨ lə.fi.tɨ bə.ɡɨ.lɨ.sʼɨ lə.də.hɨ.nɨ.nə.twa jə.mi.ja.sə.ɡu ʔe.rɨ.tɨ.ra.wɨ.ja.nɨ.nɨ lə.ma.ba.rə.rɨ tə.ɡə.da.lə.t͡ʃɨ|04
-LJSpeech/04_d504025.wav|lɨ.ʔu.ku kə.ʔə.nɨ.dɨ wə.rɨ bə.hwa.la ʔə.di.sɨ ʔə.ba.na ʔə.sɨ.mə.ra jɨ.ɡə.ba.lɨ tə.bɨ.lo jɨ.tʼə.bə.kʼa.lɨ|04
-LJSpeech/04_d504026.wav|jə.mwa.t͡ʃɨ be.tə.sə.bo.t͡ʃɨ mə.rɨ.do.wɨ ʔɨ.sɨ.kə ʔə.hu.nɨ jə.tə.də.bə.kʼə.bɨ.nɨ ʔə.kʼɨ.mɨ jə.la.t͡ʃə.wɨ.mɨ mɨ.nɨ ja.də.rɨ.ɡa.lu kə.mi.lɨ nɨ.kʼə.tɨ jə.mə.nə.t͡ʃʼə ʔɨ.nɨ.də.ho.nə.mɨ bə.ma.ma.rə.rɨ jɨ.na.ɡə.ra.lu|04
-LJSpeech/04_d504027.wav|ʔə.hu.nɨ ɡi.ze.wɨ ʔə.jɨ.də.lə.mɨ ja.la.lə.ɲɨ sə.wɨ jə.lə.mɨ nə.bə.rɨ|04
-LJSpeech/04_d504028.wav|kə.zi.hɨ.mɨ le.la ho.sɨ.pi.ta.lu ʔə.mɨ.sɨ.tɨ pə.rɨ.sə.nɨ.tɨ jə.tə.ɡwə.da si.ho.nɨ mə.ɡə.lɨ.ɡə.ja mə.sa.ri.ja.wo.t͡ʃu bə.mu.lu kə.tʼɨ.kʼɨ.mɨ wɨ.t͡ʃʼi mə.ho.na.t͡ʃə.wɨ.nɨ jə.dɨ.rɨ.d͡ʒɨ.tu ha.la.fi kə.no.rɨ.we.jɨ lə.bi.bi.si ɡə.lɨ.tʼə.wa.lɨ|04
-LJSpeech/04_d504029.wav|tɨ.ku.rə.tɨ li.sə.tʼə.wɨ ʔɨ.nɨ.də.mi.ɡə.ba ʔɨ.jə.ɡə.lə.sʼɨ.nɨ ʔə.sɨ.fə.la.ɡi.wɨ mə.lɨ.ʔɨ.kɨ.tɨ bə.kʼə.tʼɨ.ta jə.mi.mə.lə.kə.ta.t͡ʃə.wɨ.nɨ hu.lu bə.mə.wə.ja.jə.tɨ tə.t͡ʃʼə.ma.ri mə.lɨ.ʔɨ.kɨ.tɨ lə.ma.sɨ.tə.la.lə.fɨ ʔɨ.nɨ.də.mɨ.nɨ.t͡ʃɨ.lɨ tə.sɨ.fa ʔɨ.na.də.ɡa.lə.nɨ|04
-LJSpeech/04_d504030.wav|ʔə.lə.bə.lə.zi.ja ɡɨ.nɨ kə.mə.ri.wo.t͡ʃu ʔɨ.jə.ra.kʼə nə.wɨ|04
-LJSpeech/04_d504031.wav|kɨ.lə.ba.t͡ʃɨ.nɨ jə.tə.mə.sə.rə.tə.wɨ bə.ʔə.nɨ.dɨ ʃi zə.tʼə.ɲɨ mə.to zə.tʼə.na nə.bə.rɨ|04
-LJSpeech/04_d504032.wav|ʔɨ.sɨ.ka.hu.nɨ ja.sɨ.mə.zə.ɡə.bə.wɨ wɨ.tʼe.tɨ.mɨ jə.mi.ja.bə.rə.ta.ta nə.wɨ|04
-LJSpeech/04_d504033.wav|jə.bɨ.ra.zi.lɨ ʃa.mɨ.pi.jo.na lɨ.kɨ ʔɨ.nɨ.də bə.fi.tu jə.ʔi.tɨ.jo.pʼɨ.ja ʃa.mɨ.pi.jo.na wɨ.dɨ.dɨ.rɨ ʔə.jɨ.nə.tɨ mə.nɨ.ɡə.dɨ nə.wɨ jə.mi.kə.tə.lə.wɨ|04
-LJSpeech/04_d504034.wav|bə.ɡɨ.lɨ tɨ.mɨ.hɨ.rɨ.tɨ tə.kʼwa.ma.tɨ jə.mi ja.sɨ.tə.mɨ.ru jə.ju.ni.və.rɨ.sɨ.ti mə.mɨ.hɨ.ra.nɨ mə.nɨ.ɡɨ.sɨ.tɨ də.mə.wə.zɨ kə.mi.kə.fɨ.la.t͡ʃə.wɨ sɨ.ra wɨ.t͡ʃʼi bə.le.la jə.tɨ.mɨ.hɨ.rɨ.tɨ tə.kʼwa.ma.tɨ ʔɨ.nɨ.da.ja.sɨ.tə.mɨ.ru jə.mi.ja.ɡɨ.dɨ ʔə.di.sɨ də.nɨ.bɨ ʔə.zə.ɡa.d͡ʒɨ.twa.lɨ|04
-LJSpeech/04_d504035.wav|jə.kʼə.rwa.tɨ.nɨ mə.nɨ.tɨ.ja lɨ.d͡ʒo.t͡ʃɨ bə.tɨ.ka.ze tə.mə.lə.kə.tə.t͡ʃa.t͡ʃə.wɨ ʔɨ.nə.su.nɨ.mɨ ʔɨ.nɨ.də.mɨ.tɨ.kʼə.bɨ.rɨ kə.ʔə.jɨ.nwa la.jɨ kə.mi.nə.bə.bə.wɨ tə.sɨ.fa mə.kʼu.rə.tʼɨ mə.rə.da.tɨ jɨ.t͡ʃa.la.lɨ|04
-LJSpeech/04_d504036.wav|le.la.wɨ jə.ɡɨ.mɨ.ɡə.ma.wɨ ʔɨ.rɨ.sə ɡu.da.jɨ ho.no jə.kʼə.rə.bə.wɨ ʔə.sə.ra.rɨ zə.lə.lɨ jə.mi.ba.lə.wɨ nə.wɨ|04
-LJSpeech/04_d504037.wav|ʔɨ.nɨ.di.ja.wɨ.mɨ kə.le.la.wɨ ʔə.lɨ.tə.ma.rə.mɨ kə.mi.ba.lə.wɨ jə.hɨ.bɨ.rə.tə.sə.bɨ kɨ.fɨ.lɨ ba.nə.sə mə.tʼə.nɨ ʔɨ.ra.su.nɨ kə.tɨ.ɡɨ.lu ʔə.rɨ.kʼo nə.wɨ jə.mi.ɡə.ɲə.wɨ|04
-LJSpeech/04_d504038.wav|ba.lɨ.tə lə.mə.də hu.ne.ta.mɨ lə.bɨ.zu.wo.t͡ʃu jə.nə.da.d͡ʒɨ bo.te.wo.t͡ʃɨ tə.sə.na.kɨ.lo bə.jə.ɡə.ra.ʒu.na bə.jə.be.tu mə.ko.lɨ.ko.lɨ.mɨ wa.na.wɨ mə.nɨ.sɨ.ʔe.jɨ ʔə.wɨ mə.ho.nu bə.sɨ.fa.tɨ ʔɨ.jə.tə.nə.ɡə.rə nə.wɨ|04
-LJSpeech/05_d505021.wav|ʔi.tɨ.jo.pʼɨ.ja wə.də.bu.nɨ bə.nə.sʼa jə.mɨ.tɨ.tʼə.kʼə.mɨ.bə.tɨ hu.ne.ta jɨ.mə.t͡ʃa.t͡ʃa.lɨ tə.ba.lə|05
-LJSpeech/05_d505022.wav|bə.do.kɨ.tə.rɨ ta.je wə.lɨ.də.sə.ma.ja.tɨ la.jɨ jə.mi.sə.ma.wɨ wɨ.sa.ne bə.da.ɲa.wɨ ʔə.lə mə.ɡə.ɲə.tɨ tə.ra.zə.mə|05
-LJSpeech/05_d505023.wav|bə.de.nɨ.və.rɨ ko.lo.ra.do ʔə.me.ri.ka bə.kʼɨ.rɨ.bu bə.tə.ka.he.də.wɨ bə.ʔi.nɨ.du.sɨ.tɨ.ri ʔɨ.dɨ.ɡə.tɨ bə.mə.tʼə.kʼu jə.sɨ.mɨ.nɨ.tɨ ʔə.ɡə.ro.t͡ʃɨ sɨ.bɨ.sə.ba la.jɨ jə.tə.wə.sə.nə.wɨ.mɨ kə.zi.hɨ wɨ.t͡ʃʼɨ ʔə.lɨ.nə.bə.rə.mɨ|05
-LJSpeech/05_d505024.wav|ja.nɨ.nɨ jə.mə.sə.lə tʼɨ.ja.kʼe ʔə.nɨ.sɨ.to bə.ma.ʃo.fɨ.na bə.ma.tʼa.tʼa.lɨ ma.lə.fɨ kə.ba.dɨ nə.wɨ|05
-LJSpeech/05_d505025.wav|ʔɨ.nə.zi.hɨ kə.bɨ.zu.wo.t͡ʃu jə.sʼo.mɨ də.rə.d͡ʒa.wo.t͡ʃɨ tʼɨ.kʼi.to.t͡ʃu si.ho.nu bə.t͡ʃʼə.wa.ta.na ja.lə.kʼu.mɨ nə.ɡə.rɨ le.li.tu.nɨ mu.lu bə.ma.mɨ.ʃə.tɨ.na rə.mə.da.nɨ bə.mə.mɨ.tʼa.tu jə.mɨ.nɨ.t͡ʃʼə.nə.kʼɨ.na jə.mi.kə.bɨ.də.nɨ mə.ho.nɨ jə.lə.bə.tɨ.mɨ|05
-LJSpeech/05_d505026.wav|pɨ.re.zɨ.da.nɨ.tɨ ʔi.sa.ja.sɨ ʔə.fə.wə.rɨ.kʼi mə.nɨ.ɡɨ.sɨ.ta.t͡ʃə.wɨ ʔi.hɨ.ʔə.pa.nɨ.na ʔo.nə.ɡɨ.nɨ jɨ.rə.da.lɨ bə.mi.lɨ lə.kʼə.rə.bə.la.t͡ʃə.wɨ tʼɨ.ja.kʼe ʔi.hɨ.ʔə.pa.nɨ.mɨ ho.nə ʔo.nə.ɡɨ.nɨ mə.nɨ.ɡɨ.sɨ.ta.t͡ʃə.wɨ ʔɨ.nɨ.də.ma.jɨ.rə.da ɡə.lɨ.sʼə.wa.lɨ|05
-LJSpeech/05_d505027.wav|be.tə kɨ.rɨ.sɨ.ti.ja.ni.tu.mɨ ha.ɡə.ri.tu.mɨ ʔə.nɨ.dɨ ta.la.kʼɨ sə.wɨ ʔə.tʼu|05
-LJSpeech/05_d505028.wav|kə.zi.hɨ.mɨ le.la ba.lɨ.tə.rə.ɡa.ɡə.tʼə mɨ.nɨ.t͡ʃʼɨ bə.kʼə.rə.bə ze.na kə.fə.rə.nɨ.sa.jɨ ɡa.ɡɨ.lɨ jə.tə.ba.lu he.li.ko.ɲə.tə.ro.t͡ʃɨ.na le.lo.t͡ʃɨ.mɨ tə.wa.ɡi ʔə.wɨ.ro.ɲə.la.no.t͡ʃɨ d͡ʒi.bu.ti mə.ɡɨ.ba.ta.t͡ʃə.wɨ ta.wɨ.kʼwa.lɨ|05
-LJSpeech/05_d505029.wav|lə.ʔə.la.hɨ mə.ɡə.za.tɨ ma.lə.tɨ ʔɨ.nɨ.di.hu bə.kʼə.nɨ ʔə.mɨ.sɨ.te kə.fi.tu mə.də.fa.tɨ ma.lə.tɨ ʔə.jɨ.də.lə.mɨ.lə.hɨ ɡɨ.ɡa.to.t͡ʃu.na tɨ.ʔɨ.za.za.tu mɨ.nɨ ɡi.ze.mɨ ta.za.ʒɨ ho.no mə.ɡə.ɲə.tɨ ma.lə.tɨ nə.wɨ ʔɨ.nɨ.d͡ʒi|05
-LJSpeech/05_d505030.wav|la.zi.jo.wo.t͡ʃɨ ʔɨ.ja.jə.lu bə.mə.mɨ.tʼa.tɨ jə.t͡ʃi.li.wɨ sa.la.sɨ kwa.sɨ jɨ.zo si.ɡə.ba bə.mə.tʼə.lə.fu jə.tə.sə.tʼə.wɨ.nɨ pe.na.lɨ.ti ra.su bə.ma.sɨ.kʼo.tʼə.rɨ la.zi.jo so.sɨ.tɨ lə.ʔə.nɨ.dɨ mə.mɨ.ra.tɨ d͡ʒə.mə.rə|05
-LJSpeech/05_d505031.wav|la.zi.jo.na mi.la.nɨ.sɨ ʔɨ.nɨ.de.tɨ tə.zə.nə.ɡu jɨ.he jə.ʔɨ.ɲa ha.sa.bɨ nə.wɨ|05
-LJSpeech/05_d505032.wav|kə.zi.hɨ.mɨ bə.tə.t͡ʃʼə.ma.ri wə.tʼa.tɨ tə.t͡ʃʼə.wa.t͡ʃo.t͡ʃɨ.nɨ bə.ma.sə.ba.sə.bɨ lə.wə.də.fi.tu li.tʼə.na.kə.ru.bə.tɨ jə.mi.t͡ʃɨ.lu.bə.tɨ.nɨ mə.nɨ.ɡə.dɨ ʔə.mə.t͡ʃa.t͡ʃɨ.twa.lɨ|05
-LJSpeech/05_d505033.wav|jɨ.hɨ.nɨ ɡu.da.jɨ ʔə.sɨ.mə.lɨ.kɨ.to bə.tə.ɡə.mə.ɡə.mu.bə.tɨ wə.kʼɨ.tɨ kə.sə.ra.tə.ɲo.t͡ʃu tʼɨ.ja.kʼe kʼə.rɨ.bo.la.t͡ʃə.wɨ si.mə.lɨ.su ɡə.nɨ.zə.bu ʔɨ.nɨ.di.sə.tʼə.ɲɨ ʔɨ.ne tʼɨ.ja.kʼe ʔə.la.kʼə.rə.bɨ.ku.mɨ bɨ.lə.wa.lɨ|05
-LJSpeech/05_d505034.wav|dɨ.nɨ.bə.ra.t͡ʃɨ.nɨ ʔə.sə.bɨ dɨ.rə.sɨ nə.wɨ ʔɨ.ɲa jə.ʔə.nɨ.dɨ.nə.tɨ də.kʼə.mə.za.mu.rɨ.tɨ nə.nɨ|05
-LJSpeech/05_d505035.wav|jə.mɨ.dɨ.rɨ ba.bu.rɨ dɨ.rɨ.d͡ʒɨ.tɨ mə.nɨ.ɡə.də.ɲo.t͡ʃɨ.nɨ jə.ma.ɡwa.ɡwa.zɨ ʔə.ɡə.lɨ.ɡɨ.lo.tɨ ka.lə.fə.wɨ hu.lə.tɨ sa.mɨ.nɨ.tɨ d͡ʒə.mɨ.ro mə.kʼwa.rə.tʼu ta.wə.kʼə|05
-LJSpeech/05_d505036.wav|mi.ni.sɨ.tɨ.rwa jə.bi.ro wɨ.nɨ jə.mə.dɨ.ha.ni.tɨ sɨ.rɨ.t͡ʃʼɨ.tɨ ha.la.fi ma.nə.ɡa.ɡə.ra.t͡ʃə.wɨ.nɨ tʼə.kʼɨ.so ɡɨ.lə.sə.bu ha.ki.mɨ ʔə.lə.mə.ho.nu.nɨ.na jə.hɨ.kɨ.mɨ.na ʔɨ.wɨ.kʼə.tɨ ʔɨ.nɨ.də.le.lə.wɨ.mɨ ʔə.sɨ.rə.dɨ.twa.t͡ʃə.wa.lɨ bə.ma.lə.tɨ ʔə.sɨ.fɨ.rwa.lɨ|05
-LJSpeech/05_d505037.wav|su.da.nɨ.na ʔi.tɨ.jo.pʼɨ.ja bə.dɨ.nɨ.bə.rɨ ɡu.da.jo.t͡ʃɨ zu.ri.ja tə.nə.ɡa.ɡə.ru|05
-LJSpeech/05_d505038.wav|ʔɨ.su.mɨ ra.su t͡ʃɨ.ɡɨ.rɨ ʔə.lə.bə.tɨ|05
-LJSpeech/06_d506021.wav|kə.mə.ɡa.rə.d͡ʒa d͡ʒə.rɨ.ba wə.nɨ.d͡ʒə.lɨ tə.fə.sʼɨ.mwa.lɨ jə.mi.lɨ nə.ɡə.rɨ jə.lə.mɨ|06
-LJSpeech/06_d506022.wav|le.lo.t͡ʃu də.ɡɨ.mo bə.ʔə.lə.mɨ ʔə.kʼə.fɨ hɨ.bɨ.rə.tə.sə.bɨ zə.nɨ.dɨ jə.tə.lə.jə mə.lɨ.kɨ.na tə.kʼə.ba.jɨ.nə.tɨ.nɨ lə.ma.ɡɨ.ɲə.tɨ jə.tə.nə.ɡə.rə ʔɨ.nɨ.də.ho.nə jɨ.na.ɡə.ra.lu|06
-LJSpeech/06_d506023.wav|hɨ.zɨ.bu.mɨ ʔɨ.nɨ.də.lə.mə.də.wɨ ʔɨ.nɨ.da.jɨ nə.ɡa.ɡə.rɨ wə.də tə.ɡɨ.ba.ra.wi wɨ.sa.ne.wɨ ʔɨ.nɨ.da ja.zə.nə.bɨ.lɨ mə.nɨ.ɡə.du.nɨ ʔə.tʼə.rɨ.nɨ.bə.tɨ|06
-LJSpeech/06_d506024.wav|kə.zi.ja ʔɨ.sɨ.kə za.re dɨ.rə.sɨ ʔə.to ʔə.bɨ.rɨ.ha.mɨ ja.lu.bə.tɨ.nɨ tɨ.ɡɨ.lɨ.na ʔɨ.jə.kə.fə.lu ja.lu.tɨ.nɨ.mɨ mə.sɨ.wa.ʔɨ.tɨ.nə.tɨ ʔə.wɨ.kʼa.lə.hu ʔə.də.nɨ.kʼa.lə.hu.mɨ|06
-LJSpeech/06_d506025.wav|jɨ.hɨ bə.ʔɨ.nɨ.di.hɨ ʔɨ.nɨ.da.lə ʔə.di.sɨ ʔə.ba wɨ.sɨ.tʼɨ jə.t͡ʃʼə.wɨ wa.ɡa nɨ.ro jɨ.ɡə.ɲɨ ʔɨ.nɨ.d͡ʒi bə.le.lo.t͡ʃɨ mɨ.rɨ.to.t͡ʃɨ la.jɨ jə.wa.ɡa lə.wɨ.tʼɨ ʔə.lɨ.ta.jə.mɨ|06
-LJSpeech/06_d506026.wav|tə.fə.na.kʼa.jo.t͡ʃɨ wə.də jə.kɨ.lɨ.la.t͡ʃɨ.hu ɡɨ.bu tə.ba.lu|06
-LJSpeech/06_d506027.wav|d͡ʒɨ.bu.mɨ wə.tʼa.twa.nɨ tə.kə.ta.tɨ.lo jɨ.bə.la.ta.lɨ ma.lə.tɨ nə.wɨ jɨ.sɨ.ma.ta.lɨ|06
-LJSpeech/06_d506028.wav|bə.ʔə.hu.nu.mɨ wə.kʼɨ.tɨ hu.lə.tu.mɨ wə.ɡə.no.t͡ʃɨ ʔə.lɨ.fo ʔə.lɨ.fo bə.ʔə.ka.ba.bi.wɨ jə.tə.ku.sɨ lɨ.wɨ.wɨ.tʼɨ ʔɨ.ja.də.rə.ɡu mə.ho.nu ta.wɨ.kʼwa.lɨ|06
-LJSpeech/06_d506029.wav|jə.zi.hɨ ba.nɨ.dɨ ta.ri.kɨ ʔɨ.nɨ.də.mi ja.sɨ.rə.da wɨ kə.ho.nə bə.zə.mə.na.t͡ʃə.wɨ ʔə.t͡ʃa ja.lɨ.tə.ɡə.ɲə la.t͡ʃə.wɨ jə.ro.kɨ ba.nɨ.dɨ tə.bɨ.lə.wa.lɨ|06
-LJSpeech/06_d506030.wav|kɨ.lə.bo.t͡ʃu ɡɨ.nɨ bə.tə.t͡ʃʼa.wə.tu.bə.tɨ wə.kʼɨ.tɨ kə.te.le.vɨ.ʒɨ.nɨ bə.jə.t͡ʃʼə.wa.ta.wɨ sɨ.dɨ.sɨ.tɨ mə.to ʃi bɨ.rɨ ɡə.bi ja.ɡə.ɲa.lu|06
-LJSpeech/06_d506031.wav|fɨ.la.mi.nɨ.ɡwə ba.lə.fə.wɨ kʼɨ.da.me ja.sɨ.tə.na.ɡə də.wɨ bə.ri.jo ma.ra.ka.ɲa sɨ.te.di.jo.mɨ wɨ.sɨ.tʼɨ ʔə.tɨ.le.ti.ko mi.ne.jɨ.ro.nɨ nə.bə.rɨ|06
-LJSpeech/06_d506032.wav|bə.sɨ.po.nɨ.sə.rɨ kə.tə.ɡə.ɲə ɡə.bi nə.wɨ ʔɨ.nɨ.d͡ʒi|06
-LJSpeech/06_d506033.wav|bə.ʔi.nɨ.tə.rɨ.na.ʃɨ.na.lɨ ɡɨ.tʼɨ.mi.ja bu.na.na kə.nə.ma ʔə.sa.mɨ.nə.wɨ si ja.ʃə.nɨ.fu ɡi.jo.rɨ.ɡi.sɨ bə.vi.ta.lo tə.ʃə.nə.fə|06
-LJSpeech/06_d506034.wav|wɨ.sɨ.tʼa.wi ʔə.nɨ.dɨ.nə.tu di.si.pɨ.li.nu jə.sɨ.ra zɨ.ɡɨ.d͡ʒu nə.tu wə.də.mi fə.lɨ.ɡə.wɨ də.rə.d͡ʒa mə.dɨ.rə.sɨ mə.t͡ʃa.lɨ ʔə.lə.bə.tɨ|06
-LJSpeech/06_d506035.wav|ma.nɨ.mɨ ze.ɡa ma.nɨ.mɨ də.mɨ jɨ.nu.rə.wɨ lɨ.kɨ ʔɨ.su ʔɨ.nɨ.da.lə.wɨ wə.sa.ɲu ʔə.mə.lə.ka.kə.tu nə.wɨ|06
-LJSpeech/06_d506036.wav|jə.ʔe.rɨ.tɨ.ra ma.ʔɨ.kə.la.wi ba.nɨ.dɨ bo.nɨ.dɨ bə.mə.ʃə.tʼɨ ʔi.ko.no.mi.wɨ.nɨ lə.ma.rə.ɡa.ɡa.tɨ jə.mi.ja.sɨ.t͡ʃɨ.lə.wɨ.nɨ ɡə.bi lə.ma sə.ba.sɨ.bɨ ʔɨ.nɨ.kʼɨ.sɨ.kʼa.se mə.d͡ʒə.mə.ru.nɨ bə.kʼɨ.rɨ.bu jə.zə.ɡə.bə.wɨ ro.jɨ.tə.rɨ jə.tə.sə.ɲə.wɨ jə.ze.na ʔə.wɨ.ta.rɨ nə.wɨ|06
-LJSpeech/06_d506037.wav|bə.ʔə.fa.rɨ kə.mi.ja.sɨ.fə.lɨ.ɡə.wɨ ʔɨ.hɨ.lɨ ʔə.rɨ.ba sɨ.dɨ.sɨ.tɨ kə.mə.to bɨ.t͡ʃa nə.wɨ jə.kʼə.rə.bə.wɨ|06
-LJSpeech/06_d506038.wav|ʔə.nɨ.dɨ ʔi.tɨ.jo.pʼɨ.ja.wi pɨ.ro.fe.sə.rɨ də.ɡɨ.mo rə.ɡa bɨ.lə.nɨ sɨ.na.sɨ bə.wɨ tʼo.rɨ.nə.tu.nɨ ja.sɨ.kə.tə.lə.wɨ hu.lə.tu.mɨ mə.ri.wo.t͡ʃɨ jə.tə.kə.tə.lu.tɨ jə.po.lə.ti.ka mə.sɨ.mə.rɨ nə.wɨ jɨ.la.lu|06
-LJSpeech/07_d507021.wav|rɨ.ʔɨ.sə ʔə.nɨ.kʼə.sʼu bə.mə.kʼə.tʼə.lɨ.mɨ nə.sʼa ɡa.ze.tʼo.t͡ʃɨ jə.rə.kʼə.kʼə ma.sɨ.fə.ra.ri.ja.na wə.kə.ba.mɨ jɨ.ka.he.dɨ.ba.t͡ʃə.wa.lɨ|07
-LJSpeech/07_d507022.wav|ʔə.nɨ.dɨ ʔə.nə.sɨ.tə.ɲa ɡu.da.jɨ lə.ma.sɨ.fə.sʼə.mɨ bə.tʼa.mɨ rə.d͡ʒɨ.mɨ kʼə.tʼə.ro jə.mi.sə.tʼɨ bə.mə.ho.nu ba.lə ɡu.da.jo.t͡ʃɨ.na ɡu.da.jo.t͡ʃa.t͡ʃə.wɨ.nɨ jə.mi.kə.ta.tə.lu.la.t͡ʃə.wɨ tʼə.bə.kʼa.wo.t͡ʃɨ si.ma.rə.ru kʼo.jɨ.tə.wa.lɨ|07
-LJSpeech/07_d507023.wav|ʔɨ.zi.hu li.ja.də.kʼɨ.kʼa.t͡ʃə.wɨ jə.mi.fə.lɨ.ɡa.t͡ʃə.wɨ.nɨ sə.wo.t͡ʃɨ ka.lɨ.ho.nə bə.kʼə.rɨ lə.tʼə.jə.kʼə hu.lu pa.sɨ.po.rɨ.tɨ.mɨ vi.za.mɨ jɨ.sə.tʼa.lɨ|07
-LJSpeech/07_d507024.wav|dɨ.ro kə.hɨ.zɨ.bɨ jə.mi.sə.bə.sə.bə.wɨ ɡɨ.bɨ.rɨ nə.bə.rɨ|07
-LJSpeech/07_d507025.wav|jə.wə.lə.də.wɨ.nɨ lɨ.d͡ʒɨ lə.ma.sɨ.tə.ma.rɨ tə.sɨ.no.ta.lɨ|07
-LJSpeech/07_d507026.wav|bə.zi.hɨ ʔə.mə.tɨ mə.t͡ʃʼə.rə.ʃa ha.mɨ.le wə.rɨ wə.jɨ.nɨ.mɨ bə.mi.kʼə.tʼɨ.lə.wɨ ʔə.mə.tɨ jə.mə.d͡ʒə.mə.ri.ja wə.ra.tɨ ʔɨ.nə.do.kɨ.tə.rɨ.ta.je jə.mə.t͡ʃʼə.rə.ʃa wɨ.sa.ne ja.ɡə.ɲa.lu tə.bɨ.lo tə.ɡə.mɨ.twa.lɨ|07
-LJSpeech/07_d507027.wav|ʔə.mə.za.ɲu ʔɨ.rɨ.sɨ bə.ra.su si.t͡ʃʼə.ra.rə.sɨ d͡ʒo.ro da.ba lɨ.bə.sɨ bɨ.lo ma.jə.tɨ jə.bɨ.lɨ.hɨ mə.ri.wo.t͡ʃɨ ʔə.sɨ.tə.sa.sə.bɨ li.ho.nɨ ʔə.jɨ.t͡ʃɨ.lɨ.mɨ|07
-LJSpeech/07_d507028.wav|lə.tʼə.kʼɨ.lə.jɨ mi.nɨ.sɨ.tɨ.rɨ mə.lə.sɨ ze.na.wi ja.sɨ.tə.la.lə.fu.tɨ.nɨ də.bɨ.da.be mu.lu kʼa.lɨ kə.zi.hɨ kʼə.tʼɨ.lo ʔɨ.na.kʼə.rɨ.ba.lə.nɨ|07
-LJSpeech/07_d507029.wav|ma.hɨ.la.wɨ.mɨ ho.nə ɡa.bɨ.t͡ʃa.wɨ.mɨ sɨ.me.twa.nɨ jə.mi.ko.rə ku.ra.tɨ fɨ.tʼɨ.rə.tɨ ba.tɨ.ho.nɨ.mɨ ʔɨ.nɨ.di.hu ʔɨ.ja.də.na.ɡə.rə wə.də t͡ʃʼa.ka jɨ.zwa.tɨ ɡə.ba|07
-LJSpeech/07_d507030.wav|za.re.na nə.ɡə bə.ha.ɡə.ro.t͡ʃɨ jə.wɨ.sɨ.tʼɨ wɨ.dɨ.dɨ.rɨ bə.sa.mɨ.nɨ.tu ʔə.ɡa.ma.ʃɨ la.jɨ də.ɡɨ.mo bə.ʔə.wɨ.ro.pa t͡ʃa.mɨ.pi.jə.nɨ.sɨ li.ɡɨ ʔɨ.nɨ.di.hu bə.ɡu.ɡu.tɨ jə.mi.tʼə.bə.kʼu t͡ʃʼə.wa.ta.wo.t͡ʃɨ jɨ.də.rə.ɡa.lu|07
-LJSpeech/07_d507031.wav|ʔə.sə.lɨ.tʼa.ɲu bə.ʔɨ.rɨ.ɡɨ.tʼɨ.mɨ bɨ.he.ra.wi bu.dɨ.nu.nɨ kə.ja.zu wə.di.hɨ kɨ.lə.bu ʔɨ.jə.tə.ʃə.nə.fə nə.wɨ|07
-LJSpeech/07_d507032.wav|jə.mi.mə.də.bə.wɨ ɡə.nɨ.zə.bɨ tə.mwa.lɨ.to ka.lə.kʼə bə.hwa.la jə.mi.kə.tə.lə.wɨ.nɨ t͡ʃɨ.ɡɨ.rɨ kə.ɡɨ.mɨ.tɨ wɨ.sɨ.tʼɨ bə.ma.sɨ.ɡə.ba.tɨ jə.tə.lə.ja.ju ɡə.bi ma.sɨ.ɡə.ɲa zə.de.wo.t͡ʃɨ.nɨ mə.kʼə.jə.su ʔə.sɨ.fə.la.ɡi nə.wɨ|07
-LJSpeech/07_d507033.wav|jə.ʔə.lə.mɨ jə.mɨ.ɡɨ.bɨ pɨ.ro.ɡɨ.ra.mɨ bɨ.t͡ʃa.wɨ.nɨ wə.də sə.la.sa ʃi.to.nɨ ʔɨ.hɨ.lɨ mə.rɨ.da.tu tə.ɡə.lɨ.sʼwa.lɨ|07
-LJSpeech/07_d507034.wav|zə.ɡə.ba.wɨ kə.zi.hɨ bə.tə.t͡ʃʼə.ma.ri bə.ta.da.ɡi ʔə.ɡə.ro.t͡ʃɨ ja.lə.wɨ.nɨ jə.dɨ.hɨ.nə.tɨ mə.tʼə.nɨ bə.tə.mə.lə.kə.tə fɨ.nɨ.t͡ʃʼo.t͡ʃɨ.nɨ jɨ.fa ʔə.dɨ.rɨ.ɡwa.lɨ|07
-LJSpeech/07_d507035.wav|jɨ.hɨ.nɨ.nɨ bə.tɨ.kɨ.kɨ.lɨ jə.mi.ja.wɨ.kʼu.tɨ ʔɨ.nə.su bɨ.t͡ʃa na.t͡ʃə.wɨ|07
-LJSpeech/07_d507036.wav|ʃa.ʔɨ.bi.ja ʔɨ.nə.zi.hɨ.nɨ ʔə.ka.ba.bi.wo.t͡ʃɨ lə.ma.ɡɨ.ɲə.tɨ fɨ.lɨ.ɡwə ʔə.lə.ma.ɡɨ.ɲə.tu.na ma.tʼa.tu dɨ.rɨ.bɨ ʃɨ.nɨ.fə.tɨ wɨ.rɨ.də.tɨ ʔə.ɡɨ.ɲɨ.to.ta.lɨ lə.ma.lə.tɨ jɨ.t͡ʃa.la.lɨ|07
-LJSpeech/07_d507037.wav|jɨ.he ba.lə.fu.tɨ ɡi.ze.ja.tɨ bɨ.t͡ʃa sa.jɨ.ho.nɨ ʔə.hu.nɨ.mɨ ʔɨ.jə.kʼə.tʼə.lə ja.lə.na jə.mi.ta.jɨ ɡu.da.jɨ nə.wɨ|07
-LJSpeech/07_d507038.wav|kʼə.ri.wo.t͡ʃu ʔə.sɨ.fə.sʼa.mi.wɨ ʔə.ka.lɨ bə.hɨ.ɡɨ kə.tə.sə.tʼə.wɨ sɨ.lɨ.tʼa.nɨ sa.jɨ zə.lɨ jə.mi.ja.kə.na.wɨ.na.t͡ʃə.wɨ tə.ɡɨ.ba.ro.t͡ʃɨ jɨ.ho.na.lu|07
-LJSpeech/08_d508021.wav|ʔə.to ʔə.ba.tə ki.ʃo ja.lə mə.kə.sə.sɨ mə.bɨ.ta.t͡ʃə.wɨ mə.ɡə.fə.fu.nɨ jə.fe.de.ra.lu kə.fɨ.tə.ɲa fɨ.rɨ.dɨ be.tɨ ʔə.sɨ.ta.wə.kʼə|08
-LJSpeech/08_d508022.wav|bə.lɨ.d͡ʒɨ.nə.tɨ zə.mə.na.t͡ʃə.wɨ ɡi.ze jə.mu.tɨ lɨ.d͡ʒɨ ho.nə.wɨ.mɨ ba.ɡə.ɲu.tɨ bɨ.lɨ.t͡ʃʼa wə.də ʔe.də.nɨ.bɨ.ra ʔɨ.nɨ.ɡɨ.li.zɨ bə.mə.la.kɨ jə.mə.d͡ʒə.mə.ri.ja.wɨ tə.ma.ri nə.bə.ru|08
-LJSpeech/08_d508023.wav|bə.zi.hɨ.mɨ lə.ʔə.ɡə.ra.t͡ʃə.wɨ.na lə.ʔə.fɨ.ri.ka mɨ.nɨ ja.hɨ.lɨ jɨ.t͡ʃʼə.nə.kʼu ʔɨ.nɨ.də nə.bə.rɨ lə.mə.ɡə.nɨ.zə.bɨ t͡ʃɨ.ja.lə.hu|08
-LJSpeech/08_d508024.wav|tʼo.rɨ si.la.kɨ.bə.tɨ bə.ɡɨ.bɨ.sʼo.t͡ʃɨ ɡu.ja jɨ.də.bə.kʼa.lɨ|08
-LJSpeech/08_d508025.wav|jə.ʔə.sɨ.mə.ra.wɨ ʔə.mɨ.ba.sa.də.rɨ lə.ʔe.rɨ.tɨ.ra.wɨ re.dɨ.jo jə.sə.tʼu.tɨ kʼa.lɨ jə.di.pɨ.lo.ma.si.ja.wi tə.lɨ.ʔɨ.ko.ʔə.t͡ʃə.wɨ.nɨ lə.mə.fə.sʼə.mɨ ʔɨ.nɨ.d͡ʒi bə.tɨ.kɨ.kɨ.lɨ.mɨ jə.ʔə.di.sɨ ʔə.bə.ba.wɨ ʔə.mɨ.ba.sa.də.rɨ jə.sə.tʼu.tɨ mə.ɡɨ.lə.t͡ʃʼa kə.ʔɨ.wɨ.nə.tɨ rɨ.kʼo ʔə.jɨ.də.lə.mɨ|08
-LJSpeech/08_d508026.wav|ʔə.ɡə.re jə.mə.tʼa.hu ʔə.lɨ.mə.sə.lə.ɲɨ.mɨ ʔə.pa.rɨ.ta.jɨ.dɨ.nɨ ʔə.sɨ.ta.wə.sə.ɲɨ|08
-LJSpeech/08_d508027.wav|sə.ra.wi.tu jɨ.hɨ sa.jɨ bə.kʼa.wɨ ʔə.lə.kʼo.t͡ʃu lə.wɨ.dɨ.kʼə.tu tə.tʼə.ja.kʼi na.t͡ʃə.wɨ bə.mə.ba.lɨ mə.ta.mə.sa.t͡ʃə.wɨ kə.fɨ.tə.ɲa wɨ.tʼɨ.rə.tɨ.nɨ bə.tʼo.ru wɨ.sɨ.tʼɨ ja.sə.fə.nə mə.ho.nu.mɨ tə.mə.lɨ.kɨ.twa.lɨ|08
-LJSpeech/08_d508028.wav|ʔə.mɨ.la.kɨ mə.lɨ.ʔə.kɨ.tɨ.nɨ si.fə.tʼɨ.rɨ jə.mə.lɨ.ʔə.kɨ.tɨ ʔə.lə.kʼa ho.no jə.tə.fə.tʼə.rə.wɨ ʔə.hu.nɨ sa.tʼɨ.na.ʔe.lɨ jə.mɨ.nɨ.lə.wɨ kə.jɨ.si nə.bə.rɨ|08
-LJSpeech/08_d508029.wav|tʼə.nɨ.ka.ra wɨ ju.na.jɨ.tɨ.dɨ ʔɨ.jə.tə.nə.kʼa.nə.kʼə nə.wɨ|08
-LJSpeech/08_d508030.wav|li.dɨ.sɨ də.ɡɨ.mo wɨ.dɨ.ɡe.tɨ sɨ.mi.zɨ po.lɨ ro.bi.nɨ.sə.nɨ.na sɨ.te.fə.nɨ ma.kɨ.fi.lɨ jə.tə.ba.lu wə.tʼa.to.t͡ʃɨ.nɨ jɨ.zwa.lɨ|08
-LJSpeech/08_d508031.wav|bu.dɨ.nu bə.ma.tʼɨ.kʼa.tɨ la.jɨ jə.tə.mə.rə.ko.zə fu.tɨ.bo.lɨ nə.wɨ jə.mi.t͡ʃʼa.wə.tə.wɨ|08
-LJSpeech/08_d508032.wav|lə.ʔə.nɨ.tə.nə.hɨ jə.tʼə.jə.kʼə.wɨ.nɨ ʔə.mwa.lɨ.tə.nɨ wə.də kɨ.lə.bu bɨ.nɨ.mə.lɨ.sɨ wɨ.bə tə.t͡ʃʼə.wa.t͡ʃo.t͡ʃɨ mə.ka.kə.lɨ lɨ.ju.nə.tɨ jɨ.fə.tʼə.rɨ.bɨ.na.lɨ|08
-LJSpeech/08_d508033.wav|d͡ʒɨ.bu.ti jɨ.hɨ.nɨ lə.mɨ.nɨ ʔɨ.nɨ.də.fə.sʼə.mə.t͡ʃɨ jə.d͡ʒɨ.bu.ti jə.wɨ.t͡ʃʼɨ ɡu.da.jɨ mi.ni.sɨ.tə.rɨ si.na.ɡə.ru lə.ha.ɡə.ra.t͡ʃɨ.nɨ sə.la.mɨ.na mə.rə.ɡa.ɡa.tɨ ʔɨ.rɨ.mɨ.d͡ʒa.t͡ʃɨ.nɨ fɨ.tɨ.ha.wi nə.wɨ bɨ.lə.wa.lɨ|08
-LJSpeech/08_d508034.wav|bə.zi.hɨ.mɨ ʔi.tɨ.jo.pʼɨ.ja.nɨ jə.tə.ʃa.lə.t͡ʃɨ ha.ɡə.rɨ lə.ma.dɨ.rə.ɡɨ bə.mi.də.rə.ɡə.wɨ tʼɨ.rə.tɨ jə.bə.ku.lu.nɨ ʔə.sɨ.tə.wa.sʼɨ.ʔo ja.də.rɨ.ɡa.lɨ bɨ.je ʔə.mɨ.na.lə.hu|08
-LJSpeech/08_d508035.wav|jə.ha.di.ja lɨ.ma.tɨ ma.hɨ.bə.rɨ tə.fə.ra mə.ke mɨ.kɨ.tɨ.lu də.sɨ.ta da.ɲe zə.tʼə.ɲɨ.na sɨ.dɨ.sɨ.tɨ ʔə.mə.tɨ tə.bə.jɨ.no.ba.t͡ʃə.wa.lɨ si.lɨ jɨ.ʔə.wɨ jə.ze.na zə.ɡə.ba t͡ʃʼə.mɨ.ro ɡə.lɨ.sʼwa.lɨ|08
-LJSpeech/08_d508036.wav|mɨ.nɨ ɡi.ze.mɨ jə.ri.po.rɨ.tə.rɨ ʔɨ.na jə.ʔe.mɨ.si.si ma.hɨ.bə.rə.sə.bɨ ʔə.ba.la.tɨ lə.pɨ.ro.d͡ʒə.kɨ.to.t͡ʃu sɨ.ke.ta.ma.nə.tɨ kə.ha.jɨ.le.na kə.ʔə.ɡa.ro.t͡ʃu ɡwə.nɨ na.t͡ʃə.wɨ|08
-LJSpeech/08_d508037.wav|ʔɨ.sɨ.kə ʔə.nɨ.dɨ ʃi zə.tʼə.ɲɨ mə.to sɨ.lɨ.sa sɨ.dɨ.sɨ.tɨ dɨ.rɨ.sɨ bə.ʔi.tɨ.jo.pʼɨ.ja jə.nə.bə.rə.wɨ mə.nɨ.ɡɨ.sɨ.ta.wi sɨ.rɨ.ʔə.tɨ jə.si.so sɨ.rɨ.ʔə.tɨ bə.mə.ba.lɨ jə.mi.ta.wɨ.kʼɨ ʔɨ.nɨ.də.nə.bə.rɨ jɨ.ta.wə.sa.lɨ|08
-LJSpeech/08_d508038.wav|ʔɨ.nɨ.də tə.ma.ri.wɨ ʔə.kʼwa.mɨ tɨ.mɨ.hɨ.rɨ.tɨ lə.ma.sɨ.d͡ʒə.mə.rɨ jə.də.hɨ.nɨ.nə.tɨ wa.sɨ.tɨ.na tə.sə.tʼɨ.to hu.lu.nɨ.mɨ tə.ma.ri ja.sa.tə.fə ʔə.tʼə.kʼa.la.jɨ wɨ.jɨ.jɨ.tɨ mə.də.rə.ɡɨ ʔə.lə.bə.tɨ|08
-LJSpeech/09_d509021.wav|ʔo.nə.ɡɨ lə.hu.lə.tɨ tə.kə.fɨ.lo mə.sɨ.ma.ma.tɨ jə.ma.jɨ.t͡ʃɨ.lɨ.bə.tɨ də.rə.d͡ʒa la.jɨ mə.dɨ.rə.su.nɨ jə.ʔə.mə.ra.rɨ ʔə.ba.la.tu ɡə.lə.sʼu|09
-LJSpeech/09_d509022.wav|bə.nə.zi.hɨ tʼə.ma.mo.t͡ʃɨ kɨ.fu ʔə.sa.bi.wo.t͡ʃɨ mɨ.kɨ.nɨ.ja.tɨ jə.mɨ.na.ne hɨ.jɨ.wə.tɨ jə.mi.ɡə.fu.bə.tɨ ʔə.lə.mɨ ʔɨ.sɨ.kə mə.ho.nɨ də.rɨ.sa.lə.t͡ʃɨ|09
-LJSpeech/09_d509023.wav|ʔɨ.nɨ.də ɡə.na ʔi.tɨ.jo.pʼɨ.ja.wi lə.mə.ho.nɨ mə.də.ra.də.rɨ jə.mə.rə.tʼu.mɨ ʔə.lu|09
-LJSpeech/09_d509024.wav|ko.lo.ne.lɨ mə.nɨ.ɡɨ.sɨ.tu jɨ.hɨ.nɨ.nɨ ɡɨ.lə.tɨ lə.ʔə.bɨ.jo.tu bi.ja.wɨ.lu.tɨ si.lu ʔɨ.ne ʔɨ.sɨ.kə ma.wɨ.kʼə.wɨ bə.kʼi mɨ.kɨ.nɨ.ja.tɨ nə.bə.ra.t͡ʃə.wɨ|09
-LJSpeech/09_d509025.wav|lə.ʔɨ.na.nɨ.tə nə.ɡə.rɨ.kwa.t͡ʃɨ.hu ʔɨ.nɨ.d͡ʒi ʔɨ.ɡɨ.zi.jo bə.lu ʔɨ.ja.lə hɨ.zɨ.bu si.ja.sɨ.lə.kʼɨ.sɨ mɨ.la.sɨ jə.mi.ja.wə.tʼa ba.hɨ.ta.wi ʔə.lə ʔə.la.lɨ.ku.mɨ|09
-LJSpeech/09_d509026.wav|nə.ɡə.ro.t͡ʃɨ.nɨ bə.tʼɨ.lɨ.kʼə.tɨ mə.mə.rɨ.mə.rɨ.na ma.sɨ.rə.da.tɨ jə.zə.wə.tɨ.rɨ sɨ.ra.wa jə.ho.nə.wɨ ha.ja.lɨ bɨ.ʔɨ.rə.ɲa.na bə.sa.lɨ ɡə.tʼa.mi fɨ.rɨ.ma.je ʔə.lə.mu jə.ʔə.nɨ.di.tɨ se.tɨ lɨ.d͡ʒɨ ʔɨ.na.tɨ nə.bə.rə.t͡ʃɨ|09
-LJSpeech/09_d509027.wav|ʔɨ.nɨ.də bə.fi.tu bə.ʔə.ɡə.ru la.jɨ ba.jɨ.tə.wa.rɨ.nə.tu.mɨ kʼə.rɨ.twa.lɨ|09
-LJSpeech/09_d509028.wav|də.ɡɨ.mo.mɨ ba.lwa.nɨ.na lɨ.d͡ʒɨ.wa.nɨ kə.ʔə.d͡ʒə.bɨ mə.ha.lɨ jə.mɨ.tɨ.fə.lɨ.ɡɨ se.tɨ ba.lwa.nɨ bɨ.ta.ɡə.ɲɨ də.sɨ bɨ.lwa.tɨ lɨ.d͡ʒɨ.wa.nɨ.mɨ bɨ.ta.ɡə.ɲɨ ʔə.ɡə.la.bɨ.tʼa sɨ.ma bə.də.sɨ.ta ta.lə.kʼɨ.sa.lə.t͡ʃɨ|09
-LJSpeech/09_d509029.wav|ʔɨ.nə.rɨ.su kə.le.lu wa.ɡa jə.lə.ɲɨ.mɨ|09
-LJSpeech/09_d509030.wav|za.re kə.le.jɨ.sɨ.tə.rɨ ɡa.ra kə.tə.t͡ʃʼa.wə.tə bə.hwa.la sa.mɨ.nɨ.tɨ kə.t͡ʃə.lɨ.si jə.mi.ja.də.rɨ.ɡə.wɨ jə.bu.dɨ.nu də.rə.d͡ʒa jə.mi.ja.mə.lə.kɨ.tɨ jɨ.ho.na.lɨ|09
-LJSpeech/09_d509031.wav|kɨ.lə.bu zə.nɨ.dɨ.ro ʔə.d͡ʒə.ma.mə.ru tʼɨ.ru nə.wɨ|09
-LJSpeech/09_d509032.wav|lə.zi.hɨ wɨ.sa.ne kə.ka.fɨ tʼə.bə.kʼɨ ja.lə ʔɨ.rɨ.mɨ.d͡ʒa.na kʼɨ.tʼa.tɨ jɨ.wə.sə.nɨ.bɨ.na.lɨ jə.mi.lɨ fɨ.rɨ.t͡ʃa ʔə.lə|09
-LJSpeech/09_d509033.wav|kə.zi.ja.mɨ bə.ʔə.nɨ.da.nɨ.dɨ ʔə.wɨ.ro.pɨ.la.no.t͡ʃɨ la.jɨ jə.tə.wə.sə.nu bɨ.lɨ.ʃɨ.to.t͡ʃɨ tə.kə.sɨ.tə.wa.lɨ jə.mi.lɨ zə.ɡə.ba ʔɨ.nɨ.də.kʼə.rə.bə ma.ne.d͡ʒɨ.mə.nɨ.tu ʔə.sɨ.ra sɨ.mɨ.nɨ.tu.nɨ te.kɨ.ni.ʃi.ja.no.t͡ʃɨ li.ja.sə.na.bɨ.twa.t͡ʃə.wɨ ʔɨ.nɨ.də.bə.kʼu tə.zə.ɡɨ.bwa.lɨ|09
-LJSpeech/09_d509034.wav|ɡɨ.nɨ.ɲu.nə.ta.t͡ʃɨ.nɨ də.ɡɨ.mo wə.də mo.kʼə hu.ne.ta tə.mə.lɨ.swa.lɨ bɨ.lə.wa.lɨ ʔə.nɨ.dɨ kə.fɨ.tə.ɲa jə.d͡ʒɨ.bu.ti ba.lə.sɨ.lɨ.tʼa.nɨ lə.ʔi.ri.nɨ|09
-LJSpeech/09_d509035.wav|jə.kɨ.lɨ.lu jə.sɨ.ra kʼwa.nɨ.kʼwa ʔo.ro.mɨ.ɲa ʔɨ.nɨ.di.ho.nɨ.mɨ tə.wə.sɨ.nwa.lɨ|09
-LJSpeech/09_d509036.wav|jə.mə.nɨ kə.ʔe.rɨ.tɨ.ra ɡa.ra bə.də.se.to.t͡ʃɨ ɡɨ.t͡ʃʼɨ.tɨ sɨ.la.la.tɨ jə.tʼə.la.ta.t͡ʃɨ.nɨ tʼə.la.tɨ wə.da.d͡ʒa.t͡ʃɨ.nɨ nə.wɨ bə.mi.lɨ bɨ.nɨ.jɨ.za.tɨ ha.ja.lɨ tɨ.ho.nə.na.lə.t͡ʃɨ bə.mi.lɨ tə.sɨ.fa nə.wɨ|09
-LJSpeech/09_d509037.wav|mɨ.rɨ.t͡ʃʼa.wɨ bə.tə.tʼə.na.kʼə.kʼə bə.sə.la.sa kʼə.na.tɨ wɨ.sɨ.tʼɨ ʔə.di.su jə.kə.tə.ma.wɨ mɨ.kɨ.rɨ be.tɨ sɨ.ra.wɨ.nɨ jɨ.d͡ʒə.mɨ.ra.lɨ|09
-LJSpeech/09_d509038.wav|ʔɨ.nə.zi.hɨ sə.wo.t͡ʃɨ t͡ʃʼə.rɨ.sə.wɨ d͡ʒɨ.lɨ ʔə.də.rə.ɡu.nɨ|09
-LJSpeech/10_d510021.wav|dɨ.nɨ.bə.rɨ jə.ma.ka.lə.lu wɨ.sa.ne bə.ɡə.lə.lɨ.tə.ɲa jə.dɨ.nɨ.bə.rɨ ko.mi.ʃɨ.nɨ ʔə.ma.ka.ɲɨ.nə.tɨ bə.mi.kʼə.tʼɨ.lə.wɨ wə.rɨ kə.he.ɡɨ ʔɨ.nɨ.də.mi.ɡə.lə.sʼɨ ʔə.mə.lɨ.kɨ.twa.lɨ|10
-LJSpeech/10_d510022.wav|bə.zi.hɨ wɨ.ɡi.ja jə.ʔi.tɨ.jo.pʼɨ.ja tə.wa.ɡi d͡ʒe.to.t͡ʃɨ ʔɨ.nɨ.di.hu.mɨ jə.wɨ.ɡi.ja he.li.ko.pɨ.tə.ro.t͡ʃɨ mə.sa.tə.fa.t͡ʃə.wɨ.nɨ.mɨ mə.ɡɨ.lə.t͡ʃʼa.wɨ ʔə.mə.lɨ.kɨ.twa.lɨ|10
-LJSpeech/10_d510023.wav|bə.zi.hɨ bə.ha.nɨ.ti.nɨ.ɡɨ.tə.nɨ jə.sɨ.lɨ.tʼa.ne.wo.t͡ʃɨ sə.nɨ.tʼə.rə.ʒɨ mə.sə.rə.tɨ ʔi.tɨ.jo.pʼɨ.ja.t͡ʃɨ.nɨ jə.jə.tɨ.ɲa.wɨ sɨ.lɨ.tʼa.ne kɨ.bə.bɨ ʔə.ba.lɨ ʔɨ.nɨ.də.ho.nə.t͡ʃɨ ma.wə.kʼu ba.lɨ.kə.fa|10
-LJSpeech/10_d510024.wav|kə.la.jɨ sɨ.lə.tə.ɡə.lə.sʼə.wɨ ʔə.di.su ʔə.jɨ.nə.tɨ jə.bɨ.he.rɨ t͡ʃʼɨ.kʼo.na kɨ.sɨ.tə.tɨ.mɨ ɡɨ.nɨ.za.be ja.la.t͡ʃə.wɨ ʔə.jɨ.mə.sɨ.lu.mɨ|10
-LJSpeech/10_d510025.wav|ʔɨ.nɨ.di.hɨ ja.lə nə.ɡə.rɨ ʔə.jɨ.wə.tʼa.ɲɨ.mɨ|10
-LJSpeech/10_d510026.wav|hu.lə.tu ha.jɨ.lo.t͡ʃɨ bə.kʼɨ.rɨ.bɨ rɨ.kʼə.tɨ wɨ.sɨ.tʼɨ ʔɨ.nɨ.də.mi.ɡə.ɲu.mɨ lə.ma.sɨ.rə.da.tɨ jə.mo.kə.rə.t͡ʃɨ.wɨ bə.ʃa.ʔɨ.bi.ja wə.ta.də.ro.t͡ʃɨ mɨ.ʃɨ.ɡɨ wɨ.sɨ.tʼɨ bə.mə.ho.nɨ jə.ʔi.tɨ.jo.pʼɨ.ja wə.ta.də.ro.t͡ʃɨ ʔɨ.nɨ.kʼɨ.sɨ.kʼa.se jɨ.ta.ja.lɨ bə.ma.lə.tɨ nə.wɨ|10
-LJSpeech/10_d510027.wav|bə.ʔə.lə.mɨ la.jɨ ja.lu jə.jə.ʔə.ɡə.ru mə.rə.d͡ʒa.wo.t͡ʃɨ ka.lwa.t͡ʃə.wɨ jə.mə.rə.d͡ʒa mɨ.nɨ.t͡ʃʼo.t͡ʃɨ wɨ.sɨ.tʼɨ ʔə.nɨ.du jə.pɨ.re.sɨ wɨ.tʼe.tɨ nə.wɨ|10
-LJSpeech/10_d510028.wav|bə.ʔe.rɨ.tɨ.ra.na bə.tɨ.ɡɨ.ra.jɨ ɡu.da.jɨ jə.kʼə.rə.bə.la.t͡ʃə.wɨ.na jə.sə.tʼu.tɨ mə.lɨ.sɨ kʼə.tʼɨ.lo kʼə.rɨ.bwa.lɨ|10
-LJSpeech/10_d510029.wav|bə.mu.ja.wɨ lə.bɨ.zu ɡi.ze sə.rɨ.t͡ʃa.lə.hu|10
-LJSpeech/10_d510030.wav|bə.zi.hɨ la.jɨ wi.ʔə.hɨ tə.də.ra.bi ʔə.tʼɨ.kʼi ho.no bə.mə.t͡ʃʼa.wə.tɨ la.jɨ bə.mə.ho.nu ʔɨ.jə.tə.ma.rə.rə nə.wɨ|10
-LJSpeech/10_d510031.wav|jə.ʔə.di.sɨ ʔə.bə.ba sɨ.ta.di.jo.mɨ tə.mə.lɨ.ka.t͡ʃɨ kʼe.ra jə.mi.lɨ kʼɨ.sʼɨ.lɨ sɨ.mɨ ʔə.wɨ.tʼɨ.to.lɨ.ha.lɨ|10
-LJSpeech/10_d510032.wav|kə.ʔə.kʼɨ.mɨ bə.la.jɨ jə.ho.nə t͡ʃɨ.ɡɨ.rɨ ba.jɨ.no.rɨ no.ro lə.ma.sə.lɨ.tʼə.nɨ fɨ.kʼa.də.ɲa nə.bə.rɨ.ku.ɲɨ|10
-LJSpeech/10_d510033.wav|bə.mɨ.nɨ ʔɨ.nɨ.də.ta.sə.ru jə.mi.ja.kʼu.tɨ jə.mə.zɨ.ɡə.bɨ be.tɨ sə.ra.tə.ɲo.t͡ʃɨ na.t͡ʃə.wɨ|10
-LJSpeech/10_d510034.wav|tɨ.la.nɨ.tɨ tʼə.bə.kʼo.t͡ʃe mə.tʼɨ.tə.wɨ sɨ.nɨ.nə.ɡa.ɡə.rɨ ʔɨ.nɨ.ɡɨ.li.zə.ɲa sɨ.la.sɨ.ɡə.ba.nɨ ʔɨ.ne bə.mɨ.sə.ma.wɨ kʼwa.nɨ.kʼwa ka.lɨ.ho.nə ʔə.tɨ.na.ɡə.ru.mɨ ʔə.lə.bə.zi.ja.mɨ tɨ.wə.tʼa.la.t͡ʃɨ.hu bɨ.lə.wɨ tʼə.bə.kʼo.t͡ʃe.nɨ ʔə.sɨ.fə.ra.ru.wa.t͡ʃə.wɨ|10
-LJSpeech/10_d510035.wav|bə.le.la bə.ku.lɨ sɨ.rɨ.kʼo.tɨ.na mə.sə.lɨ wə.nɨ.d͡ʒə.lo.t͡ʃɨ.nɨ mɨ.kɨ.nɨ.ja.tɨ ʔə.dɨ.rɨ.ɡwə bə.rɨ.ka.ta jə.mə.kʼə.le kə.tə.ma nə.wa.ri.wo.t͡ʃɨ bə.mə.ta.fə.sɨ la.jɨ mə.ho.na.t͡ʃə.wɨ ta.wɨ.kʼwa.lɨ|10
-LJSpeech/10_d510037.wav|ʔə.wɨ.ro.pɨ.la.nu ʔɨ.kʼa.t͡ʃʼa.ɲɨ si.ho.nɨ bə.bə.rə.ra.wɨ la.jɨ sɨ.dɨ.sɨ.tɨ jə.ʔə.jə.rɨ mə.nɨ.ɡə.dɨ sə.ra.tə.ɲo.t͡ʃɨ.nɨ ʔə.sa.fɨ.ro nə.bə.rɨ|10
-LJSpeech/10_d510038.wav|kə.zi.ja wɨ.t͡ʃʼɨ jə.mɨ.nɨ.lə.wɨ ʔə.jɨ.no.rə.nɨ.mɨ|10
-LJSpeech/11_d511021.wav|jə.so.ma.li.ja mə.nɨ.ɡɨ.sɨ.tɨ ha.ɡə.ri.tu.nɨ jə.ʔə.ʃə.ba.ri.wo.t͡ʃɨ mə.na.ʔə.ri.ja ʔɨ.ja.də.rə.ɡa.tɨ nə.wɨ tə.ba.lə|11
-LJSpeech/11_d511022.wav|lə.ma.nɨ ʔə.be.tɨ ma.lə.tɨ ʔɨ.nɨ.də.mi.t͡ʃa.lɨ.mɨ ɡɨ.ra ɡə.bɨ.to.na.lɨ bə.ma.lə.tɨ nə.ɡa.de.wo.t͡ʃu bɨ.so.ta.t͡ʃə.wɨ.nɨ ɡə.lɨ.sʼə.wa.lɨ|11
-LJSpeech/11_d511023.wav|ɡu.da.ju.nɨ bə.kʼɨ.rɨ.bɨ lə.mɨ.nɨ.kə.ta.tə.lə.wɨ sə.wo.t͡ʃɨ mɨ.nɨ.mɨ ʔə.sɨ.də.nɨ.ɡa.t͡ʃʼɨ jɨ.zə.tɨ jə.lə.wɨ.mɨ|11
-LJSpeech/11_d511024.wav|jɨ.hɨ si.mi.nɨ.to ba.hɨ.rɨ da.rɨ la.jɨ.mɨ jə.mi.ʃə.tʼə.wɨ bə.sɨ.lɨ.sa ʔə.mɨ.sɨ.tɨ bɨ.rɨ nə.wɨ|11
-LJSpeech/11_d511025.wav|sə.la.mɨ lə.ʔɨ.na.nɨ.tə jɨ.hu.nɨ ʔɨ.dɨ.mɨ.tə.ɲo.t͡ʃe ʔɨ.ne ʔə.ʃɨ.mu.rə.ɲa.wɨ lə.ʔɨ.na.nɨ.tə sə.la.mɨ.na tʼe.na.wɨ.nɨ ʔɨ.mə.ɲa.lə.hu|11
-LJSpeech/11_d511026.wav|ʔi.tɨ.jo.pʼɨ.ja sə.la.mɨ fə.la.ɡi bə.mə.mɨ.sə.lɨ ʔɨ.ja.də.rə.ɡə.t͡ʃɨ ja.lə.t͡ʃɨ.wɨ.nɨ də.ba lə.ma.mɨ.kə.nɨ.na so.sɨ.tə.ɲa.wɨ.nɨ zu.rɨ wə.rə.ra lə.mə.də.mɨ.sə.sɨ zɨ.ɡɨ.d͡ʒu nə.nɨ si.lu.mɨ tə.də.mɨ.tʼə.wa.lɨ|11
-LJSpeech/11_d511027.wav|jɨ.hɨ.nɨ mo.da.li.ti lə.ma.sɨ.fə.sʼə.mɨ ha.la.fi.nə.tɨ jə.tə.tʼa.lə.ba.t͡ʃə.wɨ jə.ʔə.lɨ.d͡ʒə.ri.ja.wɨ pɨ.re.zi.da.nɨ.tɨ.na ʔə.di.su jə.ʔə.ʔə.dɨ wa.na sʼə.ha.fi na.t͡ʃə.wɨ|11
-LJSpeech/11_d511028.wav|wə.rɨ.kʼɨ.na bɨ.rɨ bu.na.na ʔə.hɨ.lɨ ɡa.mo.ɡwə.fa ʔə.lə bə.mi.lɨ ʃɨ.fa.nɨ də.bɨ.da.be.mɨ ʔɨ.jə.sʼa.fə jə.dɨ.bɨ.kʼɨ ma.hɨ.bə.rɨ ʔə.kʼwa.kʼwa.mə|11
-LJSpeech/11_d511029.wav|sɨ.ju.mɨ nə.wɨ jə.sʼa.fə.wɨ bɨ.lo sʼɨ.hu.fu.nɨ ʔə.jɨ.t͡ʃe jə.ʔɨ.rɨ.su ʔə.lə.mə.ho.nu.nɨ sɨ.nə.ɡɨ.rə.wɨ ʔɨ.ne jə.ma.wɨ.kʼə.wɨ nə.ɡə.rɨ jə.lə.mɨ nə.wɨ ja.lə.ɲɨ|11
-LJSpeech/11_d511030.wav|bu.dɨ.nu bə.ʔɨ.nɨ.ɡɨ.li.zɨ ka.lu.tɨ kɨ.lə.bo.t͡ʃɨ bə.ʔə.ka.lɨ bɨ.kʼa.tu bə.ku.lɨ jə.tə.wa.tʼa.lə.tɨ.na di.sɨ.pɨ.li.nɨ.nɨ mə.rɨ.ho ja.də.rə.ɡə ʔɨ.nɨ.də nə.bə.rɨ jɨ.nə.ɡə.ra.lɨ|11
-LJSpeech/11_d511031.wav|ʔə.hu.nɨ ba.lə.bə.tɨ hu.ne.ta kə.kʼə.tʼə.lə t͡ʃʼɨ.ra.ʃu.nu wɨ.dɨ.dɨ.ru ʔɨ.nɨ.da.jɨ.tʼə.fa ja.sə.ɡa.lɨ|11
-LJSpeech/11_d511032.wav|bu.dɨ.nu ba.də.rə.ɡa.t͡ʃə.wɨ so.sɨ.tɨ t͡ʃʼə.wa.ta.wo.t͡ʃɨ wɨ.sɨ.tʼɨ hu.lə.tu.nɨ ʔə.t͡ʃa si.wə.tʼa bə.ʔə.nɨ.du tə.ʃə.nɨ.fwa.lɨ|11
-LJSpeech/11_d511033.wav|jə.ʔe.dɨ.sɨ bə.ʃɨ.ta.na jə.ʃa.ʔɨ.bi.ja wə.rə.ra sʼə.rə lɨ.ma.tɨ na.t͡ʃə.wɨ|11
-LJSpeech/11_d511034.wav|ʔɨ.nɨ.də di.pɨ.lo.ma.tu kə.ho.nə jə.ʃa.ʔɨ.bi.ja ba.lə.sɨ.lɨ.tʼa.na.tɨ jə.ʔi.tɨ.jo.pʼɨ.ja tʼo.rɨ ʔə.sə.bɨ.nɨ lə.mə.ja.zɨ kʼo.rɨ.tʼwa.lɨ bɨ.lə.wɨ ʔɨ.ra.sa.t͡ʃə.wɨ.nɨ ʔə.sa.mɨ.nə.wa.lɨ|11
-LJSpeech/11_d511035.wav|wə.də tɨ.wɨ.lɨ.dɨ mə.nɨ.də.ra.t͡ʃə.wɨ jə.mi.kə.du.tɨ.nɨ ma.də.nɨ kʼə.rɨ.to lə.sɨ.mɨ.nɨ.tə.ɲa.wɨ zu.rɨ jə.sa.wa sɨ.lɨ.tʼə.na tə.mə.lɨ.ma.jɨ lə.ma.ɡɨ.ɲə.tɨ mə.t͡ʃə.ɡə.ru tə.zə.ɡɨ.bwa.lɨ|11
-LJSpeech/11_d511036.wav|jə.dɨ.rɨ.d͡ʒɨ.ta.t͡ʃɨ.nɨ hɨ.ɡɨ ʔə.sɨ.kə.ba.ri ha.jɨ.lɨ ʔo.di.tɨ ko.mi.ʃɨ.nɨ bə.nə.su la.jɨ fɨ.rɨ.du.nɨ si.ja.sa.rɨ.fɨ dɨ.ro.wɨ.nɨ.mɨ ʔɨ.ja.wə.kʼu ku.de.ta ja.də.rə.ɡu bə.mə.ho.na.t͡ʃə.wɨ li.kʼə.bə.lu ʔə.lɨ.fə.lə.ɡu.mɨ|11
-LJSpeech/11_d511037.wav|sɨ.lə.zi.hɨ ɡu.da.jɨ ʔə.nɨ.dɨ ba.lə.sɨ.lɨ.tʼa.nɨ si.na.ɡə.ru mə.nɨ.ɡɨ.sɨ.tɨ bə.wɨ.sɨ.tʼɨ kʼɨ.ra.ne wɨ.sɨ.tʼɨ nə.wɨ bə.ma.lə.tɨ ʔə.ɡa.tʼa.mi.wɨ.nɨ.na ʔɨ.dɨ.lu.nɨ lə.mə.tʼə.kʼə.mɨ fə.lɨ.ɡə.wɨ nə.bə.rɨ bɨ.lə.wa.lɨ|11
-LJSpeech/11_d511038.wav|ʔə.lə.zi.ja kə.ɡu.ba.ʔe.wo.t͡ʃa.t͡ʃə.wɨ kə.sɨ.bɨ.sə.ba.wo.t͡ʃa.t͡ʃə.wɨ.na kə.di.sɨ.ku.ra.t͡ʃə.wɨ lə.hɨ.zɨ.bɨ.na lə.ʔə.ɡə.rɨ jə.tə.rə.fə nə.ɡə.rɨ ʔə.la.jə.nɨ.mɨ|11
-LJSpeech/12_d512021.wav|jə.dɨ.nɨ.bə.rɨ ma.ka.lə.lɨ hi.də.tu.nɨ bə.ʔə.fa.tʼa.ɲɨ ɡɨ.bu.nɨ ʔɨ.nɨ.di.mə.ta ʔə.lə.mɨ ʔə.kʼə.fu hɨ.bə.rə.tə.sə.bu.nɨ ʔə.sɨ.fə.la.ɡi.wɨ.nɨ ʔɨ.ɡə.za ʔɨ.nɨ.di.ja.də.rɨ.ɡɨ tʼɨ.ri jɨ.kʼə.rɨ.ba.lɨ|12
-LJSpeech/12_d512022.wav|bə.tə.t͡ʃʼə.ma.ri.mɨ jə.ba.nɨ.kɨ kʼɨ.rɨ.nɨ.t͡ʃʼa.fo.t͡ʃɨ bə.le.lə.ba.t͡ʃə.wɨ ʔə.ka.ba.bi.wo.t͡ʃɨ jə.bɨ.rɨ lə.wɨ.tʼu jə.mi.tə.ɡə.bɨ.ru so.sɨ.tɨ mə.to jə.mi.də.rɨ.su ɡi.ze.ja.wi jə.mə.lə.wa.wə.t͡ʃʼa tʼa.bi.ja.wo.t͡ʃɨ mə.zə.ɡa.d͡ʒə.ta.t͡ʃə.wɨ.nɨ ʔə.to du.ba.lə ʔə.sɨ.rə.dɨ.tə.wa.lɨ|12
-LJSpeech/12_d512023.wav|jɨ.hɨ də.ɡɨ.mo jə.ʔə.nɨ.dɨ ʔɨ.mɨ.nə.tɨ tə.kə.ta.jɨ.nə.ta.t͡ʃə.wɨ.nɨ ʔɨ.nɨ.d͡ʒi jə.hɨ.zɨ.bu mə.tʼə.ri.ja ho.no li.ja.ɡə.lə.ɡɨ.lɨ jə.mi.t͡ʃɨ.lɨ sɨ.ja.me ʔɨ.nɨ.da.lɨ.ho.nə ɡɨ.lɨ.sʼɨ nə.wɨ|12
-LJSpeech/12_d512024.wav|mə.d͡ʒə.mə.ri.ja nə.ɡə.rɨ jɨ.hɨ.nɨ.nɨ hɨ.ɡə mə.nɨ.ɡɨ.sɨ.tɨ mə.kʼə.bə.lɨ ma.lə.tɨ jə.wə.ja.ne.nɨ jə.po.lə.ti.ka pɨ.ro.ɡɨ.ra.mɨ mə.kʼə.bə.lɨ ma.lə.tɨ jɨ.ho.na.lɨ|12
-LJSpeech/12_d512025.wav|jə.ʔo.nə.ɡɨ ta.tʼa.kʼi.wo.t͡ʃɨ bə.ke.nɨ.ja wə.ta.də.ro.t͡ʃɨ tə.kə.bə.bu|12
-LJSpeech/12_d512026.wav|bə.tə.t͡ʃʼə.ma.ri ɡa.ze.tʼə.ɲa ta.mɨ.ra.tɨ zu.ma jə.ʔə.sɨ.ra sɨ.dɨ.sɨ.tɨ ʃi bɨ.rɨ wa.sɨ bə.ma.tʼa.tu lə.kə.fɨ.tə.ɲa ʔɨ.sɨ.rɨ.na sɨ.kʼa.jɨ mə.da.rə.ɡu jɨ.ta.wə.sa.lɨ|12
-LJSpeech/12_d512027.wav|bə.lɨ.mə.na ɡi.ze.ja.t͡ʃɨ.nɨ.nɨ ma.tʼɨ.fa.tɨ jə.lə.bɨ.nɨ.mɨ jə.mi.lɨ wə.re jə.mi.ja.ra.ɡɨ.bu ʔɨ.nɨ.da.lu ja.sɨ.ta.wə.kʼə.wɨ ʔi.tə.po.dɨ.hɨ jə.hɨ.bɨ.rə.tu jə.tɨ.ɡɨ.lɨ sə.nə.dɨ ja.lə.ɡə.ba.t͡ʃə.wɨ na.t͡ʃə.wɨ bɨ.lwa.t͡ʃə.wa.lɨ|12
-LJSpeech/12_d512028.wav|tʼu.rə.ta.wɨ ʔɨ.nɨ.di.kə.bə.rɨ.lə.tɨ jə.ma.jɨ.fə.lɨ.ɡɨ ma.nɨ.mɨ jə.lə.mɨ|12
-LJSpeech/12_d512029.wav|ma.tʼɨ.kʼa.tu.nɨ jə.d͡ʒə.mə.rə.t͡ʃɨ.wɨ ʔi.tɨ.jo.pʼɨ.ja na.tɨ|12
-LJSpeech/12_d512030.wav|ɡɨ.nɨ jɨ.hɨ hu.lu wɨ.ʃə.tɨ nə.wɨ|12
-LJSpeech/12_d512031.wav|bə.zɨ.ɡɨ sɨ.ta.di.jo.mɨ t͡ʃʼə.wa.ta.wo.t͡ʃɨ jə.mi.kə.na.wə.nu.tɨ bu.dɨ.nu.nɨ lə.mə.kʼɨ.tʼa.tɨ ho.nə tə.bɨ.lo bə.fe.de.re.ʃɨ.nu ʔə.li.ja.mɨ bə.ko.nɨ.fe.de.re.ʃɨ.nu wɨ.sa.ne.wɨ si.sə.tʼɨ nə.wɨ|12
-LJSpeech/12_d512032.wav|jə.mɨ.na kʼə.rɨ.bə.wɨ ha.sa.bɨ bə.ʔi.tɨ.jo.pʼɨ.ja fu.tɨ.bo.lɨ fe.de.re.ʃɨ.nɨ zə.nɨ.dɨ tə.kʼə.ba.jɨ.nə.tɨ ja.ɡə.ɲa.lɨ bɨ.lə.nɨ ʔɨ.nɨ.ɡə.mɨ.ta.lə.nɨ|12
-LJSpeech/12_d512033.wav|kʼɨ.du.sɨ ɡi.jo.rɨ.ɡi.sɨ bə.zə.nɨ.dɨ.ro wɨ.dɨ.dɨ.rɨ la.jɨ tʼə.nɨ.ka.ra tə.fo.ka.ka.ri lə.mə.ho.nɨ jə.ba.nɨ.ko.t͡ʃu.nɨ ʔə.nɨ.tə.nə.hɨ fə.lə.kʼə.nɨ.na jə.ʔi.tɨ.jo.pʼɨ.ja bu.na te.wo.dɨ.ro.sɨ bə.kʼə.lə.nɨ ʔə.sɨ.ko.bɨ.lɨ.lwa.lɨ|12
-LJSpeech/12_d512034.wav|bə.ʔɨ.sɨ.ra.ʔe.lɨ ʔi.ra.kʼɨ ʔi.ra.nɨ.nɨ ru.si.ja ru.wa.nɨ.da ma.la.ʒɨ.ja li.bi.ja la.ʔo.sɨ sɨ.pe.nɨ so.ri.ja wə.zə.tɨ ɡa.ze.tʼə.ɲo.t͡ʃɨ ʔɨ.nɨ.də lɨ.bɨ jə.mə.nɨ.kʼə.sa.kʼə.su ʔɨ.dɨ.lɨ ʔɨ.nɨ.də.le.la.t͡ʃə.wɨ dɨ.rɨ.d͡ʒɨ.tu zə.ɡɨ.bwa.lɨ|12
-LJSpeech/12_d512035.wav|bə.wə.kʼɨ.tu jə.tʼə.la.tɨ sə.ra.wi.tɨ jə.t͡ʃʼa.nu jə.mi.ɡə.ɲu.ba.t͡ʃə.wɨ.nɨ kə.sə.la.sa bə.la.jɨ jə.tʼə.la.tɨ mə.ki.na.wo.t͡ʃɨ.nɨ ʔə.ɡa.jɨ.tə.wa.lɨ|12
-LJSpeech/12_d512036.wav|jɨ.hɨ.nɨ.nɨ bə.tə.mə.lə.kə.tə kə.wɨ.t͡ʃʼɨ ɡu.da.jɨ mi.ni.sɨ.te.rɨ ma.bɨ.ra.ri.ja lə.ma.ɡɨ.ɲə.tɨ ja.də.rə.ɡə.wɨ tʼɨ.rə.tɨ ʔə.lɨ.tə.sa.ka.mɨ|12
-LJSpeech/12_d512037.wav|ɡɨ.nɨ ʔɨ.nə.su ʔə.fə.nɨ.ɡɨ.tʼə.wɨ ba.jɨ.wə.tʼu lɨ.ju.nə.tu mə.tʼɨ.bə.bɨ jɨ.t͡ʃɨ.lɨ nə.bə.rɨ|12
-LJSpeech/12_d512038.wav|bə.tə.lə.jɨ kə.ʔi.ha.de.ɡɨ ba.lə.sɨ.lɨ.tʼa.no.t͡ʃɨ ɡa.rɨ ʔə.bɨ.rə.wɨ si.sə.ru.na si.ja.se.ru bɨ.zu ʔə.mə.tɨ kʼo.jɨ.tə.wa.lɨ|12
-LJSpeech/13_d513021.wav|ʔə.hu.nɨ.mɨ bi.ho.nɨ ba.lə.fu.tɨ ʔə.sɨ.rɨ.tɨ ʔə.mə.ta.tɨ ʔɨ.nɨ.da.də.rə.ɡə.t͡ʃɨ.wɨ hu.lu bə.so.ma.li.ja sə.la.mɨ ʔɨ.nɨ.di.sə.fɨ.nɨ tɨ.sə.ra.lə.t͡ʃɨ bɨ.lə.wa.lɨ|13
-LJSpeech/13_d513022.wav|lə.ʔə.ɡə.ra.t͡ʃɨ.nɨ po.lə.ti.ka jə.ʔɨ.nɨ.d͡ʒə.ra lɨ.d͡ʒɨ ho.nə.na.lɨ jə.mi.lu wə.ɡə.no.t͡ʃɨ bɨ.rə.tɨ ma.nɨ.sa.ta.t͡ʃə.wɨ.nɨ ʔɨ.jə.nə.ɡə.ru.nɨ nə.wɨ|13
-LJSpeech/13_d513023.wav|bə.so.sɨ.tə.ɲa.wɨ də.rə.d͡ʒa də.ɡɨ.mo ʔə.mɨ.ba.ɡə.nə.nu.nɨ sɨ.rɨ.ʔə.tɨ bə.sɨ.mu jə.mi.tʼə.ra bə.mə.ho.nu.mɨ ʔə.bɨ.za.ɲa.wɨ ʔi.tɨ.jo.pʼɨ.ja.wi ja.kə.bɨ.rə.wa.lɨ|13
-LJSpeech/13_d513024.wav|za.re bə.rɨ.ka.ta t͡ʃɨ.ɡɨ.ro.t͡ʃɨ kə.fi.ta.t͡ʃɨ.nɨ tə.də.kʼɨ.nə.wa.lɨ|13
-LJSpeech/13_d513025.wav|bə.kʼa ʔɨ.nɨ.də fə.rə.də.bɨ.ɲɨ ʔɨ.ne ʔɨ.fə.lɨ.ɡa.lə.hu jɨ.la.lɨ zə.bə.ɲa.wɨ jə.ʔə.hu.nu.nɨ ba.lə.sɨ.lɨ.tʼa.nɨ wə.jɨ.nɨ.mɨ ɡu.mɨ.tu tə.ɡa.da.la.jɨ|13
-LJSpeech/13_d513026.wav|jə.ʃe.hɨ ʔə.la.mu.di.nɨ ha.bɨ.tɨ bə.sə.nɨ.tʼə.rə.ʒu la.jɨ jə.tə.mə.lə.kə.tə.wɨ bɨ.t͡ʃa ʔɨ.nɨ.da.lɨ.ho.nə.na jɨ.hɨ zɨ.rɨ.zɨ.rɨ bə.tə.ɡə.ɲə mə.rə.d͡ʒa la.jɨ bɨ.t͡ʃa tə.mə.sɨ.rɨ.to jə.tə.tʼə.na.kə.rə mə.ho.nu.nɨ lə.mə.rə.da.tɨ tə.t͡ʃɨ.lwa.lɨ|13
-LJSpeech/13_d513027.wav|ʃa.t͡ʃʼɨ.mɨ ɡə.ʒi.mɨ kə.zi.hɨ kə.tə.fə.kʼə.də.wɨ bo.ta bə.kʼə.rɨ kə.le.la zə.nɨ.dɨ sɨ.tɨ.ɡə.za jə.tə.ɡə.ɲə.hɨ sə.wɨ bə.kə.bɨ.tɨ.hɨ tɨ.kʼə.tʼa.lə.hɨ|13
-LJSpeech/13_d513028.wav|mə.nɨ.ɡɨ.sɨ.tɨ jə.mə.lə.sa.t͡ʃə.wɨ jə.be.tə kɨ.hɨ.nə.tɨ hɨ.nɨ.sʼa.wo.t͡ʃɨ kə.ʔə.ba pʼa.wɨ.lo.sɨ ʔɨ.d͡ʒɨ ʔɨ.nɨ.də.ma.jɨ.wə.tʼu tə.ɡə.lə.sʼə|13
-LJSpeech/13_d513029.wav|wɨ.tʼe.tu jə.tʼə.mə.mə.bə.tɨ.nɨ li.və.rɨ.pu.lɨ jə.kʼə.dɨ.mo.wɨ zɨ.na.wɨ.nɨ lə.ma.sɨ.mə.lə.sɨ ʔɨ.nɨ.də.mi.tʼə.ru jɨ.na.ɡə.ra.lu|13
-LJSpeech/13_d513030.wav|te.kɨ.ni.ʃa.nu ʔə.sɨ.to.nɨ vi.la.nɨ bə.ɡə.nɨ.zə.bɨ mə.ɡu.da.tɨ ʔə.ja.ʃa.mɨ|13
-LJSpeech/13_d513031.wav|ʔɨ.zi.hɨ la.jɨ ɡu.ri mi.jo kʼə.ri hu.lə.tɨ t͡ʃʼə.wa.ta ʔə.lə wɨ|13
-LJSpeech/13_d513032.wav|kə.ʔə.hu.nɨ wə.di.ja tə.mə.lɨ.ka.t͡ʃu.nɨ wə.də me.da lə.mə.mə.lə.sɨ mɨ.nɨ.mɨ ʔə.jɨ.nə.tɨ mə.fɨ.tɨ.he li.ja.bə.d͡ʒu.lə.tɨ ʔə.jɨ.t͡ʃɨ.lu.mɨ|13
-LJSpeech/13_d513033.wav|bə.bɨ.za.tɨ ɡɨ.nɨ bə.jə.mə.nɨ.ɡə.du da.rɨ bə.jə.bə.rə.nɨ.da.wɨ la.jɨ.mɨ lə.ma.də.rɨ bə.mə.kə.lɨ.kə.la.t͡ʃə.wɨ ma.jɨ ha.bɨ ha.bɨ jə.tə.ba.lə jə.kə.tə.ma.wɨ kʼo.ʃa.ʃa ma.tʼə.ra.kʼə.mi.ja bo.ta jə.mi.ja.dɨ.ru mə.ho.nu.nɨ ɡə.lɨ.tʼə.wa.lɨ|13
-LJSpeech/13_d513034.wav|jə.mə.nɨ.ɡɨ.sɨ.tɨ ɡa.ze.tʼə.ɲa.wɨ ʔi.hɨ.ʔə.de.ɡɨ.nɨ bə.zə.rə.ɲɨ.nə.tɨ kə.sə.sə|13
-LJSpeech/13_d513035.wav|ri.t͡ʃa.rɨ.dɨ bu.ʃɨ.rɨ wɨ.jɨ.jɨ.tu ɡə.nɨ.bi ʔɨ.nɨ.də nə.bə.rə bi.ɡə.lɨ.sʼu.mɨ zɨ.rɨ.zɨ.rɨ ɡu.da.jo.t͡ʃɨ.nɨ kə.ma.sɨ.rə.da.tɨ tə.kʼo.tʼɨ.bə.wa.lɨ|13
-LJSpeech/13_d513036.wav|pɨ.re.zɨ.da.nɨ.tɨ ka.mɨ.pa.wo.re kə.ʔɨ.sa.t͡ʃə.wɨ ɡa.rɨ wə.də ʔi.tɨ.jo.pʼɨ.ja na ʔe.rɨ.tɨ.ra ʔɨ.nɨ.di.mə.tʼu tə.ma.tʼɨ.nə.wa.t͡ʃə.wɨ nə.bə.rɨ|13
-LJSpeech/13_d513037.wav|jə.sʼə.tʼɨ.ta.wɨ mɨ.kɨ.rɨ be.tɨ ma.sa.sə.bi.ja la.kə|13
-LJSpeech/13_d513038.wav|ʔə.mɨ.sɨ.tə.ɲa.wɨ ɡɨ.bɨ.sʼa.wi si.ho.nu da.ɡɨ.mɨ lə.mə.mə.rə.tʼɨ ʔɨ.nɨ.də.ma.jɨ.fə.lɨ.ɡu ta.wɨ.kʼwa.lɨ|13
-LJSpeech/14_d514021.wav|li.də.rə.ɡɨ lə.ta.sə.bə.wɨ lə.wɨ.tʼɨ tʼɨ.na.tɨ.na zɨ.ɡɨ.d͡ʒɨ.tu.nɨ ʔɨ.jə.tə.ɡə.ba.də.də nə.wɨ bɨ.lə.wa.lɨ|14
-LJSpeech/14_d514022.wav|də.nɨ.be mə.nɨ.ɡu.lɨ bə.ʔə.wə.za.ɡa.bi.wa jə.ba.dɨ.mə mə.nɨ.də.rɨ ʔə.ka.ba.bi ʔə.ra.tɨ mə.to me.tɨ.rɨ ja.hɨ.lɨ lə.ʔe.rɨ.tɨ.ra wə.də tə.wə.sə.nə.wɨ ɡɨ.za.tɨ ɡə.ba bɨ.la jə.mɨ.tɨ.ɡə.ɲɨ na.tɨ|14
-LJSpeech/14_d514023.wav|sɨ.lə.zi.hɨ.mɨ jə.be.tɨ sɨ.ra.wɨ.nɨ sa.jɨ.sə.ra jə.tɨ.mɨ.hɨ.rɨ.tɨ ɡi.ze jə.də.rə.sə.bə.tɨ tə.ma.ri mə.sɨ.lwa.lɨ|14
-LJSpeech/14_d514024.wav|sɨ.lə tʼo.rɨ.nə.tu mə.na.ɡə.rɨ bə.ʔɨ.nə.su sɨ.lə.mi.ja.mɨ.rɨ ɡu.da.ju.nɨ lə.ʔɨ.nə.su mə.tə.wɨ bə.fə.kʼə.dɨ.ku|14
-LJSpeech/14_d514025.wav|jə.ʔi.tɨ.jo.pʼɨ.ja hu.lə.tɨ tə.wa.ɡi d͡ʒə.to.t͡ʃɨ bə.ʔə.sɨ.ra hu.lə.tɨ bo.nɨ.bɨ jə.ʔə.sə.bɨ.nɨ ʔə.jə.rɨ tʼa.bi.ja mə.mɨ.ta.ta.t͡ʃə.wɨ tə.rə.ɡa.ɡə.tʼə|14
-LJSpeech/14_d514026.wav|jə.ba.hɨ.rɨ bə.rɨ bi.no.rə.nɨ jɨ.tʼə.kʼɨ.mə.na.lɨ|14
-LJSpeech/14_d514027.wav|bə.zi.hu sɨ.bɨ.sə.ba la.jɨ jə.ke.nɨ.ja.na jə.ru.wa.nɨ.da mi.ni.sɨ.tɨ.ro.t͡ʃɨ ja.lɨ.tə.ɡə.ɲu si.ho.nɨ jə.hu.lə.tu.mɨ mə.nɨ.ɡɨ.sɨ.ta.tɨ tə.wə.ka.jo.t͡ʃɨ ɡɨ.nɨ bə.sɨ.bɨ.sə.ba.wɨ la.jɨ mə.ɡə.ɲə.ta.t͡ʃə.wɨ ta.wɨ.kʼwa.lɨ|14
-LJSpeech/14_d514028.wav|jɨ.hɨ.nɨ ʔɨ.nɨ.də ʔə.sɨ.fə.la.ɡi.nə.tu bə.ʔə.ka.ba.bi.wɨ mu.ja.wɨ.na bɨ.kʼa.tu jə.le.la.t͡ʃə.wɨ sə.wo.t͡ʃɨ wə.jɨ.mɨ bə.mi.fə.lə.ɡə.wɨ mə.tʼə.nɨ bə.ma.jɨ.ɡə.ɲu.bə.tɨ wə.kʼɨ.tɨ jə.wɨ.t͡ʃʼɨ ze.ɡwə.t͡ʃɨ jə.mi.sa.tə.fɨ.bə.tɨ ʔɨ.dɨ.lɨ jɨ.no.ra.lɨ|14
-LJSpeech/14_d514029.wav|kə.ʔə.di.sɨ ʔə.ba wə.də d͡ʒɨ.ma bə.mi.wə.sɨ.də.wɨ mə.nɨ.ɡə.dɨ ha.mɨ.sa ʔə.mɨ.sɨ.tɨ ki.lo me.tɨ.rɨ bə.mɨ.tɨ.ɡə.ɲə.wɨ bə.tə.d͡ʒi kə.tə.ma ʔə.ka.ba.bi bɨ.zu sə.wo.t͡ʃɨ mo.tə.wa.lɨ tə.bɨ.lwa.lɨ|14
-LJSpeech/14_d514030.wav|ɡɨ.nɨ bə.tʼa.mɨ tʼɨ.ru jɨ.ho.na.lɨ jə.mi.lɨ ha.sa.bɨ ʔə.lɨ.nə.bə.rə.ɲɨ.mɨ|14
-LJSpeech/14_d514031.wav|hu.la.t͡ʃɨ.nɨ.mɨ kə.sɨ.hɨ.tə.to.t͡ʃa.t͡ʃɨ.nɨ ʔɨ.nɨ.dɨ.nɨ.ma.rɨ ja.də.rɨ.ɡə.na.lɨ|14
-LJSpeech/14_d514032.wav|bu.na ɡə.bə.ja ʔə.də.ɡə.ɲa jə.mi.lə.wɨ ze.ma.t͡ʃə.wɨ bə.tə.lə.jɨ mə.ta.wə.kʼi.ja.t͡ʃə.wɨ ho.nwa.lɨ|14
-LJSpeech/14_d514033.wav|lə.t͡ʃɨ.ɡɨ.ru bə.ɡwə mɨ.la.ʃɨ ma.ɡɨ.ɲə.tɨ jə.mi.t͡ʃa.lə.wɨ kə.ka.fɨ zə.nɨ.dɨ nə.wɨ|14
-LJSpeech/14_d514034.wav|bə.zi.hɨ rə.ɡə.dɨ ʔə.jɨ ʔe.mɨ ʔe.fɨ ʔɨ.kʼɨ.du jə.mi.sə.tʼə.wɨ bɨ.dɨ.rɨ bə.dɨ.rɨ.d͡ʒɨ.tu tɨ.ʔɨ.za.zɨ ʔɨ.sɨ.ka.lɨ.tə.fə.sʼə.mə dɨ.rə.sɨ jə.nə.sʼa ɡə.bə.ja.wɨ.nɨ mə.rɨ.hɨ ma.ra.mə.dɨ ʔə.jɨ.t͡ʃɨ.lɨ.mɨ|14
-LJSpeech/14_d514035.wav|ʔə.mɨ.ba.sa.də.rɨ ba.dɨ.rɨ bə.hu.lə.tɨ ʔə.ɡə.ro.t͡ʃɨ ja.lu jə.nɨ.ɡɨ.dɨ sə.wo.t͡ʃɨ jə.bə.lə.tʼə lə.mə.sɨ.ra.tɨ ʔɨ.nɨ.di.t͡ʃɨ.lu ʔə.ɡa.tʼa.mi.wo.t͡ʃɨ mə.tʼə.kʼə.mɨ ʔɨ.nɨ.də.mi.t͡ʃɨ.lu.mɨ ʔə.sɨ.mɨ.rə.wɨ.bə.ta.lɨ|14
-LJSpeech/14_d514036.wav|bə.hɨ.ɡɨ mə.dɨ.rə.kɨ jə.tə.də.rə.ɡə.wɨ tɨ.ɡɨ.lɨ fɨ.tɨ.hɨ tə.ɡə.ɲə.bə.tɨ.mɨ ʔə.lɨ.tə.ɡə.ɲə.bə.tɨ.mɨ wə.t͡ʃʼi jə.mi.də.rə.ɡɨ.bə.tɨ nə.wɨ|14
-LJSpeech/14_d514037.wav|kə.ʃa.ʔɨ.bi.ja ʔə.mɨ.lɨ.tʼə.wɨ jə.mə.nɨ jə.ɡə.bu ʔi.tɨ.jo.pʼɨ.ja.wɨ.ja.nɨ wə.də ha.ɡə.ra.t͡ʃə.wɨ ɡə.bu|14
-LJSpeech/14_d514038.wav|bə.kʼə.da.da jə.mi.ɡə.ba nɨ.sʼu.hɨ ʔə.jə.rɨ ta.ɡə.ɲa.lə.t͡ʃɨ.na|14
-LJSpeech/15_d515021.wav|lə.ʔi.ko.no.mi.wɨ ʔɨ.dɨ.ɡə.tɨ mə.t͡ʃʼə.mə.rɨ ma.sa.ja bə.ɡɨ.bɨ.rɨ.na.wɨ zə.rɨ.fɨ ɡə.bə.ja ʔə.tʼa ʔɨ.nɨ.d͡ʒi mɨ.rɨ.tɨ t͡ʃʼə.mɨ.rwa.lɨ|15
-LJSpeech/15_d515022.wav|ʔə.rɨ.ti.sɨ.tɨ sɨ.lə.ʃi.hɨ bə.po.lə.ti.ka wɨ.sɨ.tʼɨ tə.sa.tɨ.fo ja.la.t͡ʃə.wɨ ɡɨ.lə.sə.bo.t͡ʃɨ bə.ha.la.fi.nə.tɨ mə.kʼə.mə.tʼɨ ʔɨ.nɨ.də.le.lə.ba.t͡ʃə.wɨ.mɨ tʼə.kʼu.mwa.lɨ|15
-LJSpeech/15_d515023.wav|bə.tə.lə.jɨ bə.də.bu.bɨ bə.ku.lɨ ba.la.ba.to.t͡ʃɨ kə.fɨ.tə.ɲa hu.kə.tɨ ʔɨ.jə.fə.tʼə.ru nə.bə.rɨ|15
-LJSpeech/15_d515024.wav|bə.zi.hɨ ɡɨ.nɨ.ba.rɨ jə.ra.sɨ ʔə.nə.sa.ʃɨ.nə.tu bə.su.da.nɨ sə.ra.wi.tɨ ʔɨ.d͡ʒɨ ʔɨ.nɨ.də.ho.nə lə.ma.nɨ.mɨ ɡɨ.lɨ.sʼɨ nə.wɨ|15
-LJSpeech/15_d515025.wav|jə.ʔi.tɨ.jo.pʼɨ.ja mə.nɨ.ɡɨ.sɨ.tɨ də.bu.bɨ ʔə.fɨ.ri.ka ko.ro.ne.lɨ mə.nɨ.ɡɨ.sɨ.tu.nɨ ʔə.sa.lɨ.fa ʔɨ.nɨ.dɨ.tɨ.sə.tʼa.tɨ tʼə.jə.kʼə|15
-LJSpeech/15_d515026.wav|bə.mɨ.kɨ.rɨ be.tu wə.nɨ.bə.rɨ ʔə.nə.sɨ.tə.ɲa kʼu.tʼɨ.rɨ ja.la.t͡ʃə.wɨ tə.kʼa.wa.mi.wo.t͡ʃɨ jə.po.lə.ti.ka pa.rɨ.ti.wo.t͡ʃɨ bə.ɡɨ.mɨ.ɡə.ma.wɨ tə.sa.ta.fi ʔə.lə mə.ho.na.t͡ʃə.wɨ kʼɨ.re.ta ʔɨ.nɨ.da.sa.də.rə.ba.t͡ʃə.wɨ kə.pa.rɨ.ti.wo.t͡ʃu ʔə.ba.la.tɨ lə.ma.wə.kʼɨ tə.t͡ʃɨ.lwa.lɨ|15
-LJSpeech/15_d515027.wav|bə.zi.hɨ.mɨ mə.ɡɨ.ba.tɨ ʔə.tɨ.t͡ʃɨ.lɨ.mɨ si.ba.lɨ jə.ri.po.rɨ.tə.rɨ ɡa.ze.tʼa wa.na ʔə.zə.ɡa.d͡ʒɨ ja.lə.mɨ.nɨ.mɨ tʼɨ.ja.kʼe tə.fə.tɨ.ʃə.wɨ li.ɡə.bu mə.t͡ʃa.la.t͡ʃə.wɨ tʼə.kʼu.mwa.lɨ|15
-LJSpeech/15_d515028.wav|kə.zi.ja bə.tə.ɲa.t͡ʃɨ.bə.tɨ tʼə.bɨ.sɨ.kʼa kə.ʔə.lɨ.ɡa ɡa.rɨ ʔə.tʼa.bɨ.kʼa bə.mə.ja.zɨ ʔə.nɨ.ɡə.twa.nɨ bə.bi.la mə.kʼu.rə.tʼɨ tɨ.d͡ʒə.mɨ.ra.lə.t͡ʃɨ|15
-LJSpeech/15_d515029.wav|jɨ.hɨ.nɨ.nɨ jə.ʔi.tɨ.jo.pʼɨ.ja wə.ta.də.ro.t͡ʃɨ ʔɨ.rɨ.mɨ.d͡ʒa jə.su.ma.le la.nɨ.dɨ tə.tʼə.ri ʔɨ.wɨ.nə.tɨ si.lu ʔɨ.nɨ.da.rə.ɡa.ɡə.tʼu.tɨ jə.bi.bi.si re.dɨ.jo jə.ha.rɨ.ɡe.sa wɨ.zə.ɡa.bi ba.sa.lə.fə.wɨ jə.sɨ.lɨ.kɨ ze.na la.jɨ ɡə.lɨ.sʼwa.lɨ|15
-LJSpeech/15_d515030.wav|kə.kwa.sɨ hwa.la si.ro.tʼu jə.mi.sɨ.tə.wa.lu.tɨ bə.fi.tɨ.mɨ ʔə.hu.nɨ.mɨ ha.ja hu.lə.tɨ tə.t͡ʃʼa.wa.t͡ʃo.t͡ʃɨ na.t͡ʃə.wɨ|15
-LJSpeech/15_d515031.wav|ʔɨ.nɨ.də tə.mə.lə.kə.tɨ.nə.wɨ ʔə.sə.lɨ.tʼa.ɲɨ tə.sɨ.fa.je ʔɨ.sɨ.kə ʔɨ.rə.fɨ.tɨ kə.mə.kʼə.mə.t͡ʃʼa.wɨ ʔə.lɨ.tə.nə.sa.mɨ nə.bə.rɨ|15
-LJSpeech/15_d515032.wav|bə.zi.hɨ sə.mo.nɨ nə.wɨ kə.kwa.sɨ ɡa.rɨ jə.tə.ja.ja.zə lɨ.mɨ.mɨ.dɨ mə.sɨ.ra.tɨ jə.d͡ʒə.mə.rɨ.nə.wɨ|15
-LJSpeech/15_d515033.wav|kə.zi.hɨ bə.fi.tɨ jɨ.hɨ.nɨ ʔə.jɨ.nə.tɨ ʔɨ.dɨ.lɨ ʔə.ɡɨ.ɲɨ.tə.wɨ kə.tə.ɡwa.zu.tɨ mə.ka.kə.lɨ ʔə.nɨ.da.nɨ.do.t͡ʃu bə.tɨ.mɨ.hɨ.rɨ.ta.t͡ʃə.wɨ bə.mə.ɡɨ.fa.tɨ jə.mə.d͡ʒə.mə.ri.ja di.ɡɨ.ri.ja.t͡ʃə.wɨ.nɨ ʔə.ɡɨ.ɲɨ.tə.wa.lɨ|15
-LJSpeech/15_d515034.wav|ʔi.tɨ.jo.pʼɨ.ja.wi.ja.nɨ d͡ʒə.ɡɨ.no.t͡ʃɨ mə.ho.na.t͡ʃɨ.nɨ lɨ.na.sa.ja.t͡ʃə.wɨ jɨ.ɡə.ba.na.lɨ|15
-LJSpeech/15_d515035.wav|mə.fɨ.tɨ.he jə.mi.də.rə.ɡɨ.lə.tɨ kə.ho.nə jə.ʃa.ʔɨ.bi.ja ʔɨ.d͡ʒo.t͡ʃɨ wə.jɨ mə.sə.bɨ.sə.bɨ ʔə.li.ja.mɨ mə.kʼo.rə.tʼɨ ʔə.lə.ba.t͡ʃə.wɨ|15
-LJSpeech/15_d515036.wav|jə.tɨ.ɡɨ.ra.jɨ hɨ.zɨ.bɨ dɨ.rɨ.d͡ʒɨ.tɨ ʔɨ.jə ɡwə.da.na ʔɨ.ja.kʼo.sə.lə ʔɨ.nɨ.d͡ʒi ʔə.la.da.nə.wɨ.mɨ|15
-LJSpeech/15_d515037.wav|pu.tɨ.la.nɨ.dɨ jə.mɨ.tɨ.ɡə.ɲə.wɨ ɡa.la.ka.je ʔɨ.sɨ.ki də.rɨ.su dɨ.rə.sɨ jə.ʔi.tɨ.jo.pʼɨ.ja mə.kə.la.kə.ja ha.jɨ.lɨ ʔɨ.nɨ.da.d͡ʒə.ba.t͡ʃə.wɨ ta.wɨ.kʼwa.lɨ|15
-LJSpeech/15_d515038.wav|jɨ.hu.nɨ ʔɨ.nɨ.d͡ʒi jɨ.hɨ ʔə.ba.ba.lɨ ʔɨ.nɨ.də sɨ.hɨ.tə.tɨ ʔɨ.nɨ.da.lɨ tə.kʼo.tʼə.rə tə.nɨ.sʼə.ba rɨ.kʼwa.lɨ|15
-LJSpeech/16_d516021.wav|jə.ʔə.jɨ.nə.sɨ.wɨ.ra.nɨ jə.bɨ.ra.lɨ ɡa.ze.tʼa.na jə.ɡu.lɨ.hɨ hɨ.tɨ.mə.tɨ mə.d͡ʒə.mə.rɨ za.re bə.hi.lɨ.tə.nɨ ho.te.lɨ jɨ.fa ʔɨ.nɨ.də.mi.ho.nɨ jə.ʔi.tɨ.jo ni.wɨ.sɨ jə.bɨ.ra.lɨ ɡa.ze.tʼa wa.na ʔə.zə.ɡa.d͡ʒɨ ɡə.lə.sʼu|16
-LJSpeech/16_d516022.wav|mɨ.kɨ.rɨ be.tu kə.zi.hɨ kʼə.də.mɨ jə.kʼə.rə.bə.lə.tɨ.nɨ jə.ʔo.di.tə.rɨ ri.po.rɨ.tɨ mə.sə.rə.tɨ ʔə.dɨ.rɨ.ɡwə mɨ.nɨ ʔɨ.rɨ.mɨ.d͡ʒa wə.sə.də bə.ma.lə.tɨ lə.ʔə.fə ɡu.ba.ʔe.wɨ tʼɨ.ja.kʼe kʼə.rɨ.bwa.lɨ|16
-LJSpeech/16_d516023.wav|wə.də ʔə.sɨ.mə.ra kə.ɡə.sə.ɡə.sɨ.nɨ kə.to.wɨ.nɨ.mɨ ʔə.lə.mɨ ʔə.kʼə.fɨ ma.ʔɨ.kʼə.bɨ jɨ.tʼa.lɨ.ba.t͡ʃə.wɨ jə.mi.lɨ wɨ.sa.ne jɨ.sə.tʼɨ.bɨ.na.lɨ|16
-LJSpeech/16_d516024.wav|kɨ.la.sɨ.tə.rɨ bo.mɨ.bɨ bə.tɨ.ɡɨ.ra.jɨ nə.wa.ri.wo.t͡ʃɨ la.jɨ ʔɨ.nɨ.də.tə.wə.rə.wə.rə jə.sə.ma.hu.tɨ ʔɨ.zi.hɨ ʔə.me.ri.ka jə.mi.ta.tə.mu ɡa.ze.tʼo.t͡ʃɨ.na ra.di.jo.wo.t͡ʃɨ bə.sə.fi.wɨ si.zə.ɡɨ.bu nə.wɨ|16
-LJSpeech/16_d516025.wav|d͡ʒe.ne.ra.lu ʔə.ja.jɨ.zə.wɨ.mɨ bə.tɨ.na.nɨ.tu ʔə.jə.rɨ tʼɨ.kʼa.tɨ bə.ʔe.rɨ.po.rɨ.tɨ ʔə.ka.ba.bi jə.mi.ɡə.ɲɨ ʔə.nɨ.dɨ ɡɨ.zu.fɨ jə.tʼo.rɨ mə.sa.ri.ja mə.ɡa.zə.nɨ mə.ɡa.jə.tu.nɨ.mɨ ʔə.bɨ.ra.rɨ.tə.wa.lɨ|16
-LJSpeech/16_d516026.wav|jə.tɨ.ra.nɨ.su ɡɨ.bɨ tʼə.ba.kʼi kə.tə.mə.lɨ.ka.t͡ʃɨ ʔə.dɨ.na.kʼo.tɨ.nɨ tə.t͡ʃɨ.ro.ta.lɨ|16
-LJSpeech/16_d516027.wav|ʔɨ.nə.ɲi.hɨ.nɨ bə.mə.la.wɨ jə.ʔi.tɨ.jo.pʼɨ.ja hɨ.zɨ.bɨ sɨ.mɨ sə.ma.ʔɨ.tɨ jə.ho.nu.tɨ.nɨ ʔə.rɨ.bə.ɲa tə.ɡa.dɨ.lo.ʔə.t͡ʃə.wɨ.nɨ lə.ma.sa.nə.sɨ jə.ta.kʼə.də se.ra nə.wɨ bə.mi.lɨ kʼɨ.re.ta.wɨ.nɨ ɡə.lɨ.tʼwa.lɨ|16
-LJSpeech/16_d516028.wav|jə.ʔi.si.ʔe se.ku.ri.tu ha.la.fi jə.tə.za.ba ze.na tə.la.lɨ.fwa.lɨ ʔə.lu|16
-LJSpeech/16_d516029.wav|ʔə.nɨ.de.mɨ ɡɨ.nɨ tə.kʼə.ba.jɨ.nə.tɨ li.ja.ɡə.ɲɨ ʔə.lɨ.t͡ʃa.lə.mɨ|16
-LJSpeech/16_d516030.wav|ʔɨ.wɨ.nə.ta.wɨ.nɨ.mɨ bə.ʔə.la.hɨ sɨ.mɨ ʔə.rə.ɡa.ɡɨ.tʼɨ.lɨ.ɲɨ|16
-LJSpeech/16_d516031.wav|bə.bɨ.he.ra.wi li.ɡu kə.kə.tə.ma wə.də kə.tə.ma mə.zə.wa.wə.ru tə.t͡ʃʼə.ma.ri wə.t͡ʃʼi ja.sɨ.kə.tɨ.lɨ.bɨ.na.lɨ|16
-LJSpeech/16_d516032.wav|jə.hu.lɨ.ɡi.ze jə.jɨ.hɨ jɨ.mwa.la.lɨ.nɨ tʼɨ.ja.kʼe do.kɨ.tə.rɨ mə.ko.nɨ.nɨ.na jə.bu.dɨ.nɨ mə.ri.wɨ na.zɨ.re.tɨ bə.nə.bə.ru.tɨ ɡi.ze ʔə.lɨ.ta.jə.mɨ|16
-LJSpeech/16_d516033.wav|vi.jo.ri lə.ʔə.tɨ.le.ti.ko bə.sɨ.pe.nɨ li.ɡa.na bə.ma.hɨ.bə.rə.sə.bu wa.nɨ.t͡ʃʼa li.sɨ.tɨ wɨ.sɨ.tʼɨ tə.mə.zɨ.ɡɨ.bwa.lɨ|16
-LJSpeech/16_d516034.wav|ʔɨ.nɨ.di.ja wɨ.mɨ bɨ.zu.wo.t͡ʃɨ ʔe.rɨ.tɨ.ra.wɨ.ja.nɨ ʃa.ʔɨ.bi.ja bə.ʔi.tɨ.jo.pʼɨ.ja la.jɨ lə.kə.fə.tə.wɨ wə.rə.ra.mɨ ʔɨ.jə.tə.tʼə.ra.tʼə.ru mə.mɨ.tʼa.ta.t͡ʃə.wɨ.nɨ sə.mo.nu.nɨ kə.ʔə.sɨ.mə.ra jə.mi.wə.tʼu wə.re.wo.t͡ʃɨ ja.sɨ.rə.da.lu|16
-LJSpeech/16_d516035.wav|ɡɨ.nɨ ze.ɡwə.t͡ʃa.t͡ʃɨ.nɨ.nɨ ʔɨ.nɨ.di.sə.tʼu.nɨ bɨ.nɨ.tʼə.jɨ.kʼɨ.mɨ li.sə.tʼu.nɨ ʔə.lɨ.t͡ʃa.lu.mɨ bə.ma.lə.tɨ lə.vi.ʔo.ʔe.wa zə.ɡa.bi ɡə.lɨ.sʼə.wa.lɨ|16
-LJSpeech/16_d516036.wav|jə.mə.sɨ.kə.rə.mɨ ʔə.nɨ.du.nɨ tʼɨ.kʼa.tɨ kʼə.dɨ.mə.wɨ ka.wə.ɡə.zu.tɨ ʔə.ɡə.ro.t͡ʃɨ ʔə.nɨ.dwa jə.nə.bə.rə.t͡ʃɨ.wɨ su.da.nɨ bə.zə.ɡə.ba.wɨ ja.lə.mə.ka.tə.tu.wa.mɨ tʼɨ.ja.kʼe jə.mi.ja.sɨ.nə.sa li.ho.nɨ ʔɨ.nɨ.də.mi.t͡ʃɨ.lɨ ʔɨ.nə.zi.hu ʔə.sɨ.tə.ja.jə.tɨ sə.t͡ʃʼi.wo.t͡ʃɨ tʼə.kʼu.mə.wa.lɨ|16
-LJSpeech/16_d516037.wav|ʔə.ra.tɨ ki.lo.na ʔə.mɨ.sɨ.tɨ ki.lo fa.ku.li.ti.wo.t͡ʃɨ.nɨ kʼa.ɲɨ.tə.wɨ ʃɨ.kʼɨ.bɨ bə.mə.wɨ.tʼa.tɨ bə.sɨ.dɨ.sɨ.tɨ ki.lo ju.ni.və.rɨ.sɨ.ti ʔə.lɨ.fə.wɨ kə.wə.tʼu bə.hwa.la zo.rə.wɨ jɨ.mə.lə.sa.lu|16
-LJSpeech/16_d516038.wav|nə.ɡə.rɨ ɡɨ.nɨ jə.ʔe.rɨ.tɨ.ra.nɨ wə.rə.ra mə.kʼə.tʼə.lɨ.mɨ ho.nə jə.mə.re.ta.t͡ʃə.wɨ ɡɨ.ma.ʃɨ wə.də ʔe.rɨ.tɨ.ra mə.ka.lə.lɨ.na jə.hɨ.zɨ.ba.t͡ʃə.wɨ lə.hu.lə.tɨ mə.kə.fə.lɨ jə.mi.wa.tʼɨ.la.t͡ʃə.wɨ ʔə.jɨ.ho.nɨ.mɨ|16
-LJSpeech/17_d517021.wav|tʼo.rɨ.nə.tu ʔɨ.nɨ.də.ɡə.na li.kʼə.sə.kʼə.sɨ jɨ.t͡ʃɨ.la.lɨ|17
-LJSpeech/17_d517022.wav|bə.mə.ho.nu.mɨ jə.ʔi.tɨ.jo.pʼɨ.ja mə.nɨ.ɡɨ.sɨ.tɨ ʔi.ro.bɨ jə.ʔi.tɨ.jo.pʼɨ.ja ɡɨ.za.tɨ hu.na ʔɨ.nɨ.dɨ.tɨ.kʼə.tʼɨ.lɨ ʔɨ.rɨ.mɨ.d͡ʒa.wo.t͡ʃɨ.nɨ mə.wɨ.sə.dɨ ʔɨ.nɨ.da.lə.bə.tɨ.na jə.dɨ.nɨ.bə.rɨ ko.mi.ʃɨ.nu.mɨ ja.sa.lə.fə.wɨ.nɨ wɨ.sa.ne bə.dɨ.ɡa.mi ʔɨ.nɨ.di.ja.tʼe.nə.wɨ tʼə.jɨ.kʼə.wa.lɨ|17
-LJSpeech/17_d517023.wav|ʔɨ.ɲi.hɨ wə.ɡə.no.t͡ʃa.t͡ʃɨ.nɨ də.ɡɨ.mo ʔə.fɨ.rɨ.sə.wɨ jə.mi.ɡə.zu ho.nu|17
-LJSpeech/17_d517024.wav|za.fo.t͡ʃɨ tɨ.lɨ.lɨ.kʼɨ dɨ.nɨ.ɡa.jo.t͡ʃɨ wə.jɨ.mɨ wə.nɨ.zɨ ka.lə jə.ʔi.tɨ.jo.pʼɨ.ja dɨ.nɨ.bə.rɨ nə.wɨ jɨ.ba.la.lɨ si.lu sə.mɨ.t͡ʃa.t͡ʃə.wa.lə.hu|17
-LJSpeech/17_d517025.wav|ʔi.tɨ.jo.pʼɨ.ja lu.ʔə.la.wi.nə.twa.nɨ lə.ma.sɨ.kə.bə.rɨ mə.bɨ.tu.mɨ ha.jɨ.lu.mɨ ʔə.la.tɨ|17
-LJSpeech/17_d517026.wav|bə.sə.mo.nu jə.dɨ.nɨ.bə.rɨ wɨ.zɨ.ɡɨ.bɨ zu.ri.ja jə.tə.tʼə.na.kə.rə.wɨ zə.ɡə.ba kʼə.tʼɨ.lo kʼə.rɨ.bwa.lɨ|17
-LJSpeech/17_d517027.wav|ɡɨ.bɨ.sʼɨ bə.ʔə.ba.jɨ wɨ.ha la.jɨ jə.ko.ta tʼɨ.ja.kʼe ʔə.kʼə.rə.bə.t͡ʃɨ|17
-LJSpeech/17_d517028.wav|jə.ʔi.tɨ.jo.pʼɨ.ja ba.lə.sɨ.lɨ.tʼa.no.t͡ʃɨ jə.za.lɨ ʔə.mɨ.bə.sa kə.tə.ma kɨ.fu.ɲa bə.ʔe.rɨ.tɨ.ra.wi.ja.nɨ kə.ba.dɨ mə.sa.ri.wo.t͡ʃɨ mə.də.bɨ.də.bwa.nɨ ʔə.mə.lə.kə.tu|17
-LJSpeech/17_d517029.wav|ɡə.d͡ʒə.ra.wɨ tə.jɨ.zo mɨ.sɨ.kɨ.ro.t͡ʃɨ kʼə.rɨ.bə.wɨ jə.fɨ.rɨ.dɨ hi.də.tu.nɨ ma.kə.na.wə.nɨ si.t͡ʃɨ.lu fa.jɨ.lu.nɨ zə.ɡɨ.tə.wɨ ʔɨ.nɨ.di.mə.lə.sɨ tə.də.rɨ.ɡwa.lɨ|17
-LJSpeech/17_d517030.wav|mɨ.nɨ.mɨ jə.mi.sʼə.sʼɨ.tə.ɲɨ nə.ɡə.rɨ jə.lə.mɨ|17
-LJSpeech/17_d517031.wav|bə.zi.hɨ mɨ.kɨ.nɨ.ja.tɨ wə.sa.ɲɨ jə.ho.nu.tɨ.nɨ tə.t͡ʃʼa.wa.t͡ʃo.t͡ʃɨ.nɨ ʔɨ.ja.tʼa.nɨ nə.wɨ|17
-LJSpeech/17_d517032.wav|t͡ʃʼə.wa.ta.wɨ bə.ʔə.ɡwa.ɡi.nə.tu bi.tʼə.kʼə.sɨ.mɨ jə.rə.ba ʔɨ.nɨ.kʼɨ.sɨ.kʼa.se sa.jɨ.ta.jɨ.bə.tɨ li.fə.sʼə.mɨ t͡ʃɨ.lwa.lɨ|17
-LJSpeech/17_d517033.wav|nə.ɡə.rɨ ɡɨ.nɨ t͡ʃe.lɨ.si lə.ʔə.wɨ.ro.pa su.pə.rɨ ka.pɨ kə.t͡ʃa.mɨ.pi.jə.nɨ.sɨ li.ɡɨ ʔə.ʃə.na.fi kə.ri.ja.lɨ ma.dɨ.ri.dɨ ɡa.rɨ ba.lə.bə.tɨ t͡ʃʼə.wa.ta mɨ.kɨ.nɨ.ja.tɨ wə.də le.la kʼə.nɨ tə.zə.wa.wɨ.rwa.lɨ|17
-LJSpeech/17_d517034.wav|ʔi.tɨ.jo.pʼɨ.ja tʼo.rɨ.nə.tu.nɨ bə.dɨ.lɨ lə.mə.wə.tʼa.tɨ wə.sa.ɲu.na bɨ.t͡ʃə.ɲa.wɨ ɡi.ze.wa ʔə.hu.nɨ nə.wɨ|17
-LJSpeech/17_d517035.wav|bɨ.he.ra.wi jə.mɨ.rɨ.t͡ʃʼa bo.rɨ.dɨ bə.tə.də.ɡa.ɡa.mi ma.sɨ.tʼə.nɨ.kʼə.kʼi.ja bi.ja.sɨ.tə.la.lɨ.fɨ.mɨ li.sa.ka ʔə.lə.mə.t͡ʃa.lu.nɨ.na ʔɨ.nɨ.də.wɨ.mɨ bə.ʔə.ka.ba.bi.wɨ kə.mɨ.rɨ.t͡ʃʼa ɡa.rɨ bə.tə.ja.ja.zə kə.fɨ.tə.ɲa t͡ʃɨ.ɡɨ.rɨ ʔɨ.nɨ.da.jɨ.kə.sə.tɨ sɨ.ɡa.tu.nɨ nə.wɨ jə.ɡə.lə.sʼə.wɨ|17
-LJSpeech/17_d517036.wav|lə.zi.hɨ də.ɡɨ.mo mə.nɨ.ɡɨ.sɨ.tɨ bə.ʔə.mə.t͡ʃa.t͡ʃə.lə.tɨ jə.bɨ.dɨ.rɨ ʔə.ɡə.lɨ.ɡɨ.lo.tɨ mə.tʼə.kʼə.mɨ jɨ.ɡə.ba.wa.lɨ|17
-LJSpeech/17_d517037.wav|bə.tə.t͡ʃʼə.ma.ri mə.nɨ.ɡɨ.sɨ.ta.tɨ.na jə.sə.bɨ.ʔə.wi mə.bɨ.tɨ tə.mwa.ɡa.t͡ʃɨ dɨ.rɨ.d͡ʒɨ.to.t͡ʃɨ jə.su.da.nɨ mə.nɨ.ɡɨ.sɨ.tɨ jə.ʔə.sə.ra.t͡ʃə.wɨ.nɨ ʔo.ro.mo.wo.t͡ʃɨ ʔɨ.nɨ.di.fə.ta t͡ʃʼa.na ʔɨ.nɨ.di.ja.də.rɨ.ɡɨ tʼə.jɨ.kʼwa.lɨ|17
-LJSpeech/17_d517038.wav|ʔɨ.nɨ.di.ja.wɨ.mɨ dɨ.rɨ.ɡi.tu ʔi.tɨ.jo.pʼɨ.ja bə.ʔe.rɨ.tɨ.ra la.jɨ mu.lu wə.rə.ra lə.ma.dɨ.rə.ɡɨ ʔɨ.nɨ.də mɨ.kɨ.nɨ.ja.tɨ jə.mɨ.tɨ.tʼə.kʼə.mɨ.bə.tɨ nə.wɨ si.lu ko.nɨ.nə.wa.lɨ|17
-LJSpeech/18_d518021.wav|bə.ʔɨ.rɨ.ɡɨ.tʼɨ bə.ʔə.nɨ.da.nɨ.dɨ mɨ.hu.ra.nɨ tʼɨ.ru ha.sa.bo.t͡ʃɨ tə.sə.nɨ.zɨ.rə.wa.lɨ bɨ.lə.wa.lɨ|18
-LJSpeech/18_d518022.wav|bə.ʔə.hu.nu wə.kʼɨ.tɨ ʔə.bɨ.ja.tə kɨ.rɨ.sɨ.tɨ.ja.na.tu jə.tə.zə.ɡu.bə.tɨ mɨ.kɨ.nɨ.ja.tɨ mɨ.nɨ ʔɨ.nɨ.də.ho.nə ʔɨ.nɨ.di.nə.ɡə.ra.t͡ʃə.wɨ ʔə.nɨ.da.nɨ.dɨ ʔə.lə.mɨ ʔə.kʼə.fɨ jə.wə.nɨ.ɡe.lɨ ʔə.ɡə.lɨ.ɡɨ.lo.tɨ dɨ.rɨ.d͡ʒɨ.to.t͡ʃɨ mə.nɨ.ɡɨ.sɨ.tɨ.nɨ ʔɨ.jə.tʼə.jə.kʼu mə.ho.nu.mɨ ta.wɨ.kʼwa.lɨ|18
-LJSpeech/18_d518023.wav|ja.la.sə.la.sə.lɨ nə.wɨ ɡu.da.jɨ bə.ʔə.mɨ.ba.ɡə.nə.no.t͡ʃɨ.na bə.tʼɨ.ɡa.bə.ɲo.t͡ʃɨ tʼo.sɨ bə.mi.kʼə.tʼa.tʼə.lə.wɨ ʔɨ.sa.tɨ jə.mi.nə.dɨ.də.wɨ jə.zi.hɨ zə.mə.nɨ jə.ha.ɡə.ra.t͡ʃɨ.nɨ t͡ʃʼɨ.kʼu.nɨ mə.ho.nu.nɨ nə.wɨ|18
-LJSpeech/18_d518024.wav|za.re ʔə.me.ri.ka tə.kʼo.tʼɨ.to jə.ʔə.fɨ.ri.ka mə.nɨ.ɡɨ.sɨ.ta.tɨ bə.ʔə.sɨ.ta.ra.kʼi.nə.tɨ tə.sə.jɨ.mə.wɨ ɡi.ze.ja.wi jə.tə.ku.sɨ ma.kʼo.mɨ sɨ.mɨ.mɨ.nə.tɨ la.jɨ mə.dɨ.rə.sɨ mə.fɨ.tɨ.he ʔə.jɨ.ho.nɨ mɨ|18
-LJSpeech/18_d518025.wav|nə.sʼa ʔə.mə.lə.ka.kə.to.t͡ʃɨ.nɨ lə.ma.ra.mə.dɨ ɡə.na d͡ʒə.ma.ri.wo.t͡ʃɨ ho.nə.nɨ bɨ.nɨ.ɡə.ɲɨ.mɨ bə.zə.mə.na.wi.wɨ ʔə.lə.mɨ ja.lə.nɨ hu.lu jə.ʔi.nɨ.fo.rɨ.me.ʃɨ.nɨ.nɨ ʔə.sɨ.fə.la.ɡi.nə.tɨ ʔə.tʼə.kʼa.kʼə.mɨ.nɨ bə.mi.ɡə.ba ʔɨ.na.wɨ.kʼa.lə.nɨ|18
-LJSpeech/18_d518026.wav|kə.ʔi.tɨ.ʔo.pʼɨ.ja nə.ha.se ʔə.sɨ.ra hu.lə.tɨ kʼə.nɨ ʔə.nɨ.dɨ ʃi zə.tʼə.ɲɨ mə.to zə.tʼə.na ʔə.nɨ.dɨ wə.tʼa|18
-LJSpeech/18_d518027.wav|jə.ʔɨ.rə.fɨ.ta.t͡ʃə.wɨ.nɨ.mɨ ɡi.ze jə.ha.zə.nu.nɨ.mɨ sɨ.nə.sɨ.rɨ.ʔə.tɨ lə.ma.wə.d͡ʒɨ jə.be.tə mə.nɨ.ɡɨ.sɨ.tu mə.dɨ.fɨ ha.ja ʔə.mɨ.sɨ.tɨ ɡi.ze dɨ.mɨ.sʼu.nɨ ʔə.sə.ma|18
-LJSpeech/18_d518028.wav|be.tə ʔɨ.sɨ.ra.ʔe.lo.t͡ʃɨ.nɨ ʔə.tʼə.kʼa.la.lə mə.wɨ.sə.dɨ ʔɨ.sɨ.ra.ʔe.lɨ ʔɨ.ja.tʼə.na.t͡ʃɨ nə.wɨ|18
-LJSpeech/18_d518029.wav|bə.ha.d͡ʒɨ.na ʔu.mɨ.ra mu.sɨ.li.mo.t͡ʃɨ ha.jɨ.ma.no.ta.wi ɡɨ.de.ta.t͡ʃə.wɨ.nɨ lə.mə.fə.sʼə.mɨ bə.zi.hɨ t͡ʃɨ.ɡɨ.rɨ ʔə.bə.sa wɨ.sɨ.tʼɨ ɡə.bɨ.tə.wa.lɨ|18
-LJSpeech/18_d518030.wav|bə.ha.ɡə.ra.t͡ʃɨ.nɨ ɡɨ.nɨ jə.rə.ba me.da ʔɨ.nɨ.kwa.nɨ jə.lə.nɨ.mɨ|18
-LJSpeech/18_d518031.wav|bə.ʔə.tʼə.kʼa.la.jɨ bə.ʔɨ.ne.na bə.wa.na.wɨ sʼə.ha.fi.wɨ mə.ka.kə.lɨ ʔə.lə mə.ɡɨ.ba.ba.tɨ si.kə.sə.tɨ bə.mə.ha.la.t͡ʃɨ.nɨ tʼa.lɨ.kʼa jə.mi.ɡə.ba wə.ɡə.nɨ ba.lə mə.no.ru t͡ʃɨ.ɡɨ.ru li.ba.ba.sɨ t͡ʃɨ.lwa.lɨ|18
-LJSpeech/18_d518032.wav|ʔɨ.na bə.hwa.la nə.wɨ sɨ.ra ʔɨ.jə.tə.fə.tʼə.rə lə.tɨ jə.mə.tʼa.wɨ|18
-LJSpeech/18_d518033.wav|dɨ.rɨ.d͡ʒɨ.tu bə.mi.la.nɨ lə.nɨ.də.nə.na ni.wɨ.jo.rɨ.kɨ kə.tə.mo.t͡ʃɨ sʼɨ.fə.tɨ be.to.t͡ʃɨ si.no.ru.tɨ kə.zi.hɨ le.la jə.tʼa.lɨ.ja.nɨ ʔɨ.ɡɨ.rɨ kwa.sɨ li.ɡɨ.nɨ jɨ.kʼo.tʼa.tʼə.ra.lɨ|18
-LJSpeech/18_d518034.wav|lə.kʼɨ.sa.t͡ʃə.wɨ.na ɡɨ.rɨ.ɡɨ.ru si.bə.rɨ.dɨ lə.kʼə.nɨ wə.tʼa.nɨ jɨ.hɨ nə.wɨ ʔɨ.wɨ.nə.ta.wɨ ʔɨ.nɨ.d͡ʒi zə.ɡɨ.jə.tɨ bɨ.lə.nɨ jə.wə.tʼa nə.wɨ bə.sɨ.bɨ.sə.ba.wɨ mə.kʼə.tʼə.nɨ fə.lɨ.ɡə.nɨ ʔə.jɨ.də.lə.mɨ|18
-LJSpeech/18_d518035.wav|ʔe.rɨ.tɨ.ra nɨ.bɨ.rə.to.t͡ʃu jə.ʔi.tɨ.jo.pʼɨ.ja ʔə.lə mə.ho.na.t͡ʃə.wɨ.nɨ ʔə.rə.ɡa.ɡɨ.tʼa lə.sa.ʔu.di kə.ka.sa kɨ.fɨ.ja ɡa.rɨ ʔɨ.nɨ.də.mɨ.tɨ mə.lɨ.sɨ ɡə.lɨ.tʼa.lə.t͡ʃɨ|18
-LJSpeech/18_d518036.wav|kʼə.də.mɨ si.lɨ mi.ni.sɨ.tɨ.ro.t͡ʃɨ.na d͡ʒe.ne.ra.lo.t͡ʃɨ ʔə.mɨ.sɨ.tɨ mə.to me.tɨ.rɨ ka.re bo.ta bə.nə.sʼa mə.wɨ.sə.da.t͡ʃə.wɨ jɨ.ta.wə.kʼa.lɨ|18
-LJSpeech/18_d518037.wav|ʔə.ja.jɨ.zo.mɨ bə.mɨ.sɨ.ra.kʼɨ mə.mɨ.hɨ.ra.nɨ ma.sə.lɨ.tʼə.ɲa ko.le.d͡ʒɨ sə.ba.tɨ jə.ʔo.ro.mɨ.ja tə.ma.ri.wo.t͡ʃɨ kə.tɨ.mɨ.hɨ.rɨ.tɨ ɡə.bə.ta.t͡ʃə.wɨ mə.ba.rə.ra.t͡ʃə.wɨ.nɨ.mɨ ʔə.wɨ.ɡɨ.zə.wa.lɨ|18
-LJSpeech/18_d518038.wav|ʔɨ.nɨ.də ʔo.fi.se.la.wi.wɨ mə.ɡɨ.lə.t͡ʃʼa kə.ho.nə li.bi.ja.na ʔe.rɨ.tɨ.ra bə.ʔi.ko.no.mi.na bə.ba.hɨ.lɨ ɡu.da.jo.t͡ʃɨ la.jɨ kə.ɡa.ra sɨ.mɨ.mɨ.nə.tɨ la.jɨ də.rɨ.sə.wa.lɨ|18
-LJSpeech/19_d519021.wav|jə.ʔə.ka.ba.bi tʼɨ.bə.kʼa bu.dɨ.no.t͡ʃɨ.na tə.mə.dɨ di.di.ti.nɨ bə.mə.kʼa.wə.ma.t͡ʃə.wɨ.na mə.nɨ.ɡɨ.sɨ.tɨ.mɨ di.di.ti.nɨ t͡ʃə.lɨ bə.ma.lə.tu sa.bi.ja sə.wo.t͡ʃɨ bə.wə.ba si.ja.lɨ.kʼu tɨ.lɨ.kʼɨ wə.nɨ.d͡ʒə.lɨ nə.wɨ bə.ma.lə.tɨ wə.kʼɨ.sə.wa.lɨ|19
-LJSpeech/19_d519022.wav|kʼɨ.du.sɨ mə.sʼɨ.ha.fɨ dɨ.ho.t͡ʃɨ.nɨ mə.na.kʼɨ.na mə.zə.nɨ.ɡa.tɨ ʔɨ.nɨ.də.ma.jɨ.ɡə.ba.nɨ jə.mi.ja.sɨ.tʼə.nə.kʼɨ.kʼə.nɨ ʔɨ.nɨ.di.hɨ si.lɨ nə.wɨ|19
-LJSpeech/19_d519023.wav|mə.sɨ.ko.bo.t͡ʃɨ.nɨ bə.ma.sə.lə.fɨ bɨ.t͡ʃa ʔi.sa.jɨ.ja.sɨ ʔi.tɨ.jo.pʼɨ.ja.nɨ lə.ma.nɨ.bə.rɨ.kə.kɨ jɨ.t͡ʃɨ.la.lu|19
-LJSpeech/19_d519024.wav|sə.wɨ.je.wɨ bə.lɨ.d͡ʒɨ.nə.tu su.da.nɨ bə.sɨ.də.tə.ɲɨ.nə.tɨ jə.no.rə nə.wɨ|19
-LJSpeech/19_d519025.wav|fɨ.jə.lɨ kə.mə.dɨ.rə.swa kʼɨ.tʼə.lɨ mə.bə.tʼə.swa|19
-LJSpeech/19_d519026.wav|bə.zi.hɨ ʔə.sɨ.ta.kə.wɨ sɨ.də.tə.ɲa.wɨ ʔɨ.mɨ.bi ja.lə.wɨ.nɨ mə.wa.t͡ʃʼo bə.ɡɨ.dɨ ʔɨ.nɨ.di.ja.wa.tʼa lə.ma.dɨ.rə.ɡɨ bə.wa.na.nə.tɨ jə.tə.wə.tʼə.nə sa.jɨ.ho.nɨ ʔɨ.nɨ.da.lɨ.kʼə.rə.mɨ ɡɨ.mɨ.ta.t͡ʃə.wɨ.nɨ jə.mi.ja.sa.rɨ.fu wə.ɡə.no.t͡ʃɨ ʔə.lu|19
-LJSpeech/19_d519027.wav|pɨ.re.zɨ.da.nɨ.tu bə.zi.hu nɨ.ɡɨ.ɡɨ.ra.t͡ʃə.wɨ ʔi.tɨ.jo.pʼɨ.ja jə.d͡ʒɨ.bu.ti jə.hɨ.jɨ.wə.tɨ mə.sɨ.mə.rɨ bɨ.t͡ʃa sa.tɨ.ho.nɨ jə.wə.də.bu sə.ma.ni.ja kə.mə.to bɨ.t͡ʃə.ɲa tə.tʼə.kʼa.mi mə.ho.nwa.nɨ.mɨ t͡ʃʼə.mɨ.rə.wɨ ʔə.sɨ.rə.dɨ.tə.wa.lɨ|19
-LJSpeech/19_d519028.wav|ka.hu.nɨ jə.tə.ʃa.lə jə.nɨ.sɨ.ha ɡi.ze ʔɨ.dɨ.lɨ jə.la.t͡ʃə.wɨ.mɨ ja.lu.tɨ ʔɨ.ɲi.hɨ ʔə.ba.tɨ mə.sʼɨ.ha.fɨ kʼɨ.du.sa.wi ta.ri.kɨ bə.mə.tʼɨ.kʼə.sɨ nə.wɨ jə.tə.nə.tə.nu.tɨ|19
-LJSpeech/19_d519029.wav|lə.ze.ɡwə.t͡ʃa.t͡ʃə.wɨ jə.tə.də.la.də.lə nu.ro fə.tʼɨ.rə.wɨ kə.tə.lə.ja.ju ha.ɡə.ro.t͡ʃɨ jə.mə.tʼu sɨ.də.tə.ɲo.t͡ʃɨ.nɨ ja.sɨ.tə.na.ɡɨ.da.lu bə.ma.lə.tɨ bə.lɨ.ju ʔə.jɨ.nɨ ʔɨ.nɨ.mə.lə.kə.ta.t͡ʃə.wɨ jɨ.ho.na.lɨ|19
-LJSpeech/19_d519030.wav|bə.sɨ.mɨ.nɨ.tə.ɲa.wɨ də.kʼi.kʼa la.jɨ ʔə.nɨ.dɨ jə.ɡɨ.re.mi.jo tə.t͡ʃʼa.wa.t͡ʃɨ kə.pe.na.li.ti wɨ.t͡ʃʼi tə.mə.tɨ.to kʼɨ.tʼa.tɨ tə.ɡə.ɲɨ.to kʼɨ.tʼa.tu.mɨ tə.mə.to bə.ɡɨ.ra.wɨ kʼwa.mi bɨ.rə.tɨ tə.mə.lɨ.swa.lɨ|19
-LJSpeech/19_d519031.wav|bə.mə.la.wɨ ha.ɡə.ri.tu jə.tə.zə.rə.ɡa pɨ.ro.d͡ʒə.kɨ.tɨ ʔə.lə|19
-LJSpeech/19_d519032.wav|le.la.wɨ jə.me.da ɡu.da.jɨ nə.wɨ|19
-LJSpeech/19_d519033.wav|ha.ma.nɨ bə.bə.rɨ.ɡə.rɨ la.jɨ.mɨ ʔɨ.nɨ.di.hu fa.wɨ.lɨ bə.mə.sɨ.ra.tu bə.hu.lə.tɨ bi.t͡ʃʼa kə.me.da tə.wə.ɡɨ.dwa.lɨ|19
-LJSpeech/19_d519034.wav|tʼə.bə.kʼo.t͡ʃa.t͡ʃə.wɨ jə.ɡi.ze kʼə.tʼə.ro.wɨ.nɨ bə.tʼɨ.bɨ.kʼɨ tə.kʼa.wə.mu bə.tə.lə.jɨ ʔə.to bi.tə.wɨ bə.la.jɨ bə.ʔɨ.lɨ.hɨ kə.tə.na.ɡə.ru.tɨ wɨ.sɨ.tʼɨ ʔə.nɨ.kwa.rɨ ʔə.nɨ.kwa.ru.nɨ kə.zi.hɨ bə.ta.t͡ʃɨ ʔə.kʼɨ.rɨ.bə.nə.wa.lɨ|19
-LJSpeech/19_d519035.wav|kɨ.li.nɨ.tə.nɨ bə.ʔi.tɨ.jo ʔe.rɨ.tɨ.ra ɡu.da.jɨ bə.ɡɨ.lɨ ʔɨ.nɨ.di.ɡə.bu tə.tʼə.jə.kʼə|19
-LJSpeech/19_d519036.wav|hu.la.t͡ʃɨ.nɨ.mɨ ʔɨ.nɨ.də.tə.mə.ɲə nə.wɨ mu.lu bə.mu.lu mə.də.mɨ.sə.sɨ ʔɨ.nɨ.kwa.nɨ ba.jɨ.də.rɨ.sɨ.bə.tɨ.mɨ sə.ra.wi.tu bə.tʼa.mɨ kə.ba.dɨ ɡu.da.tɨ.na ʔə.sa.fa.ri ʃɨ.nɨ.fə.tɨ də.rɨ.so.bə.ta.lɨ|19
-LJSpeech/19_d519037.wav|kʼə.də.mɨ si.lɨ jə.tʼə.kʼə.sɨ.kwa.t͡ʃə.wɨ hɨ.mə.mu jə.sʼə.na ba.t͡ʃə.wɨ wə.də ʔə.ra.tɨ mə.to jə.mi.tʼə.ɡu tə.ma.ri.wo.t͡ʃɨ kə.le.lo.t͡ʃɨ tə.lə.jɨ.tə.wɨ jə.mi.tə.ɲu.bə.tɨ sɨ.fɨ.ra tə.zə.ɡa.d͡ʒɨ.to.la.t͡ʃə.wa.lɨ|19
-LJSpeech/19_d519038.wav|kə.be.tə.sə.ba.t͡ʃɨ.nɨ mə.ka.kə.lɨ bə.ʔɨ.rɨ.ʃa tə.ɡɨ.ba.rɨ la.jɨ ja.lɨ.tə.sə.ma.ra.t͡ʃɨ.wɨ ʔɨ.na.ta.t͡ʃɨ.nɨ bɨ.t͡ʃa nə.bə.rə.t͡ʃɨ|19
-LJSpeech/20_d520021.wav|bə.dɨ.nɨ.ɡə.tɨ jə.ʔə.nɨ.tɨ.ra.kɨ.sɨ ba.kɨ.te.ri.ja bə.ʔə.ka.ba.bi.wɨ sɨ.lə.mə.rə.t͡ʃʼə.tu po.li.kɨ.sɨ kə.ʔə.nɨ.dɨ kə.ʔə.lɨ.ta.wə.kʼə sə.wɨ jə.sɨ.lɨ.kɨ tʼɨ.ri jɨ.də.rɨ.sə.wa.lɨ|20
-LJSpeech/20_d520022.wav|kə.dɨ.nɨ.bə.rɨ ɡɨ.t͡ʃʼɨ.tu ma.ɡɨ.sɨ.tɨ zə.rɨ.fə bɨ.zu tʼɨ.lɨ fɨ.lɨ.fɨ po.lə.ti.ka.wi hɨ.sa.be.wo.t͡ʃɨ ʔɨ.jə.tə.sɨ.tə.na.ɡə.du na.t͡ʃə.wɨ|20
-LJSpeech/20_d520023.wav|sɨ.lə.ho.nə.mɨ jə.ʔə.hu.nu dɨ.ɡa.fɨ bə.jə.kʼə.nu ʔɨ.jə.tə.ʃə.rə.ʃə.rə bə.mə.he.dɨ bə.tʼo.rɨ.nə.tu la.jɨ ʔə.lu.ta.wi wɨ.tʼe.tɨ ʔɨ.nɨ.da.jɨ.no.rə.wɨ ʔɨ.fə.ra.lə.hu|20
-LJSpeech/20_d520024.wav|jə.mi.lu.tɨ bə.ʔə.t͡ʃʼɨ.ru də.rə.d͡ʒə de.re.sa kə.lɨ.d͡ʒɨ.nə.tɨ ʔɨ.sɨ.kə ʔɨ.wɨ.kʼə.tɨ bə.kʼa.ɲɨ ta.kə.tə.ɲɨ sa.jɨ.lu lə.ʔi.tɨ.jo.pʼɨ.ja si.lə.fu hɨ.jɨ.wə.ta.t͡ʃə.wɨ ja.lə.fə ʔə.rɨ.bə.ɲa na.t͡ʃə.wɨ jə.mi.lɨ ʔə.jɨ.nə.tɨ nə.wɨ|20
-LJSpeech/20_d520025.wav|ɡu.ba.ʔe.wɨ bə.ʔe.rɨ.tɨ.ra.na bə.ʔi.tɨ.jo.pʼɨ.ja ɡu.da.jɨ tə.wə.ja.jɨ.to jə.ʔe.rɨ.tɨ.ra mə.nɨ.ɡɨ.sɨ.tɨ wə.rə.ra.nɨ tə.kʼa.wɨ.mwa.lɨ|20
-LJSpeech/20_d520026.wav|kə.zi.ja.mɨ lə.nə.ɡa.de.wo.t͡ʃɨ ʔə.nɨ.dɨ tʼə.rɨ.mu.sɨ bi.ra jə.mi.ja.kʼə.rɨ.bu.bə.tɨ wa.ɡa hu.lə.tɨ bɨ.rɨ kə.ha.ja sa.nɨ.ti.mɨ ɡə.də.ma mə.ho.nu.nɨ jɨ.na.ɡə.ra.lu|20
-LJSpeech/20_d520027.wav|jə.ʔə.ka.ba.bi.wɨ kə.fɨ.tə.ɲa ba.la.ba.tɨ ma.la.kɨ.ʃa wə.ri ʔɨ.nɨ.da ta.wə.kʼu.tɨ jə.ʔə.wɨ.ro.pɨ.la.nɨ ma.rə.fi.ja.wɨ kə.ba.dɨ ʔə.wɨ.ro.pɨ.la.nɨ ma.sa.rə.fɨ jɨ.t͡ʃɨ.la.lɨ tə.bɨ.lwa.lɨ|20
-LJSpeech/20_d520028.wav|bə.le.la bə.ku.lɨ hu.lə.tu ʔe.rɨ.tɨ.ra.na ʔi.tɨ.jo.pʼɨ.ja jə.ɡə.zwa.t͡ʃə.wɨ ʔə.wɨ.ro.ɲə.la.no.t͡ʃɨ kə.ʔə.nɨ.du wa.na kə.tə.ma wə.də le.la.wɨ jə.mə.bɨ.rə.rɨ ʔə.kʼɨ.mɨ ʔɨ.nɨ.da.la.t͡ʃə.wɨ bə.zi.hu zə.ɡə.ba tə.rə.ɡa.ɡɨ.tʼwa.lɨ|20
-LJSpeech/20_d520029.wav|ha.d͡ʒi mə.ha.mə.dɨ wə.le mə.lɨ.ʔɨ.kɨ.tɨ ʔə.sɨ.tə.la.lə.fu|20
-LJSpeech/20_d520030.wav|lə.zi.hɨ.mɨ jɨ.mə.sɨ.la.lɨ ba.nə.su.tɨ nə.tʼɨ.bɨ la.jɨ bɨ.zu.mɨ wɨ.rə.fa ʔə.lɨ.bə.za.ba.t͡ʃə.wɨ.mɨ|20
-LJSpeech/20_d520031.wav|bə.kʼɨ.da.me jə.tə.də.rə.ɡu.tɨ ɡɨ.tʼɨ.mi.ja.wo.t͡ʃɨ lə.tə.mə.lɨ.ka.t͡ʃu kʼu.tʼɨ.rɨ zɨ.kʼɨ.tə.ɲa mə.ho.nɨ mɨ.kɨ.nɨ.ja.tɨ ho.nwa.lɨ|20
-LJSpeech/20_d520032.wav|kə.zi.ja.mɨ jə.kɨ.lɨ.lu ko.mi.ʃɨ.nɨ d͡ʒa.nɨ.me.da bi.ro sɨ.lə.sə.tʼə.nɨ wə.də.zi.ja.wɨ he.dɨ.nɨ|20
-LJSpeech/20_d520033.wav|nə.ɡə.rɨ ɡɨ.nɨ tə.t͡ʃʼa.wa.t͡ʃu.nɨ jə.mi.fə.lɨ.ɡə.wɨ kɨ.lə.bu ʔɨ.nɨ.d͡ʒi ʔə.sə.lɨ.tʼa.ɲɨ ɡu.le.tɨ ʔə.lɨ.nə.bə.rə.mɨ|20
-LJSpeech/20_d520034.wav|bə.tɨ.ɡɨ.ra.jɨ hɨ.zɨ.bɨ sɨ.mɨ jə.tə.kʼwa.kʼwa.mə.wɨ ʔe.fə.rɨ.tɨ ʔə.di.sɨ jə.te.le.vi.ʒɨ.nɨ tʼa.bi.ja li.kə.fɨ.tɨ mə.ho.nu.nɨ lə.ɡa.ze.tʼa.wa ze.na de.sɨ kɨ.bə ʔi.nɨ.tə.rɨ.ne.tɨ jə.də.rə.sə.wɨ zə.ɡə.ba ʔə.mə.lə.kə.tə|20
-LJSpeech/20_d520035.wav|kə.zi.hɨ.mɨ le.la jə.te.le.vi.ʒɨ.nwa ɡa.ze.tʼə.ɲa ʔɨ.nɨ.ɡɨ.da.zə.rɨ nə.ɡa ʔɨ.ɡɨ.rwa.nɨ ʔo.pɨ.ra.si.ju.nɨ jə.ho.nə.t͡ʃɨ si.ho.nɨ ʔə.hu.nɨ kə.ʔo.pɨ.ra.si.jo.nu bə.hwa.la bə.də.hɨ.na hu.ne.ta tɨ.ɡə.ɲa.lə.t͡ʃɨ si.lɨ tʼə.kʼu.mwa.lɨ|20
-LJSpeech/20_d520036.wav|zə.ta.jɨ.mɨ zə.ɡa.bi ʔɨ.nɨ.də.zə.ɡə.bə.wɨ tɨ.lɨ.kʼu jə.mɨ.ɡɨ.bɨ ma.mə.la.lə.sɨ tə.ɡɨ.ba.rɨ wə.də di.na.nɨ jə.tə.də.rə.ɡə.wɨ kə.ha.mɨ.sa kʼə.na.tɨ bə.fi.tɨ nə.bə.rɨ|20
-LJSpeech/20_d520037.wav|wə.də kə.tə.ma bə.mi.mə.tʼu ʔɨ.nɨ.ɡɨ.do.t͡ʃɨ la.jɨ dɨ.nɨ.ɡa.tʼe.nɨ jɨ.fə.tʼɨ.ra.lɨ bə.mi.lɨ t͡ʃɨ.ɡɨ.ru ba.lə.bə.tɨ ta.fɨ.no ʔɨ.nɨ.di.ja.zɨ tə.də.rɨ.ɡwa.lɨ|20
-LJSpeech/20_d520038.wav|za.re.mɨ jɨ.hɨ sʼɨ.hu.fɨ ʔɨ.sɨ.kə tə.sʼa.fə.bə.tɨ dɨ.rə.sɨ kə.ʔə.nɨ.dɨ ʃi zə.tʼə.ɲɨ mə.to ʔə.rɨ.ba ʔə.mə.tə mɨ.hɨ.rə.tɨ d͡ʒə.mɨ.ro bə.zi.hu kə.tə.ma bə.mə.no.rɨ la.jɨ jɨ.ɡə.ɲa.lu|20
+LJSpeech-1.1/wavs/01_d501021.wav|jəʔinɨtərɨnet ʔaɡəlɨɡɨlotɨnɨm bətəmələkətə bəkɨlɨlotʃ bəzonotʃɨna bəʔadis ʔaβəβa bətələjaju botawotʃ jəʔaɡəlɨɡɨlot maʔɨkəlotʃɨn ləmak`wak`wam mətak`ədun ʔaβɨrarɨtəwal |01
+LJSpeech-1.1/wavs/01_d501022.wav|bəzihɨm ʔanəsɨtəɲa məsɨnowotʃɨn bəmasɨfafat ʔaɡəritun bətədəɡaɡami kəmijat`ək`at dɨrɨk`ɨna jəmɨɡɨb ʔɨhɨl ʔɨt`ɨrət ləmak`aləl ʔɨnɨdəmitʃal t`ək`uməwal |01
+LJSpeech-1.1/wavs/01_d501023.wav|jɨx ʔɨnɨdajɨhon bəhɨjɨwətatʃəw məsɨwaʔɨtɨnət jasɨɡəɲutɨn jəʔitɨjop`ɨjawinət kɨβɨr ʔanɨɡɨβən lək`ɨdɨsɨt haɡəratʃɨn ʔanɨdɨnətɨna luʔalawinət səlamɨna bɨlɨtsɨɡɨna bəhɨβɨrət ʔɨnɨk`um |01
+LJSpeech-1.1/wavs/01_d501024.wav|jəmədʒəmərijaw nət`ɨb bətək`awami hajɨlotʃ səfər bəɡara ʔak`wam laj bəɡara ləmak`om jajənəw tsɨnat ʔanəsɨtəɲa məhonu nəw |01
+LJSpeech-1.1/wavs/01_d501025.wav|ʔak`ɨm bəmifək`ɨdəw məsərət ʔasɨk`ədɨmo məzəɡadʒət sɨləmifəlɨɡu jəmijat`ərat`ɨr ʔajɨhonɨm sɨtɨl jəʔamerika dɨmɨts zena zəɡaβi ɡəlɨtsalətʃ |01
+LJSpeech-1.1/wavs/01_d501026.wav|kələ k`əsɨtəɲotʃu məkakəl ʔaβɨzaɲawotʃu tsəhaju zare təɡələt`ə hajɨləsɨlase marun ʔaləmatʃɨn ʔaβatatʃɨn jəʔafɨrika ʔaβat jəʔaləm ʔaβat bəmalət nəβər hazənatʃəwɨn jəmiɡəlɨtsu |01
+LJSpeech-1.1/wavs/01_d501027.wav|kəziç ɡar ləsəβɨʔawi ʔaɡəlɨɡɨlot məsələfwam wɨt`etama məhonwam ʔadɨnak`otɨn ʔatɨrɨfolatal |01
+LJSpeech-1.1/wavs/01_d501028.wav|jəkomiʃɨnu wɨsanena jəβetə kɨhɨnətu tək`awɨmo |01
+LJSpeech-1.1/wavs/01_d501029.wav|jɨhɨnɨnɨm badɨmənɨna ʃɨraron bəməwɨrər ʔɨwɨn ʔarɨɡwal |01
+LJSpeech-1.1/wavs/01_d501030.wav|ɡazet`əɲotʃɨn mələjajətatʃəw bɨzuwotʃɨn ʔasazɨnwal |01
+LJSpeech-1.1/wavs/01_d501031.wav|baləfəw səɲo ʔɨlət dəɡɨmo bətelevɨʒɨn lela ʃɨlɨmat siʃələm təməlɨkətɨku |01
+LJSpeech-1.1/wavs/01_d501032.wav|ʔat`ək`alaj wətʃ`iw ʔasɨra sɨmɨnɨt ʃi dolar ʔɨnɨdəhonə ləmawək` tətʃɨlual |01
+LJSpeech-1.1/wavs/01_d501033.wav|lelotʃu bəmulu t`enəɲotʃ natʃəw |01
+LJSpeech-1.1/wavs/01_d501034.wav|mələsɨna ʔisajas ʔɨrɨs bəʔɨrɨs ləməɡələβaβət` ʔɨjəmokəru nəw |01
+LJSpeech-1.1/wavs/01_d501035.wav|jəʔajər hajɨlatʃɨn ʔawɨropɨlanotʃɨm ɡɨdadʒatʃəwɨn bətəɡəβiw fətsɨməw bəsəlam təməlɨsəwal sil jəmənɨɡɨsɨt k`al ʔak`əβaj tsɨfət bet məɡɨlətʃ`a ʔasɨtawɨk`wal |01
+LJSpeech-1.1/wavs/01_d501036.wav|kəmwatʃotʃu ɡar jənəβəru hulət tat`ak`iwotʃ bəsəlam ʔɨdʒatʃəwɨn məsɨt`ətatʃəwɨnɨm jəpolis məɡɨlətʃ`aw ʔakɨlo ɡəlɨtswal |01
+LJSpeech-1.1/wavs/01_d501037.wav|tʃɨɡɨrotʃun dəɡɨmo masɨwəɡəd nəβərə batʃəw |01
+LJSpeech-1.1/wavs/01_d501038.wav|ʔaɡafariwotʃatʃəw baʔadanum ʔak`wamatʃəw lənərɨsu harɨtona muβuto kəsət`ut dɨɡaf ʔajɨləjɨm |01
+LJSpeech-1.1/wavs/02_d502021.wav|jɨhene mələs nək`a ʔalə |02
+LJSpeech-1.1/wavs/02_d502022.wav|bəziç kɨlɨl ləβərɨkata zeɡwətʃɨm jəsɨra ʔɨdɨl jɨfət`ɨral jəmilu sinoru bətələj ləsomalijawɨjan ʔɨdɨlu səfi ʔɨnɨdəhonə tət`ək`ɨswal |02
+LJSpeech-1.1/wavs/02_d502023.wav|dɨfɨrət bajɨhon bɨɲ sɨhɨtət nəw |02
+LJSpeech-1.1/wavs/02_d502024.wav|bəhaɡəratʃɨn jək`ɨrɨb zəmən tarik wɨsɨt` ʔarat ʔadis mɨʔɨraf kəfatʃ hunətotʃ mət`ɨk`əs jɨtʃalal |02
+LJSpeech-1.1/wavs/02_d502025.wav|jəβiraw ʔinɨdusɨtɨri ɡɨn jətakɨs k`ɨnəsa bidərəɡɨlətɨm mɨnɨm ʔajɨnət jəwaɡa ləwɨt` lədənɨβəɲotʃu ʔaladərəɡəm |02
+LJSpeech-1.1/wavs/02_d502026.wav|hɨwəhat ʔihɨʔadeɡ tadɨʃaləhu kəmalətuna k`əwɨsu kəməfət`əru bəfit polis bəfɨtɨx minisɨter sɨr ʔɨnɨdə nəβər sitawək` fɨtɨx minisɨtɨrum jəhɨwəhat səw ʔɨnɨdalɨnəβəru jɨtawɨsal |02
+LJSpeech-1.1/wavs/02_d502027.wav|ʔahun ləmɨn dɨmɨtsatʃəw t`əfa hulətu ʔaɡərotʃ bədʒəmərut t`orɨnət jəβələt`ə jəsəɡaw jəʔamerika mənɨɡɨsɨt nəw |02
+LJSpeech-1.1/wavs/02_d502028.wav|husen ʔajɨdid bəʔalitɨhad laj ʔak`wam wəsədu sɨmɨmɨnətɨm ʔadərəɡu |02
+LJSpeech-1.1/wavs/02_d502029.wav|bəziç ʔɨnɨdətəsɨmamu ləman tɨsət` ləman siβal ləzihɨma kasa ʔalə ʔajɨdəl ʔanɨde jəkoso ʃatʃ` lɨdʒ jəmil hasab təsəma |02
+LJSpeech-1.1/wavs/02_d502030.wav|ronalɨdo mənaɡər jəfələɡəw ɡɨn hɨməmu mulu ləmulu ləmədan ɡize jəmifəlɨɡ ɡɨn jəmidɨn ləmalət nəβər |02
+LJSpeech-1.1/wavs/02_d502031.wav|bəʔasɨtəjajətu tɨsɨmamaləx təβɨlo sit`əjək` ʔasəlɨt`aɲ haɡwəs jɨx ʔajɨnət ʔaɡat`ami bəməlaw ʔaləm laj sikəsət təsɨtəwɨlual bəmalət məlɨswal |02
+LJSpeech-1.1/wavs/02_d502032.wav|ʔanelɨka kəʃi majɨkɨl ɡar bətədəɡaɡami təɡənaɲɨto jaβakənatʃəw kwasotʃ jəmijasɨk`otʃ`u natʃəw |02
+LJSpeech-1.1/wavs/02_d502033.wav|bədʒərɨmən jəmiɡəɲu wət`atotʃɨm ləβɨherawi budɨn ʔɨdɨl sɨləmajɨsət`atʃəw zeɡɨnətatʃəwɨn ʔɨjələwət`u jɨɡəɲalu |02
+LJSpeech-1.1/wavs/02_d502034.wav|ʔato ʔaləmajəhu zəɡəjə bətsərə musɨna komiʃɨn kɨs laj məkatətatʃəwɨn kəɡazet`otʃ laj kəmanɨβəβatʃəw wɨtʃ` jəfɨrɨd bet mət`ɨrija ʔɨnɨdalɨdərəsatʃɨw mənaɡəratʃəwɨm tət`ək`umwal |02
+LJSpeech-1.1/wavs/02_d502035.wav|kəʔitɨjop`ɨja ɡar bɨnɨk`əlak`əl bɨzu jəmiləwət` nəɡər jələm |02
+LJSpeech-1.1/wavs/02_d502036.wav|jəʔanɨɡɨlo ʔitɨjop`ɨjan mahɨβər ʔerɨtɨra sərawitwan ʔɨnɨdɨtasɨwət`a t`əjək`ə |02
+LJSpeech-1.1/wavs/02_d502037.wav|ʔɨne rase jət bota hoɲe sɨrajen ʔɨnɨdəmɨsəra ʔalawɨk`ɨm malətatʃəwɨn kəβiβisi bəmitəlaləfəw fokəs ʔon ʔafɨrika pɨroɡɨram laj ʔasɨdəmɨt`wal |02
+LJSpeech-1.1/wavs/02_d502038.wav|jəhaɡər ʔasɨtədadər minisɨtɨru lɨju rədat bəməhon kaɡələɡəlu bəhwala bətehɨranɨna bətelɨʔaviv jədʒərɨmən ʔemɨβasiwotʃ wɨsɨt` təmədɨβəw ʔaɡəlɨɡɨləwal |02
+LJSpeech-1.1/wavs/03_d503021.wav|bəʔato mələs jətət`əraw jɨx jət`orɨdʒeneralotʃ sɨβɨsəβa ʔahunɨm ʔɨnɨdək`ət`ələ nəw təβɨlual |03
+LJSpeech-1.1/wavs/03_d503022.wav|balidoɡɨle jəʔitɨjop`ɨja t`or tək`ot`at`ɨrotal jətəβaləw jəʔajɨropɨlan marəfija jəmiɡəɲɨβət kətəma nəw |03
+LJSpeech-1.1/wavs/03_d503023.wav|ʃaʔɨβija ʔakəʃəfɨkwatʃəw jəmilatʃəw sɨmɨnɨtu jədərɨɡ jəzəmətʃa zurotʃ məna honəw jək`ərut bəwəjane təwaɡiwotʃ məsɨwaʔɨtɨnət ʔɨnɨdəhonə jɨnəɡəral |03
+LJSpeech-1.1/wavs/03_d503024.wav|bəʔerɨtɨra bəkul bətəməsasaj məlɨku jətəwəsənu ʔalamawotʃ mənədəfatʃəwɨn ʔɨmun nəw |03
+LJSpeech-1.1/wavs/03_d503025.wav|jəʔalɨβəʃɨr mənɨɡɨsɨt kəziç bəhwala jəʔerɨtɨra luʔalawinət jəmitsarərɨna jəβalə sɨlɨt`anatun sɨβɨʔɨna kəminəka təɡɨβar mək`ot`əb ʔɨnɨdəminorɨβət ɡəlɨtsəwal |03
+LJSpeech-1.1/wavs/03_d503026.wav|jɨx səw wɨha lɨmat ʔakaβaβi bəmiɡəɲəw mənorija betu jətaʃəɡəβət sihon ʔɨrɨsum jədərəsəβət ʔajɨtawək` |03
+LJSpeech-1.1/wavs/03_d503027.wav|ʔɨɲam wəsɨfat jɨhonal ʔɨjalɨn bəhwala bəhwala nəw jɨx jəwət`alət |03
+LJSpeech-1.1/wavs/03_d503028.wav|kək`ulɨβi wədə harər təwəsɨdəw mətasəratʃəw kəmətawək`u bəsɨtək`ər jɨx zena ʔɨsɨkə tət`ənakərəβət ɡize dɨrəs mɨnɨm ʔajɨnət ləwɨt` ʔaləmənorun wɨsɨt` ʔawak`iwotʃu ɡəlɨtsəwal |03
+LJSpeech-1.1/wavs/03_d503029.wav|bəməhonum lelotʃ kɨlɨlotʃɨm kəziç bəməmar zeɡwətʃatʃəwɨn kəʔadəɡəɲa ʔɨtsotʃ ləməkəlakəl bəjəβəkulatʃəw hɨɡɨna dənɨb lijazəɡadʒu ʔɨnɨdəmiɡəβa məɡɨfatɨna məɡəfafat təɡəβi jɨməsɨlal |03
+LJSpeech-1.1/wavs/03_d503030.wav|sɨləziç ʔasəlɨt`aɲu rasatʃəwɨn bɨtʃa ʔɨjadamət`u kəfɨlaɡwətatʃəw ʔalɨnək`anək` bɨləwal bəmalət ʔarɨsenal kətʃamɨpijənɨs liɡ kəwət`a bəhwala jəʔɨnɨɡɨliz jəsɨporɨt ɡazet`əɲotʃ ʔɨjətsafu nəw |03
+LJSpeech-1.1/wavs/03_d503031.wav|ʔahunɨm bəjəkɨlɨlu ʔɨjətəzəwawəru pɨrodʒəkɨtun ʔɨjəɡəməɡəmu natʃəw |03
+LJSpeech-1.1/wavs/03_d503032.wav|məβɨrat hajɨl bəwɨsanew tət`ək`ami sajɨhon ʔɨnɨdəmajɨk`ər kəzena mɨnɨtʃ`otʃatʃɨn ləmərədat tʃɨlənal |03
+LJSpeech-1.1/wavs/03_d503033.wav|bəʔawɨropa mədɨrək laj bət`ɨlo maləf wanɨtʃ`aw laj lərub fɨtsame maləfun ʔarəɡaɡɨt`wal |03
+LJSpeech-1.1/wavs/03_d503034.wav|bəlajɨɲaw bər hedɨn sɨnɨt`əjɨk` mɨnɨm ʔanawɨk`ɨm hidu kəziç bɨləwɨnal |03
+LJSpeech-1.1/wavs/03_d503035.wav|baləfəw k`ɨdame pɨrezɨdanɨt ʔisajas bətəɡəɲuβət jətəmarəkəwɨn ʔaβɨrari ʔerɨtɨra ləhɨzɨbwa bəmasajət hɨzɨb ləmasɨdəsət mukəra madɨrəɡwan jətələjaju jəzena mɨnɨtʃ`otʃ ʔasawɨk`əwal |03
+LJSpeech-1.1/wavs/03_d503036.wav|ʃəmɨɡaj budɨnu ʔɨnɨdəmisəβəsəb jasɨtawək`ut jəwək`ɨtu jəʔafɨrika ʔanɨdɨnət dɨrɨdʒɨt lik`əmənɨβərɨna jəβurɨkinafaso pɨrezɨdanɨt jəhonut bɨlez kamɨpa ʔore natʃəw |03
+LJSpeech-1.1/wavs/03_d503037.wav|fana dimokɨrasi jətəsəɲəwɨna jəʔɨfojɨta ɡazet`ana mətsɨhet ʔasatami dɨrɨdʒɨt bəjɨfa təzəɡɨto səratəɲotʃ məβətənatʃəw tawək`ə |03
+LJSpeech-1.1/wavs/03_d503038.wav|ləɡɨnɨzaβe jahɨl ʔanɨd hekɨtar məto metɨr bəməto metɨr wəjɨnɨm ʔanɨd jəkwas mətʃ`awətʃa meda jahɨlal |03
+LJSpeech-1.1/wavs/04_d504021.wav|bəɡuβaʔew laj jənəβərut jəʔinəɡama pɨrezidanɨt ʔato kɨfɨle mulat ɡɨn tsɨdɨk`u k`ərɨto bəwəɡu bəkonənəɲ nəw jalut |04
+LJSpeech-1.1/wavs/04_d504022.wav|jəkenɨjaw pɨrezɨdanɨt kəʔitɨjop`ɨja baləsɨlɨt`anat ɡar bəkenɨjana bəʔitɨjop`ɨja dɨnɨβər mojale ʔakaβaβi bətənəsaw ɡɨtʃ`ɨt ʔɨnɨdə məkəru dipɨlomatik mɨnɨtʃ`otʃ t`ək`uməwal |04
+LJSpeech-1.1/wavs/04_d504023.wav|nəɡər ɡɨn ʔanɨd k`ən rasun bətʃalə hidətɨna məlɨk likənawən jəmitʃɨl jəmajɨk`ər dɨrɨɡit nəw |04
+LJSpeech-1.1/wavs/04_d504024.wav|ʔitɨjop`ɨja bəʔaləm k`əj məsɨk`əl fit ləfit bəɡɨlɨts lədəhɨnɨnətwa jəmijasəɡu ʔerɨtɨrawɨjanɨn ləmaβarər təɡədalətʃ |04
+LJSpeech-1.1/wavs/04_d504025.wav|lɨʔuku kəʔanɨd wər bəhwala ʔadis ʔaβana ʔasɨməra jɨɡəβal təβɨlo jɨt`əβək`al |04
+LJSpeech-1.1/wavs/04_d504026.wav|jəmwatʃ betəsəβotʃ mərɨdow ʔɨsɨkə ʔahun jətədəβək`əβɨn ʔak`ɨm jəlatʃəwɨm mɨn jadərɨɡalu kəmil nɨk`ət jəmənətʃ`ə ʔɨnɨdəhonəm bəmamarər jɨnaɡəralu |04
+LJSpeech-1.1/wavs/04_d504027.wav|ʔahun ɡizew ʔajɨdələm jalaləɲ səw jələm nəβər |04
+LJSpeech-1.1/wavs/04_d504028.wav|kəzihɨm lela hosɨpitalu ʔamɨsɨt pərɨsənɨt jətəɡwəda sihon məɡəlɨɡəja məsarijawotʃu bəmulu kət`ɨk`ɨm wɨtʃ`i məhonatʃəwɨn jədɨrɨdʒɨtu halafi kənorɨwej ləβiβisi ɡəlɨt`əwal |04
+LJSpeech-1.1/wavs/04_d504029.wav|tɨkurət lisət`əw ʔɨnɨdəmiɡəβa ʔɨjəɡələtsɨn ʔasɨfəlaɡiw məlɨʔɨkɨt bək`ət`ɨta jəmimələkətatʃəwɨn hulu bəməwəjajət tətʃ`əmari məlɨʔɨkɨt ləmasɨtəlaləf ʔɨnɨdəmɨnɨtʃɨl təsɨfa ʔɨnadəɡalən |04
+LJSpeech-1.1/wavs/04_d504030.wav|ʔaləβələzija ɡɨn kəməriwotʃu ʔɨjərak`ə nəw |04
+LJSpeech-1.1/wavs/04_d504031.wav|kɨləβatʃɨn jətəməsərətəw bəʔanɨd ʃi zət`əɲ məto zət`əna nəβər |04
+LJSpeech-1.1/wavs/04_d504032.wav|ʔɨsɨkahun jasɨməzəɡəβəw wɨt`etɨm jəmijaβərətata nəw |04
+LJSpeech-1.1/wavs/04_d504033.wav|jəβɨrazil ʃamɨpijona lɨk ʔɨnɨdə bəfitu jəʔitɨjop`ɨja ʃamɨpijona wɨdɨdɨr ʔajɨnət mənɨɡəd nəw jəmikətələw |04
+LJSpeech-1.1/wavs/04_d504034.wav|bəɡɨl tɨmɨhɨrɨt tək`wamat jəmi jasɨtəmɨru jəjunivərɨsɨti məmɨhɨran mənɨɡɨsɨt dəməwəz kəmikəfɨlatʃəw sɨra wɨtʃ`i bəlela jətɨmɨhɨrɨt tək`wamat ʔɨnɨdajasɨtəmɨru jəmijaɡɨd ʔadis dənɨb ʔazəɡadʒɨtwal |04
+LJSpeech-1.1/wavs/04_d504035.wav|jək`ərwatɨn mənɨtɨja lɨdʒotʃ bətɨkaze təmələkətətʃatʃəw ʔɨnəsunɨm ʔɨnɨdəmɨtɨk`əβɨr kəʔajɨnwa laj kəminəβəβəw təsɨfa mək`urət` mərədat jɨtʃalal |04
+LJSpeech-1.1/wavs/04_d504036.wav|lelaw jəɡɨmɨɡəmaw ʔɨrɨsə ɡudaj hono jək`ərəβəw ʔasərar zələl jəmiβaləw nəw |04
+LJSpeech-1.1/wavs/04_d504037.wav|ʔɨnɨdijawɨm kəlelaw ʔalɨtəmarəm kəmiβaləw jəhɨβɨrətəsəb kɨfɨl banəsə mət`ən ʔɨrasun kətɨɡɨlu ʔarɨk`o nəw jəmiɡəɲəw |04
+LJSpeech-1.1/wavs/04_d504038.wav|balɨtə ləmədə hunetam ləβɨzuwotʃu jənədadʒ botewotʃ təsənakɨlo bəjəɡəraʒuna bəjəβetu məkolɨkolɨm wanaw mənɨsɨʔej ʔaw məhonu bəsɨfat ʔɨjətənəɡərə nəw |04
+LJSpeech-1.1/wavs/05_d505021.wav|ʔitɨjop`ɨja wədəβun bənətsa jəmɨtɨt`ək`əmɨβət huneta jɨmətʃatʃal təβalə |05
+LJSpeech-1.1/wavs/05_d505022.wav|bədokɨtər taje wəlɨdəsəmajat laj jəmisəmaw wɨsane bədaɲaw ʔalə məɡəɲət tərazəmə |05
+LJSpeech-1.1/wavs/05_d505023.wav|bədenɨvər kolorado ʔamerika bək`ɨrɨβu bətəkahedəw bəʔinɨdusɨtɨri ʔɨdɨɡət bəmət`ək`u jəsɨmɨnɨt ʔaɡərotʃ sɨβɨsəβa laj jətəwəsənəwɨm kəziç wɨtʃ` ʔalɨnəβərəm |05
+LJSpeech-1.1/wavs/05_d505024.wav|janɨn jəməsələ t`ɨjak`e ʔanɨsɨto bəmaʃofɨna bəmat`at`al maləf kəβad nəw |05
+LJSpeech-1.1/wavs/05_d505025.wav|ʔɨnəziç kəβɨzuwotʃu jətsom dərədʒawotʃ t`ɨk`itotʃu sihonu bətʃ`əwatana jalək`um nəɡər lelitun mulu bəmamɨʃətɨna rəmədan bəməmɨt`atu jəmɨnɨtʃ`ənək`ɨna jəmikəβɨdən məhon jələβətɨm |05
+LJSpeech-1.1/wavs/05_d505026.wav|pɨrezɨdanɨt ʔisajas ʔafəwərɨk`i mənɨɡɨsɨtatʃəw ʔihɨʔapanɨna ʔonəɡɨn jɨrədal bəmil lək`ərəβəlatʃəw t`ɨjak`e ʔihɨʔapanɨm honə ʔonəɡɨn mənɨɡɨsɨtatʃəw ʔɨnɨdəmajɨrəda ɡəlɨtsəwal |05
+LJSpeech-1.1/wavs/05_d505027.wav|betə kɨrɨsɨtijanitum haɡəritum ʔanɨd talak` səw ʔat`u |05
+LJSpeech-1.1/wavs/05_d505028.wav|kəzihɨm lela balɨtərəɡaɡət`ə mɨnɨtʃ` bək`ərəβə zena kəfərənɨsaj ɡaɡɨl jətəβalu helikoɲətərotʃɨna lelotʃɨm təwaɡi ʔawɨroɲəlanotʃ dʒiβuti məɡɨβatatʃəw tawɨk`wal |05
+LJSpeech-1.1/wavs/05_d505029.wav|ləʔalax məɡəzat malət ʔɨnɨdihu bək`ən ʔamɨsɨte kəfitu mədəfat malət ʔajɨdələmɨləx ɡɨɡatotʃuna tɨʔɨzazatu mɨn ɡizem tazaʒ hono məɡəɲət malət nəw ʔɨnɨdʒi |05
+LJSpeech-1.1/wavs/05_d505030.wav|lazijowotʃ ʔɨjajəlu bəməmɨt`at jətʃiliw salas kwas jɨzo siɡəβa bəmət`ələfu jətəsət`əwɨn penalɨti rasu bəmasɨk`ot`ər lazijo sosɨt ləʔanɨd məmɨrat dʒəmərə |05
+LJSpeech-1.1/wavs/05_d505031.wav|lazijona milanɨs ʔɨnɨdet təzənəɡu jɨhe jəʔɨɲa hasab nəw |05
+LJSpeech-1.1/wavs/05_d505032.wav|kəzihɨm bətətʃ`əmari wət`at tətʃ`əwatʃotʃɨn bəmasəβasəb ləwədəfitu lit`ənakəruβət jəmitʃɨluβətɨn mənɨɡəd ʔamətʃatʃɨtwal |05
+LJSpeech-1.1/wavs/05_d505033.wav|jɨhɨn ɡudaj ʔasɨməlɨkɨto bətəɡəməɡəmuβət wək`ɨt kəsəratəɲotʃu t`ɨjak`e k`ərɨβolatʃəw siməlɨsu ɡənɨzəβu ʔɨnɨdisət`əɲ ʔɨne t`ɨjak`e ʔalak`ərəβɨkum bɨləwal |05
+LJSpeech-1.1/wavs/05_d505034.wav|dɨnɨβəratʃɨn ʔasəb dɨrəs nəw ʔɨɲa jəʔanɨdɨnət dək`əməzamurɨt nən |05
+LJSpeech-1.1/wavs/05_d505035.wav|jəmɨdɨr baβur dɨrɨdʒɨt mənɨɡədəɲotʃɨn jəmaɡwaɡwaz ʔaɡəlɨɡɨlot kaləfəw hulət samɨnɨt dʒəmɨro mək`warət`u tawək`ə |05
+LJSpeech-1.1/wavs/05_d505036.wav|minisɨtɨrwa jəβiro wɨn jəmədɨhanit sɨrɨtʃ`ɨt halafi manəɡaɡəratʃəwɨn t`ək`ɨso ɡɨləsəβu hakim ʔaləməhonunɨna jəhɨkɨmɨna ʔɨwɨk`ət ʔɨnɨdəleləwɨm ʔasɨrədɨtwatʃəwal bəmalət ʔasɨfɨrwal |05
+LJSpeech-1.1/wavs/05_d505037.wav|sudanɨna ʔitɨjop`ɨja bədɨnɨβər ɡudajotʃ zurija tənəɡaɡəru |05
+LJSpeech-1.1/wavs/05_d505038.wav|ʔɨsum rasu tʃɨɡɨr ʔaləβət |05
+LJSpeech-1.1/wavs/06_d506021.wav|kəməɡarədʒa dʒərɨβa wənɨdʒəl təfətsɨmwal jəmil nəɡər jələm |06
+LJSpeech-1.1/wavs/06_d506022.wav|lelotʃu dəɡɨmo bəʔaləm ʔak`əf hɨβɨrətəsəb zənɨd jətələjə məlɨkɨna tək`əβajɨnətɨn ləmaɡɨɲət jətənəɡərə ʔɨnɨdəhonə jɨnaɡəralu |06
+LJSpeech-1.1/wavs/06_d506023.wav|hɨzɨβum ʔɨnɨdələmədəw ʔɨnɨdaj nəɡaɡər wədə təɡɨβarawi wɨsanew ʔɨnɨda jazənəβɨl mənɨɡədun ʔat`ərɨnɨβət |06
+LJSpeech-1.1/wavs/06_d506024.wav|kəzija ʔɨsɨkə zare dɨrəs ʔato ʔaβɨrɨham jaluβətɨn tɨɡɨlɨna ʔɨjəkəfəlu jalutɨnɨm məsɨwaʔɨtɨnət ʔawɨk`aləhu ʔadənɨk`aləhum |06
+LJSpeech-1.1/wavs/06_d506025.wav|jɨx bəʔɨnɨdiç ʔɨnɨdalə ʔadis ʔaβa wɨsɨt` jətʃ`əw waɡa nɨro jɨɡəɲ ʔɨnɨdʒi bəlelotʃ mɨrɨtotʃ laj jəwaɡa ləwɨt` ʔalɨtajəm |06
+LJSpeech-1.1/wavs/06_d506026.wav|təfənak`ajotʃ wədə jəkɨlɨlatʃɨhu ɡɨβu təβalu |06
+LJSpeech-1.1/wavs/06_d506027.wav|dʒɨβum wət`atwan təkətatɨlo jɨβəlatal malət nəw jɨsɨmatal |06
+LJSpeech-1.1/wavs/06_d506028.wav|bəʔahunum wək`ɨt hulətum wəɡənotʃ ʔalɨfo ʔalɨfo bəʔakaβaβiw jətəkus lɨwɨwɨt` ʔɨjadərəɡu məhonu tawɨk`wal |06
+LJSpeech-1.1/wavs/06_d506029.wav|jəziç banɨd tarik ʔɨnɨdəmi jasɨrəda wɨ kəhonə bəzəmənatʃəw ʔatʃa jalɨtəɡəɲə latʃəw jərok banɨd təβɨləwal |06
+LJSpeech-1.1/wavs/06_d506030.wav|kɨləβotʃu ɡɨn bətətʃ`awətuβət wək`ɨt kətelevɨʒɨn bəjətʃ`əwataw sɨdɨsɨt məto ʃi bɨr ɡəβi jaɡəɲalu |06
+LJSpeech-1.1/wavs/06_d506031.wav|fɨlaminɨɡwə baləfəw k`ɨdame jasɨtənaɡə dəw bərijo marakaɲa sɨtedijom wɨsɨt` ʔatɨletiko minejɨron nəβər |06
+LJSpeech-1.1/wavs/06_d506032.wav|bəsɨponɨsər kətəɡəɲə ɡəβi nəw ʔɨnɨdʒi |06
+LJSpeech-1.1/wavs/06_d506033.wav|bəʔinɨtərɨnaʃɨnal ɡɨt`ɨmija bunana kənəma ʔasamɨnəw si jaʃənɨfu ɡijorɨɡis bəvitalo təʃənəfə |06
+LJSpeech-1.1/wavs/06_d506034.wav|wɨsɨt`awi ʔanɨdɨnətu disipɨlinu jəsɨra zɨɡɨdʒu nətu wədəmi fəlɨɡəw dərədʒa mədɨrəs mətʃal ʔaləβət |06
+LJSpeech-1.1/wavs/06_d506035.wav|manɨm zeɡa manɨm dəm jɨnurəw lɨk ʔɨsu ʔɨnɨdaləw wəsaɲu ʔamələkakətu nəw |06
+LJSpeech-1.1/wavs/06_d506036.wav|jəʔerɨtɨra maʔɨkəlawi banɨd bonɨd bəməʃət` ʔikonomiwɨn ləmarəɡaɡat jəmijasɨtʃɨləwɨn ɡəβi ləma səβasɨb ʔɨnɨk`ɨsɨk`ase mədʒəmərun bək`ɨrɨβu jəzəɡəβəw rojɨtər jətəsəɲəw jəzena ʔawɨtar nəw |06
+LJSpeech-1.1/wavs/06_d506037.wav|bəʔafar kəmijasɨfəlɨɡəw ʔɨhɨl ʔarɨβa sɨdɨsɨt kəməto bɨtʃa nəw jək`ərəβəw |06
+LJSpeech-1.1/wavs/06_d506038.wav|ʔanɨd ʔitɨjop`ɨjawi pɨrofesər dəɡɨmo rəɡa bɨlən sɨnas bəw t`orɨnətun jasɨkətələw hulətum məriwotʃ jətəkətəlut jəpolətika məsɨmər nəw jɨlalu |06
+LJSpeech-1.1/wavs/07_d507021.wav|rɨʔɨsə ʔanɨk`ətsu bəmək`ət`əlɨm nətsa ɡazet`otʃ jərək`ək`ə masɨfərarijana wəkəβam jɨkahedɨβatʃəwal |07
+LJSpeech-1.1/wavs/07_d507022.wav|ʔanɨd ʔanəsɨtəɲa ɡudaj ləmasɨfətsəm bət`am rədʒɨm k`ət`əro jəmisət` bəməhonu balə ɡudajotʃɨna ɡudajotʃatʃəwɨn jəmikətatəlulatʃəw t`əβək`awotʃ simarəru k`ojɨtəwal |07
+LJSpeech-1.1/wavs/07_d507023.wav|ʔɨzihu lijadək`ɨk`atʃəw jəmifəlɨɡatʃəwɨn səwotʃ kalɨhonə bək`ər lət`əjək`ə hulu pasɨporɨtɨm vizam jɨsət`al |07
+LJSpeech-1.1/wavs/07_d507024.wav|dɨro kəhɨzɨb jəmisəβəsəβəw ɡɨβɨr nəβər |07
+LJSpeech-1.1/wavs/07_d507025.wav|jəwələdəwɨn lɨdʒ ləmasɨtəmar təsɨnotal |07
+LJSpeech-1.1/wavs/07_d507026.wav|bəziç ʔamət mətʃ`ərəʃa hamɨle wər wəjɨnɨm bəmik`ət`ɨləw ʔamət jəmədʒəmərija wərat ʔɨnədokɨtərɨtaje jəmətʃ`ərəʃa wɨsane jaɡəɲalu təβɨlo təɡəmɨtwal |07
+LJSpeech-1.1/wavs/07_d507027.wav|ʔaməzaɲu ʔɨrɨs bərasu sitʃ`ərarəs dʒoro daβa lɨβəs bɨlo majət jəβɨlɨx məriwotʃ ʔasɨtəsasəb lihon ʔajɨtʃɨlɨm |07
+LJSpeech-1.1/wavs/07_d507028.wav|lət`ək`ɨləj minɨsɨtɨr mələs zenawi jasɨtəlaləfutɨn dəβɨdaβe mulu k`al kəziç k`ət`ɨlo ʔɨnak`ərɨβalən |07
+LJSpeech-1.1/wavs/07_d507029.wav|mahɨlawɨm honə ɡaβɨtʃawɨm sɨmetwan jəmikorə kurat fɨt`ɨrət batɨhonɨm ʔɨnɨdihu ʔɨjadənaɡərə wədə tʃ`aka jɨzwat ɡəβa |07
+LJSpeech-1.1/wavs/07_d507030.wav|zarena nəɡə bəhaɡərotʃ jəwɨsɨt` wɨdɨdɨr bəsamɨnɨtu ʔaɡamaʃ laj dəɡɨmo bəʔawɨropa tʃamɨpijənɨs liɡ ʔɨnɨdihu bəɡuɡut jəmit`əβək`u tʃ`əwatawotʃ jɨdərəɡalu |07
+LJSpeech-1.1/wavs/07_d507031.wav|ʔasəlɨt`aɲu bəʔɨrɨɡɨt`ɨm bɨherawi budɨnun kəjazu wədiç kɨləβu ʔɨjətəʃənəfə nəw |07
+LJSpeech-1.1/wavs/07_d507032.wav|jəmimədəβəw ɡənɨzəb təmwalɨto kalək`ə bəhwala jəmikətələwɨn tʃɨɡɨr kəɡɨmɨt wɨsɨt` bəmasɨɡəβat jətələjaju ɡəβi masɨɡəɲa zədewotʃɨn mək`əjəsu ʔasɨfəlaɡi nəw |07
+LJSpeech-1.1/wavs/07_d507033.wav|jəʔaləm jəmɨɡɨb pɨroɡɨram bɨtʃawɨn wədə səlasa ʃiton ʔɨhɨl mərɨdatu təɡəlɨtswal |07
+LJSpeech-1.1/wavs/07_d507034.wav|zəɡəβaw kəziç bətətʃ`əmari bətadaɡi ʔaɡərotʃ jaləwɨn jədɨhɨnət mət`ən bətəmələkətə fɨnɨtʃ`otʃɨn jɨfa ʔadɨrɨɡwal |07
+LJSpeech-1.1/wavs/07_d507035.wav|jɨhɨnɨn bətɨkɨkɨl jəmijawɨk`ut ʔɨnəsu bɨtʃa natʃəw |07
+LJSpeech-1.1/wavs/07_d507036.wav|ʃaʔɨβija ʔɨnəzihɨn ʔakaβaβiwotʃ ləmaɡɨɲət fɨlɨɡwə ʔaləmaɡɨɲətuna mat`atu dɨrɨb ʃɨnɨfət wɨrɨdət ʔaɡɨɲɨtotal ləmalət jɨtʃalal |07
+LJSpeech-1.1/wavs/07_d507037.wav|jɨhe baləfut ɡizejat bɨtʃa sajɨhon ʔahunɨm ʔɨjək`ət`ələ jaləna jəmitaj ɡudaj nəw |07
+LJSpeech-1.1/wavs/07_d507038.wav|k`əriwotʃu ʔasɨfətsamiw ʔakal bəhɨɡ kətəsət`əw sɨlɨt`an saj zəl jəmijakənawɨnatʃəw təɡɨβarotʃ jɨhonalu |07
+LJSpeech-1.1/wavs/08_d508021.wav|ʔato ʔaβatə kiʃo jalə məkəsəs məβɨtatʃəw məɡəfəfun jəfederalu kəfɨtəɲa fɨrɨd bet ʔasɨtawək`ə |08
+LJSpeech-1.1/wavs/08_d508022.wav|bəlɨdʒɨnət zəmənatʃəw ɡize jəmut lɨdʒ honəwɨm baɡəɲut bɨlɨtʃ`a wədə ʔedənɨβɨra ʔɨnɨɡɨliz bəməlak jəmədʒəmərijaw təmari nəβəru |08
+LJSpeech-1.1/wavs/08_d508023.wav|bəzihɨm ləʔaɡəratʃəwɨna ləʔafɨrika mɨn jahɨl jɨtʃ`ənək`u ʔɨnɨdə nəβər ləməɡənɨzəb tʃɨjaləhu |08
+LJSpeech-1.1/wavs/08_d508024.wav|t`or silakɨβət bəɡɨβɨtsotʃ ɡuja jɨdəβək`al |08
+LJSpeech-1.1/wavs/08_d508025.wav|jəʔasɨməraw ʔamɨβasadər ləʔerɨtɨraw redɨjo jəsət`ut k`al jədipɨlomasijawi təlɨʔɨkoʔatʃəwɨn ləməfətsəm ʔɨnɨdʒi bətɨkɨkɨlɨm jəʔadis ʔaβəβaw ʔamɨβasadər jəsət`ut məɡɨlətʃ`a kəʔɨwɨnət rɨk`o ʔajɨdələm |08
+LJSpeech-1.1/wavs/08_d508026.wav|ʔaɡəre jəmət`ahu ʔalɨməsələɲɨm ʔaparɨtajɨdɨn ʔasɨtawəsəɲ |08
+LJSpeech-1.1/wavs/08_d508027.wav|sərawitu jɨx saj bək`aw ʔalək`otʃu ləwɨdɨk`ətu tət`əjak`i natʃəw bəməβal mətaməsatʃəw kəfɨtəɲa wɨt`ɨrətɨn bət`oru wɨsɨt` jasəfənə məhonum təməlɨkɨtwal |08
+LJSpeech-1.1/wavs/08_d508028.wav|ʔamɨlak məlɨʔakɨtɨn sifət`ɨr jəməlɨʔakɨt ʔalək`a hono jətəfət`ərəw ʔahun sat`ɨnaʔel jəmɨnɨləw kəjɨsi nəβər |08
+LJSpeech-1.1/wavs/08_d508029.wav|t`ənɨkara wɨ junajɨtɨd ʔɨjətənək`anək`ə nəw |08
+LJSpeech-1.1/wavs/08_d508030.wav|lidɨs dəɡɨmo wɨdɨɡet sɨmiz pol roβinɨsənɨna sɨtefən makɨfil jətəβalu wət`atotʃɨn jɨzwal |08
+LJSpeech-1.1/wavs/08_d508031.wav|budɨnu bəmat`ɨk`at laj jətəmərəkozə futɨβol nəw jəmitʃ`awətəw |08
+LJSpeech-1.1/wavs/08_d508032.wav|ləʔanɨtənəx jət`əjək`əwɨn ʔamwalɨtən wədə kɨləβu bɨnɨməlɨs wɨβə tətʃ`əwatʃotʃ məkakəl lɨjunət jɨfət`ərɨβɨnal |08
+LJSpeech-1.1/wavs/08_d508033.wav|dʒɨβuti jɨhɨn ləmɨn ʔɨnɨdəfətsəmətʃ jədʒɨβuti jəwɨtʃ` ɡudaj minisɨtər sinaɡəru ləhaɡəratʃɨn səlamɨna mərəɡaɡat ʔɨrɨmɨdʒatʃɨn fɨtɨhawi nəw bɨləwal |08
+LJSpeech-1.1/wavs/08_d508034.wav|bəzihɨm ʔitɨjop`ɨjan jətəʃalətʃ haɡər ləmadɨrəɡ bəmidərəɡəw t`ɨrət jəβəkulun ʔasɨtəwatsɨʔo jadərɨɡal bɨje ʔamɨnaləhu |08
+LJSpeech-1.1/wavs/08_d508035.wav|jəhadija lɨmat mahɨβər təfəra məke mɨkɨtɨlu dəsɨta daɲe zət`əɲɨna sɨdɨsɨt ʔamət təβəjɨnoβatʃəwal sil jɨʔaw jəzena zəɡəβa tʃ`əmɨro ɡəlɨtswal |08
+LJSpeech-1.1/wavs/08_d508036.wav|mɨn ɡizem jəriporɨtər ʔɨna jəʔemɨsisi mahɨβərəsəb ʔaβalat ləpɨrodʒəkɨtotʃu sɨketamanət kəhajɨlena kəʔaɡarotʃu ɡwən natʃəw |08
+LJSpeech-1.1/wavs/08_d508037.wav|ʔɨsɨkə ʔanɨd ʃi zət`əɲ məto sɨlɨsa sɨdɨsɨt dɨrɨs bəʔitɨjop`ɨja jənəβərəw mənɨɡɨsɨtawi sɨrɨʔat jəsiso sɨrɨʔat bəməβal jəmitawɨk` ʔɨnɨdənəβər jɨtawəsal |08
+LJSpeech-1.1/wavs/08_d508038.wav|ʔɨnɨdə təmariw ʔak`wam tɨmɨhɨrɨt ləmasɨdʒəmər jədəhɨnɨnət wasɨtɨna təsət`ɨto hulunɨm təmari jasatəfə ʔat`ək`alaj wɨjɨjɨt mədərəɡ ʔaləβət |08
+LJSpeech-1.1/wavs/09_d509021.wav|ʔonəɡ ləhulət təkəfɨlo məsɨmamat jəmajɨtʃɨlɨβət dərədʒa laj mədɨrəsun jəʔamərar ʔaβalatu ɡələtsu |09
+LJSpeech-1.1/wavs/09_d509022.wav|bənəziç t`əmamotʃ kɨfu ʔasaβiwotʃ mɨkɨnɨjat jəmɨnane hɨjɨwət jəmiɡəfuβət ʔaləm ʔɨsɨkə məhon dərɨsalətʃ |09
+LJSpeech-1.1/wavs/09_d509023.wav|ʔɨnɨdə ɡəna ʔitɨjop`ɨjawi ləməhon mədəradər jəmərət`um ʔalu |09
+LJSpeech-1.1/wavs/09_d509024.wav|kolonel mənɨɡɨsɨtu jɨhɨnɨn ɡɨlət ləʔaβɨjotu bijawɨlut silu ʔɨne ʔɨsɨkə mawɨk`əw bək`i mɨkɨnɨjat nəβəratʃəw |09
+LJSpeech-1.1/wavs/09_d509025.wav|ləʔɨnanɨtə nəɡərɨkwatʃɨhu ʔɨnɨdʒi ʔɨɡɨzijo bəlu ʔɨjalə hɨzɨβu sijasɨlək`ɨs mɨlas jəmijawət`a bahɨtawi ʔalə ʔalalɨkum |09
+LJSpeech-1.1/wavs/09_d509026.wav|nəɡərotʃɨn bət`ɨlɨk`ət məmərɨmərɨna masɨrədat jəzəwətɨr sɨrawa jəhonəw hajal bɨʔɨrəɲana bəsal ɡət`ami fɨrɨmaje ʔaləmu jəʔanɨdit set lɨdʒ ʔɨnat nəβərətʃ |09
+LJSpeech-1.1/wavs/09_d509027.wav|ʔɨnɨdə bəfitu bəʔaɡəru laj bajɨtəwarɨnətum k`ərɨtwal |09
+LJSpeech-1.1/wavs/09_d509028.wav|dəɡɨmom baluanɨna lɨdʒɨwan kəʔadʒəb məhal jəmɨtɨfəlɨɡ set baluan bɨtaɡəɲ dəs bɨluat lɨdʒɨwanɨm bɨtaɡəɲ ʔaɡəlaβɨt`a sɨma bədəsɨta talək`ɨsalətʃ |09
+LJSpeech-1.1/wavs/09_d509029.wav|ʔɨnərɨsu kəlelu waɡa jələɲɨm |09
+LJSpeech-1.1/wavs/09_d509030.wav|zare kəlejɨsɨtər ɡara kətətʃ`awətə bəhwala samɨnɨt kətʃəlɨsi jəmijadərɨɡəw jəβudɨnu dərədʒa jəmijamələkɨt jɨhonal |09
+LJSpeech-1.1/wavs/09_d509031.wav|kɨləβu zənɨdɨro ʔadʒəmaməru t`ɨru nəw |09
+LJSpeech-1.1/wavs/09_d509032.wav|ləziç wɨsane kəkaf t`əβək` jalə ʔɨrɨmɨdʒana k`ɨt`at jɨwəsənɨβɨnal jəmil fɨrɨtʃa ʔalə |09
+LJSpeech-1.1/wavs/09_d509033.wav|kəzijam bəʔanɨdanɨd ʔawɨropɨlanotʃ laj jətəwəsənu bɨlɨʃɨtotʃ təkəsɨtəwal jəmil zəɡəβa ʔɨnɨdək`ərəβə manedʒɨmənɨtu ʔasɨra sɨmɨnɨtun tekɨniʃijanotʃ lijasənaβɨtwatʃəw ʔɨnɨdəβək`u təzəɡɨbwal |09
+LJSpeech-1.1/wavs/09_d509034.wav|ɡɨnɨɲunətatʃɨn dəɡɨmo wədə mok`ə huneta təməlɨswal bɨləwal ʔanɨd kəfɨtəɲa jədʒɨβuti baləsɨlɨt`an ləʔirin |09
+LJSpeech-1.1/wavs/09_d509035.wav|jəkɨlɨlu jəsɨra k`wanɨk`wa ʔoromɨɲa ʔɨnɨdihonɨm təwəsɨnwal |09
+LJSpeech-1.1/wavs/09_d509036.wav|jəmən kəʔerɨtɨra ɡara bədəsetotʃ ɡɨtʃ`ɨt sɨlalat jət`əlatatʃɨn t`əlat wədadʒatʃɨn nəw bəmil bɨnɨjɨzat hajal tɨhonənalətʃ bəmil təsɨfa nəw |09
+LJSpeech-1.1/wavs/09_d509037.wav|mɨrɨtʃ`aw bətət`ənak`ək`ə bəsəlasa k`ənat wɨsɨt` ʔadisu jəkətəmaw mɨkɨr bet sɨrawɨn jɨdʒəmɨral |09
+LJSpeech-1.1/wavs/09_d509038.wav|ʔɨnəziç səwotʃ tʃ`ərɨsəw dʒɨl ʔadərəɡun |09
+LJSpeech-1.1/wavs/10_d510021.wav|dɨnɨβər jəmakaləlu wɨsane bəɡələlɨtəɲa jədɨnɨβər komiʃɨn ʔamakaɲɨnət bəmik`ət`ɨləw wər kəheɡ ʔɨnɨdəmiɡələts ʔaməlɨkɨtwal |10
+LJSpeech-1.1/wavs/10_d510022.wav|bəziç wɨɡija jəʔitɨjop`ɨja təwaɡi dʒetotʃ ʔɨnɨdihum jəwɨɡija helikopɨtərotʃ məsatəfatʃəwɨnɨm məɡɨlətʃ`aw ʔaməlɨkɨtwal |10
+LJSpeech-1.1/wavs/10_d510023.wav|bəziç bəhanɨtinɨɡɨtən jəsɨlɨt`anewotʃ sənɨt`ərəʒ məsərət ʔitɨjop`ɨjatʃɨn jəjətɨɲaw sɨlɨt`ane kɨβəb ʔaβal ʔɨnɨdəhonətʃ mawək`u balɨkəfa |10
+LJSpeech-1.1/wavs/10_d510024.wav|kəlaj sɨlətəɡələtsəw ʔadisu ʔajɨnət jəβɨher tʃ`ɨk`ona kɨsɨtətɨm ɡɨnɨzaβe jalatʃəw ʔajɨməsɨlum |10
+LJSpeech-1.1/wavs/10_d510025.wav|ʔɨnɨdiç jalə nəɡər ʔajɨwət`aɲɨm |10
+LJSpeech-1.1/wavs/10_d510026.wav|hulətu hajɨlotʃ bək`ɨrɨb rɨk`ət wɨsɨt` ʔɨnɨdəmiɡəɲum ləmasɨrədat jəmokərətʃɨw bəʃaʔɨβija wətadərotʃ mɨʃɨɡ wɨsɨt` bəməhon jəʔitɨjop`ɨja wətadərotʃ ʔɨnɨk`ɨsɨk`ase jɨtajal bəmalət nəw |10
+LJSpeech-1.1/wavs/10_d510027.wav|bəʔaləm laj jalu jəjəʔaɡəru mərədʒawotʃ kaluatʃəw jəmərədʒa mɨnɨtʃ`otʃ wɨsɨt` ʔanɨdu jəpɨres wɨt`et nəw |10
+LJSpeech-1.1/wavs/10_d510028.wav|bəʔerɨtɨrana bətɨɡɨraj ɡudaj jək`ərəβəlatʃəwɨna jəsət`ut məlɨs k`ət`ɨlo k`ərɨbwal |10
+LJSpeech-1.1/wavs/10_d510029.wav|bəmujaw ləβɨzu ɡize sərɨtʃaləhu |10
+LJSpeech-1.1/wavs/10_d510030.wav|bəziç laj wiʔax tədəraβi ʔat`ɨk`i hono bəmətʃ`awət laj bəməhonu ʔɨjətəmarərə nəw |10
+LJSpeech-1.1/wavs/10_d510031.wav|jəʔadis ʔaβəβa sɨtadijom təməlɨkatʃ k`era jəmil k`ɨtsɨl sɨm ʔawɨt`ɨtolɨhal |10
+LJSpeech-1.1/wavs/10_d510032.wav|kəʔak`ɨm bəlaj jəhonə tʃɨɡɨr bajɨnor noro ləmasəlɨt`ən fɨk`adəɲa nəβərɨkuɲ |10
+LJSpeech-1.1/wavs/10_d510033.wav|bəmɨn ʔɨnɨdətasəru jəmijak`ut jəməzɨɡəb bet səratəɲotʃ natʃəw |10
+LJSpeech-1.1/wavs/10_d510034.wav|tɨlanɨt t`əβək`otʃe mət`ɨtəw sɨnɨnəɡaɡər ʔɨnɨɡɨlizəɲa sɨlasɨɡəβan ʔɨne bəmɨsəmaw k`wanɨk`wa kalɨhonə ʔatɨnaɡərum ʔaləβəzijam tɨwət`alatʃɨhu bɨləw t`əβək`otʃen ʔasɨfəraruwatʃəw |10
+LJSpeech-1.1/wavs/10_d510035.wav|bəlela bəkul sɨrɨk`otɨna məsəl wənɨdʒəlotʃɨn mɨkɨnɨjat ʔadɨrɨɡwə bərɨkata jəmək`əle kətəma nəwariwotʃ bəmətafəs laj məhonatʃəw tawɨk`wal |10
+LJSpeech-1.1/wavs/10_d510037.wav|ʔawɨropɨlanu ʔɨk`atʃ`aɲ sihon bəβərəraw laj sɨdɨsɨt jəʔajər mənɨɡəd səratəɲotʃɨn ʔasafɨro nəβər |10
+LJSpeech-1.1/wavs/10_d510038.wav|kəzija wɨtʃ` jəmɨnɨləw ʔajɨnorənɨm |10
+LJSpeech-1.1/wavs/11_d511021.wav|jəsomalija mənɨɡɨsɨt haɡəritun jəʔaʃəβariwotʃ mənaʔarija ʔɨjadərəɡat nəw təβalə |11
+LJSpeech-1.1/wavs/11_d511022.wav|ləman ʔaβet malət ʔɨnɨdəmitʃalɨm ɡɨra ɡəβɨtonal bəmalət nəɡadewotʃu bɨsotatʃəwɨn ɡəlɨtsəwal |11
+LJSpeech-1.1/wavs/11_d511023.wav|ɡudajun bək`ɨrɨb ləmɨnɨkətatələw səwotʃ mɨnɨm ʔasɨdənɨɡatʃ` jɨzət jələwɨm |11
+LJSpeech-1.1/wavs/11_d511024.wav|jɨx siminɨto bahɨr dar lajɨm jəmiʃət`əw bəsɨlɨsa ʔamɨsɨt bɨr nəw |11
+LJSpeech-1.1/wavs/11_d511025.wav|səlam ləʔɨnanɨtə jɨhun ʔɨdɨmɨtəɲotʃe ʔɨne ʔaʃɨmurəɲaw ləʔɨnanɨtə səlamɨna t`enawɨn ʔɨməɲaləhu |11
+LJSpeech-1.1/wavs/11_d511026.wav|ʔitɨjop`ɨja səlam fəlaɡi bəməmɨsəl ʔɨjadərəɡətʃ jalətʃɨwɨn dəβa ləmamɨkənɨna sosɨtəɲawɨn zur wərəra ləmədəmɨsəs zɨɡɨdʒu nən silum tədəmɨt`əwal |11
+LJSpeech-1.1/wavs/11_d511027.wav|jɨhɨn modaliti ləmasɨfətsəm halafinət jətət`aləβatʃəw jəʔalɨdʒərijaw pɨrezidanɨtɨna ʔadisu jəʔaʔad wana tsəhafi natʃəw |11
+LJSpeech-1.1/wavs/11_d511028.wav|wərɨk`ɨna bɨr bunana ʔahɨl ɡamoɡwəfa ʔalə bəmil ʃɨfan dəβɨdaβem ʔɨjətsafə jədɨβɨk` mahɨβər ʔak`wak`wamə |11
+LJSpeech-1.1/wavs/11_d511029.wav|sɨjum nəw jətsafəw bɨlo tsɨhufun ʔajɨtʃe jəʔɨrɨsu ʔaləməhonun sɨnəɡɨrəw ʔɨne jəmawɨk`əw nəɡər jələm nəw jaləɲ |11
+LJSpeech-1.1/wavs/11_d511030.wav|budɨnu bəʔɨnɨɡɨliz kalut kɨləβotʃ bəʔakal bɨk`atu bəkul jətəwat`alətɨna disɨpɨlinɨn mərɨho jadərəɡə ʔɨnɨdə nəβər jɨnəɡəral |11
+LJSpeech-1.1/wavs/11_d511031.wav|ʔahun baləβət huneta kək`ət`ələ tʃ`ɨraʃunu wɨdɨdɨru ʔɨnɨdajɨt`əfa jasəɡal |11
+LJSpeech-1.1/wavs/11_d511032.wav|budɨnu badərəɡatʃəw sosɨt tʃ`əwatawotʃ wɨsɨt` hulətun ʔatʃa siwət`a bəʔanɨdu təʃənɨfwal |11
+LJSpeech-1.1/wavs/11_d511033.wav|jəʔedɨs bəʃɨtana jəʃaʔɨβija wərəra tsərə lɨmat natʃəw |11
+LJSpeech-1.1/wavs/11_d511034.wav|ʔɨnɨdə dipɨlomatu kəhonə jəʃaʔɨβija baləsɨlɨt`anat jəʔitɨjop`ɨja t`or ʔasəβɨn ləməjaz k`orɨt`wal bɨləw ʔɨrasatʃəwɨn ʔasamɨnəwal |11
+LJSpeech-1.1/wavs/11_d511035.wav|wədə tɨwɨlɨd mənɨdəratʃəw jəmikədutɨn madən k`ərɨto ləsɨmɨnɨtəɲaw zur jəsawa sɨlɨt`əna təməlɨmaj ləmaɡɨɲət mətʃəɡəru təzəɡɨbwal |11
+LJSpeech-1.1/wavs/11_d511036.wav|jədɨrɨdʒɨtatʃɨn hɨɡ ʔasɨkəβari hajɨl ʔodit komiʃɨn bənəsu laj fɨrɨdun sijasarɨf dɨrowɨnɨm ʔɨjawək`u kudeta jadərəɡu bəməhonatʃəw lik`əβəlu ʔalɨfələɡum |11
+LJSpeech-1.1/wavs/11_d511037.wav|sɨləziç ɡudaj ʔanɨd baləsɨlɨt`an sinaɡəru mənɨɡɨsɨt bəwɨsɨt` k`ɨrane wɨsɨt` nəw bəmalət ʔaɡat`amiwɨnɨna ʔɨdɨlun ləmət`ək`əm fəlɨɡəw nəβər bɨləwal |11
+LJSpeech-1.1/wavs/11_d511038.wav|ʔaləzija kəɡuβaʔewotʃatʃəw kəsɨβɨsəβawotʃatʃəwɨna kədisɨkuratʃəw ləhɨzɨβɨna ləʔaɡər jətərəfə nəɡər ʔalajənɨm |11
+LJSpeech-1.1/wavs/12_d512021.wav|jədɨnɨβər makaləl hidətun bəʔafat`aɲ ɡɨβun ʔɨnɨdiməta ʔaləm ʔak`əfu hɨβərətəsəβun ʔasɨfəlaɡiwɨn ʔɨɡəza ʔɨnɨdijadərɨɡ t`ɨri jɨk`ərɨβal |12
+LJSpeech-1.1/wavs/12_d512022.wav|bətətʃ`əmarim jəβanɨk k`ɨrɨnɨtʃ`afotʃ bəleləβatʃəw ʔakaβaβiwotʃ jəβɨr ləwɨt`u jəmitəɡəβɨru sosɨt məto jəmidərɨsu ɡizejawi jəmələwawətʃ`a t`aβijawotʃ məzəɡadʒətatʃəwɨn ʔato duβalə ʔasɨrədɨtəwal |12
+LJSpeech-1.1/wavs/12_d512023.wav|jɨx dəɡɨmo jəʔanɨd ʔɨmɨnət təkətajɨnətatʃəwɨn ʔɨnɨdʒi jəhɨzɨβu mət`ərija hono lijaɡələɡɨl jəmitʃɨl sɨjame ʔɨnɨdalɨhonə ɡɨlɨts nəw |12
+LJSpeech-1.1/wavs/12_d512024.wav|mədʒəmərija nəɡər jɨhɨnɨn hɨɡə mənɨɡɨsɨt mək`əβəl malət jəwəjanen jəpolətika pɨroɡɨram mək`əβəl malət jɨhonal |12
+LJSpeech-1.1/wavs/12_d512025.wav|jəʔonəɡ tat`ak`iwotʃ bəkenɨja wətadərotʃ təkəβəβu |12
+LJSpeech-1.1/wavs/12_d512026.wav|bətətʃ`əmari ɡazet`əɲa tamɨrat zuma jəʔasɨra sɨdɨsɨt ʃi bɨr was bəmat`atu ləkəfɨtəɲa ʔɨsɨrɨna sɨk`aj mədarəɡu jɨtawəsal |12
+LJSpeech-1.1/wavs/12_d512027.wav|bəlɨməna ɡizejatʃɨnɨn mat`ɨfat jələβɨnɨm jəmil wəre jəmijaraɡɨβu ʔɨnɨdalu jasɨtawək`əw ʔitəpodɨx jəhɨβɨrətu jətɨɡɨl sənəd jaləɡəβatʃəw natʃəw bɨluatʃəwal |12
+LJSpeech-1.1/wavs/12_d512028.wav|t`urətaw ʔɨnɨdikəβərɨlət jəmajɨfəlɨɡ manɨm jələm |12
+LJSpeech-1.1/wavs/12_d512029.wav|mat`ɨk`atun jədʒəmərətʃɨw ʔitɨjop`ɨja nat |12
+LJSpeech-1.1/wavs/12_d512030.wav|ɡɨn jɨx hulu wɨʃət nəw |12
+LJSpeech-1.1/wavs/12_d512031.wav|bəzɨɡ sɨtadijom tʃ`əwatawotʃ jəmikənawənut budɨnun ləmək`ɨt`at honə təβɨlo bəfedereʃɨnu ʔalijam bəkonɨfedereʃɨnu wɨsanew sisət` nəw |12
+LJSpeech-1.1/wavs/12_d512032.wav|jəmɨna k`ərɨβəw hasab bəʔitɨjop`ɨja futɨβol federeʃɨn zənɨd tək`əβajɨnət jaɡəɲal bɨlən ʔɨnɨɡəmɨtalən |12
+LJSpeech-1.1/wavs/12_d512033.wav|k`ɨdus ɡijorɨɡis bəzənɨdɨro wɨdɨdɨr laj t`ənɨkara təfokakari ləməhon jəβanɨkotʃun ʔanɨtənəx fələk`ənɨna jəʔitɨjop`ɨja buna tewodɨros bək`ələn ʔasɨkoβɨlɨlual |12
+LJSpeech-1.1/wavs/12_d512034.wav|bəʔɨsɨraʔel ʔirak` ʔiranɨn rusija ruwanɨda malaʒɨja liβija laʔos sɨpen sorija wəzət ɡazet`əɲotʃ ʔɨnɨdə lɨb jəmənɨk`əsak`əsu ʔɨdɨl ʔɨnɨdəlelatʃəw dɨrɨdʒɨtu zəɡɨbwal |12
+LJSpeech-1.1/wavs/12_d512035.wav|bəwək`ɨtu jət`əlat sərawit jətʃ`anu jəmiɡəɲuβatʃəwɨn kəsəlasa bəlaj jət`əlat məkinawotʃɨn ʔaɡajɨtəwal |12
+LJSpeech-1.1/wavs/12_d512036.wav|jɨhɨnɨn bətəmələkətə kəwɨtʃ` ɡudaj minisɨter maβɨrarija ləmaɡɨɲət jadərəɡəw t`ɨrət ʔalɨtəsakam |12
+LJSpeech-1.1/wavs/12_d512037.wav|ɡɨn ʔɨnəsu ʔafənɨɡɨt`əw bajɨwət`u lɨjunətu mət`ɨβəb jɨtʃɨl nəβər |12
+LJSpeech-1.1/wavs/12_d512038.wav|bətələj kəʔihadeɡ baləsɨlɨt`anotʃ ɡar ʔaβɨrəw sisəruna sijaseru bɨzu ʔamət k`ojɨtəwal |12
+LJSpeech-1.1/wavs/13_d513021.wav|ʔahunɨm bihon baləfut ʔasɨrɨt ʔamətat ʔɨnɨdadərəɡətʃɨw hulu bəsomalija səlam ʔɨnɨdisəfɨn tɨsəralətʃ bɨləwal |13
+LJSpeech-1.1/wavs/13_d513022.wav|ləʔaɡəratʃɨn polətika jəʔɨnɨdʒəra lɨdʒ honənal jəmilu wəɡənotʃ bɨrət manɨsatatʃəwɨn ʔɨjənəɡərun nəw |13
+LJSpeech-1.1/wavs/13_d513023.wav|bəsosɨtəɲaw dərədʒa dəɡɨmo ʔamɨβaɡənənun sɨrɨʔat bəsɨmu jəmit`əra bəməhonum ʔaβɨzaɲaw ʔitɨjop`ɨjawi jakəβɨrəwal |13
+LJSpeech-1.1/wavs/13_d513024.wav|zare bərɨkata tʃɨɡɨrotʃ kəfitatʃɨn tədək`ɨnəwal |13
+LJSpeech-1.1/wavs/13_d513025.wav|bək`a ʔɨnɨdə fərədəβɨɲ ʔɨne ʔɨfəlɨɡaləhu jɨlal zəβəɲaw jəʔahunun baləsɨlɨt`an wəjɨnɨm ɡumɨtu təɡadalaj |13
+LJSpeech-1.1/wavs/13_d513026.wav|jəʃex ʔalamudin haβɨt bəsənɨt`ərəʒu laj jətəmələkətəw bɨtʃa ʔɨnɨdalɨhonəna jɨx zɨrɨzɨr bətəɡəɲə mərədʒa laj bɨtʃa təməsɨrɨto jətət`ənakərə məhonun ləmərədat tətʃɨlual |13
+LJSpeech-1.1/wavs/13_d513027.wav|ʃatʃ`ɨm ɡəʒim kəziç kətəfək`ədəw bota bək`ər kəlela zənɨd sɨtɨɡəza jətəɡəɲəx səw bəkəβɨtɨx tɨk`ət`aləx |13
+LJSpeech-1.1/wavs/13_d513028.wav|mənɨɡɨsɨt jəmələsatʃəw jəβetə kɨhɨnət hɨnɨtsawotʃ kəʔaβa p`awɨlos ʔɨdʒ ʔɨnɨdəmajɨwət`u təɡələtsə |13
+LJSpeech-1.1/wavs/13_d513029.wav|wɨt`etu jət`əməməβətɨn livərɨpul jək`ədɨmow zɨnawɨn ləmasɨmələs ʔɨnɨdəmit`əru jɨnaɡəralu |13
+LJSpeech-1.1/wavs/13_d513030.wav|tekɨniʃanu ʔasɨton vilan bəɡənɨzəb məɡudat ʔajaʃam |13
+LJSpeech-1.1/wavs/13_d513031.wav|ʔɨziç laj ɡuri mijo k`əri hulət tʃ`əwata ʔalə wɨ |13
+LJSpeech-1.1/wavs/13_d513032.wav|kəʔahun wədija təməlɨkatʃun wədə meda ləməmələs mɨnɨm ʔajɨnət məfɨtɨhe lijaβədʒulət ʔajɨtʃɨlum |13
+LJSpeech-1.1/wavs/13_d513033.wav|bəβɨzat ɡɨn bəjəmənɨɡədu dar bəjəβərənɨdaw lajɨm ləmadər bəməkəlɨkəlatʃəw maj hab hab jətəβalə jəkətəmaw k`oʃaʃa mat`ərak`əmija bota jəmijadɨru məhonun ɡəlɨt`əwal |13
+LJSpeech-1.1/wavs/13_d513034.wav|jəmənɨɡɨsɨt ɡazet`əɲaw ʔihɨʔadeɡɨn bəzərəɲɨnət kəsəsə |13
+LJSpeech-1.1/wavs/13_d513035.wav|ritʃarɨd buʃɨr wɨjɨjɨtu ɡənɨβi ʔɨnɨdə nəβərə biɡəlɨtsum zɨrɨzɨr ɡudajotʃɨn kəmasɨrədat tək`ot`ɨβəwal |13
+LJSpeech-1.1/wavs/13_d513036.wav|pɨrezɨdanɨt kamɨpawore kəʔɨsatʃəw ɡar wədə ʔitɨjop`ɨja na ʔerɨtɨra ʔɨnɨdimət`u təmat`ɨnəwatʃəw nəβər |13
+LJSpeech-1.1/wavs/13_d513037.wav|jətsət`ɨtaw mɨkɨr bet masasəβija lakə |13
+LJSpeech-1.1/wavs/13_d513038.wav|ʔamɨsɨtəɲaw ɡɨβɨtsawi sihonu daɡɨm ləməmərət` ʔɨnɨdəmajɨfəlɨɡu tawɨk`wal |13
+LJSpeech-1.1/wavs/14_d514021.wav|lidərəɡ lətasəβəw ləwɨt` t`ɨnatɨna zɨɡɨdʒɨtun ʔɨjətəɡəβadədə nəw bɨləwal |14
+LJSpeech-1.1/wavs/14_d514022.wav|dənɨβe mənɨɡul bəʔawəzaɡaβiwa jəβadɨmə mənɨdər ʔakaβaβi ʔarat məto metɨr jahɨl ləʔerɨtɨra wədə təwəsənəw ɡɨzat ɡəβa bɨla jəmɨtɨɡəɲ nat |14
+LJSpeech-1.1/wavs/14_d514023.wav|sɨləzihɨm jəβet sɨrawɨn sajɨsəra jətɨmɨhɨrɨt ɡize jədərəsəβət təmari məsɨlual |14
+LJSpeech-1.1/wavs/14_d514024.wav|sɨlə t`orɨnətu mənaɡər bəʔɨnəsu sɨləmijamɨr ɡudajun ləʔɨnəsu mətəw bəfək`ədɨku |14
+LJSpeech-1.1/wavs/14_d514025.wav|jəʔitɨjop`ɨja hulət təwaɡi dʒətotʃ bəʔasɨra hulət bonɨb jəʔasəβɨn ʔajər t`aβija məmɨtatatʃəw tərəɡaɡət`ə |14
+LJSpeech-1.1/wavs/14_d514026.wav|jəβahɨr bər binorən jɨt`ək`ɨmənal |14
+LJSpeech-1.1/wavs/14_d514027.wav|bəzihu sɨβɨsəβa laj jəkenɨjana jəruwanɨda minisɨtɨrotʃ jalɨtəɡəɲu sihon jəhulətum mənɨɡɨsɨtat təwəkajotʃ ɡɨn bəsɨβɨsəβaw laj məɡəɲətatʃəw tawɨk`wal |14
+LJSpeech-1.1/wavs/14_d514028.wav|jɨhɨn ʔɨnɨdə ʔasɨfəlaɡinətu bəʔakaβaβiw mujawɨna bɨk`atu jəlelatʃəw səwotʃ wəjɨm bəmifələɡəw mət`ən bəmajɨɡəɲuβət wək`ɨt jəwɨtʃ` zeɡwətʃ jəmisatəfɨβət ʔɨdɨl jɨnoral |14
+LJSpeech-1.1/wavs/14_d514029.wav|kəʔadis ʔaβa wədə dʒɨma bəmiwəsɨdəw mənɨɡəd hamɨsa ʔamɨsɨt kilo metɨr bəmɨtɨɡəɲəw bətədʒi kətəma ʔakaβaβi bɨzu səwotʃ motəwal təβɨlual |14
+LJSpeech-1.1/wavs/14_d514030.wav|ɡɨn bət`am t`ɨru jɨhonal jəmil hasab ʔalɨnəβərəɲɨm |14
+LJSpeech-1.1/wavs/14_d514031.wav|hulatʃɨnɨm kəsɨhɨtətotʃatʃɨn ʔɨnɨdɨnɨmar jadərɨɡənal |14
+LJSpeech-1.1/wavs/14_d514032.wav|buna ɡəβəja ʔadəɡəɲa jəmiləw zematʃəw bətələj mətawək`ijatʃəw honwal |14
+LJSpeech-1.1/wavs/14_d514033.wav|lətʃɨɡɨru bəɡwə mɨlaʃ maɡɨɲət jəmitʃaləw kəkaf zənɨd nəw |14
+LJSpeech-1.1/wavs/14_d514034.wav|bəziç rəɡəd ʔaj ʔem ʔef ʔɨk`ɨdu jəmisət`əw bɨdɨr bədɨrɨdʒɨtu tɨʔɨzaz ʔɨsɨkalɨtəfətsəmə dɨrəs jənətsa ɡəβəjawɨn mərɨx maraməd ʔajɨtʃɨlɨm |14
+LJSpeech-1.1/wavs/14_d514035.wav|ʔamɨβasadər badɨr bəhulət ʔaɡərotʃ jalu jənɨɡɨd səwotʃ jəβələt`ə ləməsɨrat ʔɨnɨditʃɨlu ʔaɡat`amiwotʃ mət`ək`əm ʔɨnɨdəmitʃɨlum ʔasɨmɨrəwɨβətal |14
+LJSpeech-1.1/wavs/14_d514036.wav|bəhɨɡ mədɨrək jətədərəɡəw tɨɡɨl fɨtɨx təɡəɲəβətɨm ʔalɨtəɡəɲəβətɨm wətʃ`i jəmidərəɡɨβət nəw |14
+LJSpeech-1.1/wavs/14_d514037.wav|kəʃaʔɨβija ʔamɨlɨt`əw jəmən jəɡəβu ʔitɨjop`ɨjawɨjan wədə haɡəratʃəw ɡəβu |14
+LJSpeech-1.1/wavs/14_d514038.wav|bək`ədada jəmiɡəβa nɨtsux ʔajər taɡəɲalətʃɨna |14
+LJSpeech-1.1/wavs/15_d515021.wav|ləʔikonomiw ʔɨdɨɡət mətʃ`əmər masaja bəɡɨβɨrɨnaw zərɨf ɡəβəja ʔat`a ʔɨnɨdʒi mɨrɨt tʃ`əmɨrwal |15
+LJSpeech-1.1/wavs/15_d515022.wav|ʔarɨtisɨt sɨləʃiç bəpolətika wɨsɨt` təsatɨfo jalatʃəw ɡɨləsəβotʃ bəhalafinət mək`əmət` ʔɨnɨdəleləβatʃəwɨm t`ək`umwal |15
+LJSpeech-1.1/wavs/15_d515023.wav|bətələj bədəβub bəkul balaβatotʃ kəfɨtəɲa hukət ʔɨjəfət`əru nəβər |15
+LJSpeech-1.1/wavs/15_d515024.wav|bəziç ɡɨnɨβar jəras ʔanəsaʃɨnətu bəsudan sərawit ʔɨdʒ ʔɨnɨdəhonə ləmanɨm ɡɨlɨts nəw |15
+LJSpeech-1.1/wavs/15_d515025.wav|jəʔitɨjop`ɨja mənɨɡɨsɨt dəβub ʔafɨrika koronel mənɨɡɨsɨtun ʔasalɨfa ʔɨnɨdɨtɨsət`at t`əjək`ə |15
+LJSpeech-1.1/wavs/15_d515026.wav|bəmɨkɨr betu wənɨβər ʔanəsɨtəɲa k`ut`ɨr jalatʃəw tək`awamiwotʃ jəpolətika parɨtiwotʃ bəɡɨmɨɡəmaw təsatafi ʔalə məhonatʃəw k`ɨreta ʔɨnɨdasadərəβatʃəw kəparɨtiwotʃu ʔaβalat ləmawək` tətʃɨlual |15
+LJSpeech-1.1/wavs/15_d515027.wav|bəzihɨm məɡɨβat ʔatɨtʃɨlɨm siβal jəriporɨtər ɡazet`a wana ʔazəɡadʒ jaləmɨnɨm t`ɨjak`e təfətɨʃəw liɡəβu mətʃalatʃəw t`ək`umwal |15
+LJSpeech-1.1/wavs/15_d515028.wav|kəzija bətəɲatʃɨβət t`əβɨsɨk`a kəʔalɨɡa ɡar ʔat`aβɨk`a bəməjaz ʔanɨɡətwan bəβila mək`urət` tɨdʒəmɨralətʃ |15
+LJSpeech-1.1/wavs/15_d515029.wav|jɨhɨnɨn jəʔitɨjop`ɨja wətadərotʃ ʔɨrɨmɨdʒa jəsumale lanɨd tət`əri ʔɨwɨnət silu ʔɨnɨdarəɡaɡət`ut jəβiβisi redɨjo jəharɨɡesa wɨzəɡaβi basaləfəw jəsɨlɨk zena laj ɡəlɨtswal |15
+LJSpeech-1.1/wavs/15_d515030.wav|kəkwas hwala sirot`u jəmisɨtəwalut bəfitɨm ʔahunɨm haja hulət tətʃ`awatʃotʃ natʃəw |15
+LJSpeech-1.1/wavs/15_d515031.wav|ʔɨnɨdə təmələkətɨnəw ʔasəlɨt`aɲ təsɨfaje ʔɨsɨkə ʔɨrəfɨt kəmək`əmətʃ`aw ʔalɨtənəsam nəβər |15
+LJSpeech-1.1/wavs/15_d515032.wav|bəziç səmon nəw kəkwas ɡar jətəjajazə lɨmɨmɨd məsɨrat jədʒəmərɨnəw |15
+LJSpeech-1.1/wavs/15_d515033.wav|kəziç bəfit jɨhɨn ʔajɨnət ʔɨdɨl ʔaɡɨɲɨtəw kətəɡwazut məkakəl ʔanɨdanɨdotʃu bətɨmɨhɨrɨtatʃəw bəməɡɨfat jəmədʒəmərija diɡɨrijatʃəwɨn ʔaɡɨɲɨtəwal |15
+LJSpeech-1.1/wavs/15_d515034.wav|ʔitɨjop`ɨjawijan dʒəɡɨnotʃ məhonatʃɨn lɨnasajatʃəw jɨɡəβanal |15
+LJSpeech-1.1/wavs/15_d515035.wav|məfɨtɨhe jəmidərəɡɨlət kəhonə jəʃaʔɨβija ʔɨdʒotʃ wəj məsəβɨsəb ʔalijam mək`orət` ʔaləβatʃəw |15
+LJSpeech-1.1/wavs/15_d515036.wav|jətɨɡɨraj hɨzɨb dɨrɨdʒɨt ʔɨjə ɡwədana ʔɨjak`osələ ʔɨnɨdʒi ʔaladanəwɨm |15
+LJSpeech-1.1/wavs/15_d515037.wav|putɨlanɨd jəmɨtɨɡəɲəw ɡalakaje ʔɨsɨki dərɨsu dɨrəs jəʔitɨjop`ɨja məkəlakəja hajɨl ʔɨnɨdadʒəβatʃəw tawɨk`wal |15
+LJSpeech-1.1/wavs/15_d515038.wav|jɨhun ʔɨnɨdʒi jɨx ʔaβaβal ʔɨnɨdə sɨhɨtət ʔɨnɨdal tək`ot`ərə tənɨtsəβa rɨk`wal |15
+LJSpeech-1.1/wavs/16_d516021.wav|jəʔajɨnəsɨwɨran jəβɨral ɡazet`ana jəɡulɨx hɨtɨmət mədʒəmər zare bəhilɨtən hotel jɨfa ʔɨnɨdəmihon jəʔitɨjo niwɨs jəβɨral ɡazet`a wana ʔazəɡadʒ ɡələtsu |16
+LJSpeech-1.1/wavs/16_d516022.wav|mɨkɨr betu kəziç k`ədəm jək`ərəβələtɨn jəʔoditər riporɨt məsərət ʔadɨrɨɡwə mɨn ʔɨrɨmɨdʒa wəsədə bəmalət ləʔafə ɡuβaʔew t`ɨjak`e k`ərɨbwal |16
+LJSpeech-1.1/wavs/16_d516023.wav|wədə ʔasɨməra kəɡəsəɡəsɨn kətowɨnɨm ʔaləm ʔak`əf maʔɨk`əb jɨt`alɨβatʃəw jəmil wɨsane jɨsət`ɨβɨnal |16
+LJSpeech-1.1/wavs/16_d516024.wav|kɨlasɨtər bomɨb bətɨɡɨraj nəwariwotʃ laj ʔɨnɨdətəwərəwərə jəsəmahut ʔɨziç ʔamerika jəmitatəmu ɡazet`otʃɨna radijowotʃ bəsəfiw sizəɡɨβu nəw |16
+LJSpeech-1.1/wavs/16_d516025.wav|dʒeneralu ʔajajɨzəwɨm bətɨnanɨtu ʔajər t`ɨk`at bəʔerɨporɨt ʔakaβaβi jəmiɡəɲ ʔanɨd ɡɨzuf jət`or məsarija məɡazən məɡajətunɨm ʔaβɨrarɨtəwal |16
+LJSpeech-1.1/wavs/16_d516026.wav|jətɨranɨsu ɡɨb t`əβak`i kətəməlɨkatʃ ʔadɨnak`otɨn tətʃɨrotal |16
+LJSpeech-1.1/wavs/16_d516027.wav|ʔɨnəɲihɨn bəməlaw jəʔitɨjop`ɨja hɨzɨb sɨm səmaʔɨt jəhonutɨn ʔarɨβəɲa təɡadɨloʔatʃəwɨn ləmasanəs jətak`ədə sera nəw bəmil k`ɨretawɨn ɡəlɨt`wal |16
+LJSpeech-1.1/wavs/16_d516028.wav|jəʔisiʔe sekuritu halafi jətəzaβa zena təlalɨfwal ʔalu |16
+LJSpeech-1.1/wavs/16_d516029.wav|ʔanɨdem ɡɨn tək`əβajɨnət lijaɡəɲ ʔalɨtʃaləm |16
+LJSpeech-1.1/wavs/16_d516030.wav|ʔɨwɨnətawɨnɨm bəʔalax sɨm ʔarəɡaɡɨt`ɨlɨɲ |16
+LJSpeech-1.1/wavs/16_d516031.wav|bəβɨherawi liɡu kəkətəma wədə kətəma məzəwawəru tətʃ`əmari wətʃ`i jasɨkətɨlɨβɨnal |16
+LJSpeech-1.1/wavs/16_d516032.wav|jəhulɨɡize jəjɨx jɨmwalalɨn t`ɨjak`e dokɨtər məkonɨnɨna jəβudɨn məriw nazɨret bənəβərut ɡize ʔalɨtajəm |16
+LJSpeech-1.1/wavs/16_d516033.wav|vijori ləʔatɨletiko bəsɨpen liɡana bəmahɨβərəsəβu wanɨtʃ`a lisɨt wɨsɨt` təməzɨɡɨbwal |16
+LJSpeech-1.1/wavs/16_d516034.wav|ʔɨnɨdija wɨm bɨzuwotʃ ʔerɨtɨrawɨjan ʃaʔɨβija bəʔitɨjop`ɨja laj ləkəfətəw wərəram ʔɨjətət`ərat`əru məmɨt`atatʃəwɨn səmonun kəʔasɨməra jəmiwət`u wərewotʃ jasɨrədalu |16
+LJSpeech-1.1/wavs/16_d516035.wav|ɡɨn zeɡwətʃatʃɨnɨn ʔɨnɨdisət`un bɨnɨt`əjɨk`ɨm lisət`un ʔalɨtʃalum bəmalət ləviʔoʔewa zəɡaβi ɡəlɨtsəwal |16
+LJSpeech-1.1/wavs/16_d516036.wav|jəməsɨkərəm ʔanɨdun t`ɨk`at k`ədɨməw kawəɡəzut ʔaɡərotʃ ʔanɨdwa jənəβərətʃɨw sudan bəzəɡəβaw jaləməkatətuwam t`ɨjak`e jəmijasɨnəsa lihon ʔɨnɨdəmitʃɨl ʔɨnəzihu ʔasɨtəjajət sətʃ`iwotʃ t`ək`uməwal |16
+LJSpeech-1.1/wavs/16_d516037.wav|ʔarat kilona ʔamɨsɨt kilo fakulitiwotʃɨn k`aɲɨtəw ʃɨk`ɨb bəməwɨt`at bəsɨdɨsɨt kilo junivərɨsɨti ʔalɨfəw kəwət`u bəhwala zorəw jɨmələsalu |16
+LJSpeech-1.1/wavs/16_d516038.wav|nəɡər ɡɨn jəʔerɨtɨran wərəra mək`ət`əlɨm honə jəməretatʃəw ɡɨmaʃ wədə ʔerɨtɨra məkaləlɨna jəhɨzɨβatʃəw ləhulət məkəfəl jəmiwat`ɨlatʃəw ʔajɨhonɨm |16
+LJSpeech-1.1/wavs/17_d517021.wav|t`orɨnətu ʔɨnɨdəɡəna lik`əsək`əs jɨtʃɨlal |17
+LJSpeech-1.1/wavs/17_d517022.wav|bəməhonum jəʔitɨjop`ɨja mənɨɡɨsɨt ʔirob jəʔitɨjop`ɨja ɡɨzat huna ʔɨnɨdɨtɨk`ət`ɨl ʔɨrɨmɨdʒawotʃɨn məwɨsəd ʔɨnɨdaləβətɨna jədɨnɨβər komiʃɨnum jasaləfəwɨn wɨsane bədɨɡami ʔɨnɨdijat`enəw t`əjɨk`əwal |17
+LJSpeech-1.1/wavs/17_d517023.wav|ʔɨɲiç wəɡənotʃatʃɨn dəɡɨmo ʔafɨrɨsəw jəmiɡəzu honu |17
+LJSpeech-1.1/wavs/17_d517024.wav|zafotʃ tɨlɨlɨk` dɨnɨɡajotʃ wəjɨm wənɨz kalə jəʔitɨjop`ɨja dɨnɨβər nəw jɨβalal silu səmɨtʃatʃəwaləhu |17
+LJSpeech-1.1/wavs/17_d517025.wav|ʔitɨjop`ɨja luʔalawinətwan ləmasɨkəβər məβɨtum hajɨlum ʔalat |17
+LJSpeech-1.1/wavs/17_d517026.wav|bəsəmonu jədɨnɨβər wɨzɨɡɨb zurija jətət`ənakərəw zəɡəβa k`ət`ɨlo k`ərɨbwal |17
+LJSpeech-1.1/wavs/17_d517027.wav|ɡɨβɨts bəʔaβaj wɨha laj jəkota t`ɨjak`e ʔak`ərəβətʃ |17
+LJSpeech-1.1/wavs/17_d517028.wav|jəʔitɨjop`ɨja baləsɨlɨt`anotʃ jəzal ʔamɨβəsa kətəma kɨfuɲa bəʔerɨtɨrawijan kəβad məsariwotʃ mədəβɨdəbwan ʔamələkətu |17
+LJSpeech-1.1/wavs/17_d517029.wav|ɡədʒəraw təjɨzo mɨsɨkɨrotʃ k`ərɨβəw jəfɨrɨd hidətun makənawən sitʃɨlu fajɨlun zəɡɨtəw ʔɨnɨdimələs tədərɨɡwal |17
+LJSpeech-1.1/wavs/17_d517030.wav|mɨnɨm jəmitsətsɨtəɲ nəɡər jələm |17
+LJSpeech-1.1/wavs/17_d517031.wav|bəziç mɨkɨnɨjat wəsaɲ jəhonutɨn tətʃ`awatʃotʃɨn ʔɨjat`an nəw |17
+LJSpeech-1.1/wavs/17_d517032.wav|tʃ`əwataw bəʔaɡwaɡinətu bit`ək`əsɨm jərəβa ʔɨnɨk`ɨsɨk`ase sajɨtajɨβət lifətsəm tʃɨlual |17
+LJSpeech-1.1/wavs/17_d517033.wav|nəɡər ɡɨn tʃelɨsi ləʔawɨropa supər kap kətʃamɨpijənɨs liɡ ʔaʃənafi kərijal madɨrid ɡar baləβət tʃ`əwata mɨkɨnɨjat wədə lela k`ən təzəwawɨrwal |17
+LJSpeech-1.1/wavs/17_d517034.wav|ʔitɨjop`ɨja t`orɨnətun bədɨl ləməwət`at wəsaɲuna bɨtʃəɲaw ɡizewa ʔahun nəw |17
+LJSpeech-1.1/wavs/17_d517035.wav|bɨherawi jəmɨrɨtʃ`a borɨd bətədəɡaɡami masɨt`ənɨk`ək`ija bijasɨtəlalɨfɨm lisaka ʔaləmətʃalunɨna ʔɨnɨdəwɨm bəʔakaβaβiw kəmɨrɨtʃ`a ɡar bətəjajazə kəfɨtəɲa tʃɨɡɨr ʔɨnɨdajɨkəsət sɨɡatun nəw jəɡələtsəw |17
+LJSpeech-1.1/wavs/17_d517036.wav|ləziç dəɡɨmo mənɨɡɨsɨt bəʔamətʃatʃələt jəβɨdɨr ʔaɡəlɨɡɨlot mət`ək`əm jɨɡəβawal |17
+LJSpeech-1.1/wavs/17_d517037.wav|bətətʃ`əmari mənɨɡɨsɨtatɨna jəsəβɨʔawi məβɨt təmwaɡatʃ dɨrɨdʒɨtotʃ jəsudan mənɨɡɨsɨt jəʔasəratʃəwɨn ʔoromowotʃ ʔɨnɨdifəta tʃ`ana ʔɨnɨdijadərɨɡ t`əjɨk`wal |17
+LJSpeech-1.1/wavs/17_d517038.wav|ʔɨnɨdijawɨm dɨrɨɡitu ʔitɨjop`ɨja bəʔerɨtɨra laj mulu wərəra ləmadɨrəɡ ʔɨnɨdə mɨkɨnɨjat jəmɨtɨt`ək`əmɨβət nəw silu konɨnəwal |17
+LJSpeech-1.1/wavs/18_d518021.wav|bəʔɨrɨɡɨt` bəʔanɨdanɨd mɨhuran t`ɨru hasaβotʃ təsənɨzɨrəwal bɨləwal |18
+LJSpeech-1.1/wavs/18_d518022.wav|bəʔahunu wək`ɨt ʔaβɨjatə kɨrɨsɨtɨjanatu jətəzəɡuβət mɨkɨnɨjat mɨn ʔɨnɨdəhonə ʔɨnɨdinəɡəratʃəw ʔanɨdanɨd ʔaləm ʔak`əf jəwənɨɡel ʔaɡəlɨɡɨlot dɨrɨdʒɨtotʃ mənɨɡɨsɨtɨn ʔɨjət`əjək`u məhonum tawɨk`wal |18
+LJSpeech-1.1/wavs/18_d518023.wav|jalasəlasəl nəw ɡudaj bəʔamɨβaɡənənotʃɨna bət`ɨɡaβəɲotʃ t`os bəmik`ət`at`ələw ʔɨsat jəminədɨdəw jəziç zəmən jəhaɡəratʃɨn tʃ`ɨk`un məhonun nəw |18
+LJSpeech-1.1/wavs/18_d518024.wav|zare ʔamerika tək`ot`ɨto jəʔafɨrika mənɨɡɨsɨtat bəʔasɨtarak`inət təsəjɨməw ɡizejawi jətəkus mak`om sɨmɨmɨnət laj mədɨrəs məfɨtɨhe ʔajɨhon mɨ |18
+LJSpeech-1.1/wavs/18_d518025.wav|nətsa ʔamələkakətotʃɨn ləmaraməd ɡəna dʒəmariwotʃ honən bɨnɨɡəɲɨm bəzəmənawiw ʔaləm jalən hulu jəʔinɨforɨmeʃɨnɨn ʔasɨfəlaɡinət ʔat`ək`ak`əmɨn bəmiɡəβa ʔɨnawɨk`alən |18
+LJSpeech-1.1/wavs/18_d518026.wav|kəʔitɨʔop`ɨja nəhase ʔasɨra hulət k`ən ʔanɨd ʃi zət`əɲ məto zət`əna ʔanɨd wət`a |18
+LJSpeech-1.1/wavs/18_d518027.wav|jəʔɨrəfɨtatʃəwɨnɨm ɡize jəhazənunɨm sɨnəsɨrɨʔat ləmawədʒ jəβetə mənɨɡɨsɨtu mədɨf haja ʔamɨsɨt ɡize dɨmɨtsun ʔasəma |18
+LJSpeech-1.1/wavs/18_d518028.wav|betə ʔɨsɨraʔelotʃɨn ʔat`ək`alalə məwɨsəd ʔɨsɨraʔel ʔɨjat`ənatʃ nəw |18
+LJSpeech-1.1/wavs/18_d518029.wav|bəhadʒɨna ʔumɨra musɨlimotʃ hajɨmanotawi ɡɨdetatʃəwɨn ləməfətsəm bəziç tʃɨɡɨr ʔaβəsa wɨsɨt` ɡəβɨtəwal |18
+LJSpeech-1.1/wavs/18_d518030.wav|bəhaɡəratʃɨn ɡɨn jərəβa meda ʔɨnɨkwan jələnɨm |18
+LJSpeech-1.1/wavs/18_d518031.wav|bəʔat`ək`alaj bəʔɨnena bəwanaw tsəhafiw məkakəl ʔalə məɡɨβaβat sikəsət bəməhalatʃɨn t`alɨk`a jəmiɡəβa wəɡən balə mənoru tʃɨɡɨru liβaβas tʃɨlual |18
+LJSpeech-1.1/wavs/18_d518032.wav|ʔɨna bəhwala nəw sɨra ʔɨjətəfət`ərə lət jəmət`aw |18
+LJSpeech-1.1/wavs/18_d518033.wav|dɨrɨdʒɨtu bəmilan lənɨdənəna niwɨjorɨk kətəmotʃ tsɨfət betotʃ sinorut kəziç lela jət`alɨjan ʔɨɡɨr kwas liɡɨn jɨk`ot`at`əral |18
+LJSpeech-1.1/wavs/18_d518034.wav|lək`ɨsatʃəwɨna ɡɨrɨɡɨru siβərɨd lək`ən wət`an jɨx nəw ʔɨwɨnətaw ʔɨnɨdʒi zəɡɨjət bɨlən jəwət`a nəw bəsɨβɨsəβaw mək`ət`ən fəlɨɡən ʔajɨdələm |18
+LJSpeech-1.1/wavs/18_d518035.wav|ʔerɨtɨra nɨβɨrətotʃu jəʔitɨjop`ɨja ʔalə məhonatʃəwɨn ʔarəɡaɡɨt`a ləsaʔudi kəkasa kɨfɨja ɡar ʔɨnɨdəmɨt məlɨs ɡəlɨt`alətʃ |18
+LJSpeech-1.1/wavs/18_d518036.wav|k`ədəm sil minisɨtɨrotʃɨna dʒeneralotʃ ʔamɨsɨt məto metɨr kare bota bənətsa məwɨsədatʃəw jɨtawək`al |18
+LJSpeech-1.1/wavs/18_d518037.wav|ʔajajɨzom bəmɨsɨrak` məmɨhɨran masəlɨt`əɲa koledʒ səβat jəʔoromɨja təmariwotʃ kətɨmɨhɨrɨt ɡəβətatʃəw məβarəratʃəwɨnɨm ʔawɨɡɨzəwal |18
+LJSpeech-1.1/wavs/18_d518038.wav|ʔɨnɨdə ʔofiselawiw məɡɨlətʃ`a kəhonə liβijana ʔerɨtɨra bəʔikonomina bəβahɨl ɡudajotʃ laj kəɡara sɨmɨmɨnət laj dərɨsəwal |18
+LJSpeech-1.1/wavs/19_d519021.wav|jəʔakaβaβi t`ɨβək`a budɨnotʃɨna təməd diditin bəmək`awəmatʃəwɨna mənɨɡɨsɨtɨm diditin tʃəl bəmalətu saβija səwotʃ bəwəβa sijalɨk`u tɨlɨk` wənɨdʒəl nəw bəmalət wək`ɨsəwal |19
+LJSpeech-1.1/wavs/19_d519022.wav|k`ɨdus mətsɨhaf dɨhotʃɨn mənak`ɨna məzənɨɡat ʔɨnɨdəmajɨɡəβan jəmijasɨt`ənək`ɨk`ən ʔɨnɨdiç sil nəw |19
+LJSpeech-1.1/wavs/19_d519023.wav|məsɨkoβotʃɨn bəmasələf bɨtʃa ʔisajɨjas ʔitɨjop`ɨjan ləmanɨβərɨkək jɨtʃɨlalu |19
+LJSpeech-1.1/wavs/19_d519024.wav|səwɨjew bəlɨdʒɨnətu sudan bəsɨdətəɲɨnət jənorə nəw |19
+LJSpeech-1.1/wavs/19_d519025.wav|fɨjəl kəmədɨrəswa k`ɨt`əl məβət`əswa |19
+LJSpeech-1.1/wavs/19_d519026.wav|bəziç ʔasɨtakəw sɨdətəɲaw ʔɨmɨβi jaləwɨn məwatʃ`o bəɡɨd ʔɨnɨdijawat`a ləmadɨrəɡ bəwananət jətəwət`ənə sajɨhon ʔɨnɨdalɨk`ərəm ɡɨmɨtatʃəwɨn jəmijasarɨfu wəɡənotʃ ʔalu |19
+LJSpeech-1.1/wavs/19_d519027.wav|pɨrezɨdanɨtu bəzihu nɨɡɨɡɨratʃəw ʔitɨjop`ɨja jədʒɨβuti jəhɨjɨwət məsɨmər bɨtʃa satɨhon jəwədəβu səmanija kəməto bɨtʃəɲa tət`ək`ami məhonwanɨm tʃ`əmɨrəw ʔasɨrədɨtəwal |19
+LJSpeech-1.1/wavs/19_d519028.wav|kahun jətəʃalə jənɨsɨha ɡize ʔɨdɨl jəlatʃəwɨm jalut ʔɨɲiç ʔaβat mətsɨhaf k`ɨdusawi tarik bəmət`ɨk`əs nəw jətənətənut |19
+LJSpeech-1.1/wavs/19_d519029.wav|ləzeɡwətʃatʃəw jətədəladələ nuro fət`ɨrəw kətələjaju haɡərotʃ jəmət`u sɨdətəɲotʃɨn jasɨtənaɡɨdalu bəmalət bəlɨju ʔajɨn ʔɨnɨmələkətatʃəw jɨhonal |19
+LJSpeech-1.1/wavs/19_d519030.wav|bəsɨmɨnɨtəɲaw dək`ik`a laj ʔanɨd jəɡɨremijo tətʃ`awatʃ kəpenaliti wɨtʃ`i təmətɨto k`ɨt`at təɡəɲɨto k`ɨt`atum təməto bəɡɨraw k`wami bɨrət təməlɨswal |19
+LJSpeech-1.1/wavs/19_d519031.wav|bəməlaw haɡəritu jətəzərəɡa pɨrodʒəkɨt ʔalə |19
+LJSpeech-1.1/wavs/19_d519032.wav|lelaw jəmeda ɡudaj nəw |19
+LJSpeech-1.1/wavs/19_d519033.wav|haman bəβərɨɡər lajɨm ʔɨnɨdihu fawɨl bəməsɨratu bəhulət bitʃ`a kəmeda təwəɡɨdwal |19
+LJSpeech-1.1/wavs/19_d519034.wav|t`əβək`otʃatʃəw jəɡize k`ət`ərowɨn bət`ɨβɨk` tək`awəmu bətələj ʔato bitəw bəlaj bəʔɨlɨx kətənaɡərut wɨsɨt` ʔanɨkwar ʔanɨkwarun kəziç bətatʃ ʔak`ɨrɨβənəwal |19
+LJSpeech-1.1/wavs/19_d519035.wav|kɨlinɨtən bəʔitɨjo ʔerɨtɨra ɡudaj bəɡɨl ʔɨnɨdiɡəβu tət`əjək`ə |19
+LJSpeech-1.1/wavs/19_d519036.wav|hulatʃɨnɨm ʔɨnɨdətəməɲə nəw mulu bəmulu mədəmɨsəs ʔɨnɨkwan bajɨdərɨsɨβətɨm sərawitu bət`am kəβad ɡudatɨna ʔasafari ʃɨnɨfət dərɨsoβətal |19
+LJSpeech-1.1/wavs/19_d519037.wav|k`ədəm sil jət`ək`əsɨkwatʃəw hɨməmu jətsəna batʃəw wədə ʔarat məto jəmit`əɡu təmariwotʃ kəlelotʃ tələjɨtəw jəmitəɲuβət sɨfɨra təzəɡadʒɨtolatʃəwal |19
+LJSpeech-1.1/wavs/19_d519038.wav|kəβetəsəβatʃɨn məkakəl bəʔɨrɨʃa təɡɨβar laj jalɨtəsəmaratʃɨw ʔɨnatatʃɨn bɨtʃa nəβərətʃ |19
+LJSpeech-1.1/wavs/20_d520021.wav|bədɨnɨɡət jəʔanɨtɨrakɨs bakɨterija bəʔakaβaβiw sɨləmərətʃ`ətu polikɨs kəʔanɨd kəʔalɨtawək`ə səw jəsɨlɨk t`ɨri jɨdərɨsəwal |20
+LJSpeech-1.1/wavs/20_d520022.wav|kədɨnɨβər ɡɨtʃ`ɨtu maɡɨsɨt zərɨfə bɨzu t`ɨl fɨlɨf polətikawi hɨsaβewotʃ ʔɨjətəsɨtənaɡədu natʃəw |20
+LJSpeech-1.1/wavs/20_d520023.wav|sɨləhonəm jəʔahunu dɨɡaf bəjək`ənu ʔɨjətəʃərəʃərə bəməhed bət`orɨnətu laj ʔalutawi wɨt`et ʔɨnɨdajɨnorəw ʔɨfəraləhu |20
+LJSpeech-1.1/wavs/20_d520024.wav|jəmilut bəʔatʃ`ɨru dərədʒə deresa kəlɨdʒɨnət ʔɨsɨkə ʔɨwɨk`ət bək`aɲ takətəɲ sajɨlu ləʔitɨjop`ɨja siləfu hɨjɨwətatʃəw jaləfə ʔarɨβəɲa natʃəw jəmil ʔajɨnət nəw |20
+LJSpeech-1.1/wavs/20_d520025.wav|ɡuβaʔew bəʔerɨtɨrana bəʔitɨjop`ɨja ɡudaj təwəjajɨto jəʔerɨtɨra mənɨɡɨsɨt wərəran tək`awɨmwal |20
+LJSpeech-1.1/wavs/20_d520026.wav|kəzijam lənəɡadewotʃ ʔanɨd t`ərɨmus bira jəmijak`ərɨβuβət waɡa hulət bɨr kəhaja sanɨtim ɡədəma məhonun jɨnaɡəralu |20
+LJSpeech-1.1/wavs/20_d520027.wav|jəʔakaβaβiw kəfɨtəɲa balaβat malakɨʃa wəri ʔɨnɨda tawək`ut jəʔawɨropɨlan marəfijaw kəβad ʔawɨropɨlan masarəf jɨtʃɨlal təβɨlual |20
+LJSpeech-1.1/wavs/20_d520028.wav|bəlela bəkul hulətu ʔerɨtɨrana ʔitɨjop`ɨja jəɡəzwatʃəw ʔawɨroɲəlanotʃ kəʔanɨdu wana kətəma wədə lelaw jəməβɨrər ʔak`ɨm ʔɨnɨdalatʃəw bəzihu zəɡəβa tərəɡaɡɨt`wal |20
+LJSpeech-1.1/wavs/20_d520029.wav|hadʒi məhaməd wəle məlɨʔɨkɨt ʔasɨtəlaləfu |20
+LJSpeech-1.1/wavs/20_d520030.wav|ləzihɨm jɨməsɨlal banəsut nət`ɨb laj bɨzum wɨrəfa ʔalɨβəzaβatʃəwɨm |20
+LJSpeech-1.1/wavs/20_d520031.wav|bək`ɨdame jətədərəɡut ɡɨt`ɨmijawotʃ lətəməlɨkatʃu k`ut`ɨr zɨk`ɨtəɲa məhon mɨkɨnɨjat honwal |20
+LJSpeech-1.1/wavs/20_d520032.wav|kəzijam jəkɨlɨlu komiʃɨn dʒanɨmeda biro sɨləsət`ən wədəzijaw hedɨn |20
+LJSpeech-1.1/wavs/20_d520033.wav|nəɡər ɡɨn tətʃ`awatʃun jəmifəlɨɡəw kɨləβu ʔɨnɨdʒi ʔasəlɨt`aɲ ɡulet ʔalɨnəβərəm |20
+LJSpeech-1.1/wavs/20_d520034.wav|bətɨɡɨraj hɨzɨb sɨm jətək`wak`waməw ʔefərɨt ʔadis jəteleviʒɨn t`aβija likəfɨt məhonun ləɡazet`awa zena des kɨβə ʔinɨtərɨnet jədərəsəw zəɡəβa ʔamələkətə |20
+LJSpeech-1.1/wavs/20_d520035.wav|kəzihɨm lela jəteleviʒɨnwa ɡazet`əɲa ʔɨnɨɡɨdazər nəɡa ʔɨɡɨrwan ʔopɨrasijun jəhonətʃ sihon ʔahun kəʔopɨrasijonu bəhwala bədəhɨna huneta tɨɡəɲalətʃ sil t`ək`umwal |20
+LJSpeech-1.1/wavs/20_d520036.wav|zətajɨm zəɡaβi ʔɨnɨdəzəɡəβəw tɨlɨk`u jəmɨɡɨb maməlaləs təɡɨβar wədə dinan jətədərəɡəw kəhamɨsa k`ənat bəfit nəβər |20
+LJSpeech-1.1/wavs/20_d520037.wav|wədə kətəma bəmimət`u ʔɨnɨɡɨdotʃ laj dɨnɨɡat`en jɨfət`ɨral bəmil tʃɨɡɨru baləβət tafɨno ʔɨnɨdijaz tədərɨɡwal |20
+LJSpeech-1.1/wavs/20_d520038.wav|zarem jɨx tsɨhuf ʔɨsɨkə tətsafəβət dɨrəs kəʔanɨd ʃi zət`əɲ məto ʔarɨβa ʔamətə mɨhɨrət dʒəmɨro bəzihu kətəma bəmənor laj jɨɡəɲalu |20

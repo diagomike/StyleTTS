@@ -81,3 +81,23 @@ def get_image(arrs):
     ax.imshow(arrs)
 
     return fig
+
+def make_text_IPA(dataset='both'):
+    from phonemizer import phonemize
+    def do_one(filename:str):
+        ipa_text = ''
+        with open('metadata.txt', 'r') as f:
+            for line in f:
+                filename, transcription,speaker = line.strip().split('|')
+                ipa_transcription = phonemize(transcription, language='am', backend='espeak')
+                ipa_text += f'{filename}|{ipa_transcription}|{speaker}\n'
+        f.close()
+        return ipa_text    
+    if dataset == 'both':   
+        open('Data/train_list.txt','w').write(do_one('Data/train_list.txt'))
+        open('Data/val_list.txt','w').write(do_one('Data/val_list.txt'))
+    elif dataset == 'train':
+        open('Data/train_list.txt','w').write(do_one('Data/train_list.txt'))
+    else:
+        open('Data/val_list.txt','w').write(do_one('Data/val_list.txt'))
+
