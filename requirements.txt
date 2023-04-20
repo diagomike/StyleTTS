@@ -1,0 +1,11 @@
+SoundFile 
+torchaudio 
+munch 
+torch 
+pydub 
+pyyaml 
+librosa 
+attrdict
+git+https://github.com/resemble-ai/monotonic_align.git
+git+https://github.com/bootphon/phonemizer.git 
+# espeak-ng

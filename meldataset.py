@@ -8,6 +8,10 @@ import random
 import soundfile as sf
 import librosa
 
+# Commented out ponemizer
+# load phonemizer
+# import phonemizer
+
 import torch
 from torch import nn
 import torch.nn.functional as F
@@ -89,7 +93,7 @@ class FilePathDataset(torch.utils.data.Dataset):
         self.data_augmentation = data_augmentation and (not validation)
         self.max_mel_length = 192
         
-#         self.global_phonemizer = phonemizer.backend.EspeakBackend(language='en-us', preserve_punctuation=True,  with_stress=True)
+        # self.global_phonemizer = phonemizer.backend.EspeakBackend(language='en-us', preserve_punctuation=True,  with_stress=True)
 
     def __len__(self):
         return len(self.data_list)
@@ -115,7 +119,7 @@ class FilePathDataset(torch.utils.data.Dataset):
         if wave.shape[-1] == 2:
             wave = wave[:, 0].squeeze()
         if sr != 24000:
-            wave = librosa.resample(wave, sr, 24000)
+            wave = librosa.resample(y=wave, orig_sr=sr, target_sr=24000)
             print(wave_path, sr)
             
         wave = np.concatenate([np.zeros([5000]), wave, np.zeros([5000])], axis=0)
